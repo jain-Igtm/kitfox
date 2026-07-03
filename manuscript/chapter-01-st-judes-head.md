@@ -176,10 +176,6 @@ Jane brought it.
 
 The rescue building was hot, wet, and full of people not speaking unless the words had a destination. Maps covered one wall. Radios occupied a desk below a framed island standard. The same old St. Jude watched from the frame with a narrow face and an upraised object that might have been a staff if one were determined to be charitable. On jackets, caps, helmet fronts, and the side of a hard equipment case, the saint appeared again and again, multiplied into civic certainty.
 
-No one had put him on the Kitfox.
-
-No one had put anything on the Kitfox.
-
 Ruth Calder stood at the map wall with a pencil in one hand and a phone pressed between shoulder and ear. She was shorter than he had expected from her emails. That happened often with people whose writing carried no wasted motion. Her hair was wet at the temples, silver-gray, cut close. She wore an orange jacket faded at the elbows, and beneath it a dark sweater with the sleeves pushed up. Her attention moved over the room in exact increments.
 
 She looked at Jane once, took in his face, his folder, his bare feet, the medical kit, and went back to the phone.
@@ -626,20 +622,6 @@ Ruth looked at him.
 
 He lifted both hands. “I’m not saying I mind.”
 
-Jane looked toward hangar two. It waited with its corrugated door half open, dark inside except for one weak bulb near the workbench. Beyond it stood the two local aircraft with St. Jude’s severe little figure painted near their doors. The black Kitfox bore only its registration and the dull shine of rain.
-
-No standard. No saint. No claim.
-
-Ruth followed his gaze.
-
-“Most pilots put him on eventually,” she said.
-
-Jane did not ask who. He knew.
-
-“I’m not most pilots.”
-
-“No,” Ruth said. “That is one of the problems.”
-
 She turned back toward the building with his folder under her arm.
 
 Wade stayed beside the aircraft. Together, without discussing it, he and Jane rolled the Kitfox into hangar two. The tires crossed the threshold with a small wet hiss. Inside, the black wings took what little light the hangar offered and kept it. Jane secured the aircraft properly this time: chocks, straps, controls, pitot cover, door latch, cowling seam wiped dry with a rag from his pocket.
@@ -674,10 +656,6 @@ Jane took his hand away.
 
 Outside, the island standard snapped loose from its pole and opened fully in the field lights: dark blue, white border, St. Jude with his raised staff or weapon or whatever the island had agreed to call the thing so it could remain respectable. The saint faced the weather as if weather were an argument he had heard before and intended to win by endurance alone.
 
-The Kitfox carried no such mark.
-
 Jane watched the flag fold back into itself.
-
-Not yet, he thought, and disliked that the words had arrived at all.
 
 Then he lay down on the cot in his clothes, barefoot under a blanket that smelled faintly of canvas and fuel, while rain moved over the hangar roof and the black wing above him held the last of the light.
