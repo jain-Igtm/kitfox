@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0d10" />
+  <title>Kitfox — Jane the Pilot</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <nav class="topline" aria-label="Main navigation">
+        <a href="#chapter" class="nav-link">Read</a>
+        <a href="manuscript/chapter-01-st-judes-head.md" class="nav-link">Markdown</a>
+        <a href="canon/story-bible.md" class="nav-link">Story Bible</a>
+        <a href="notes/continuity-log.md" class="nav-link">Continuity</a>
+      </nav>
+
+      <p class="eyebrow">Jane the Pilot</p>
+      <h1>Kitfox</h1>
+      <p class="subtitle">A literary aviation rescue story set on St. Jude’s Head, Alaska.</p>
+      <div class="hero-card">
+        <p>
+          Jane arrives with a black modified Kitfox, a dead pair of brilliant guardians, and a dangerous amount of real competence without the permissions that are supposed to accompany it.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section class="book-panel" aria-labelledby="chapter-list-title">
+        <div>
+          <p class="section-kicker">Manuscript</p>
+          <h2 id="chapter-list-title">Chapters</h2>
+        </div>
+        <a class="chapter-row" href="#chapter">
+          <span class="chapter-number">01</span>
+          <span>
+            <strong>St. Jude’s Head</strong>
+            <em>Ten minutes after arrival.</em>
+          </span>
+        </a>
+      </section>
+
+      <article id="chapter" class="chapter" aria-live="polite">
+        <div class="chapter-title-card">
+          <p class="section-kicker">Chapter One</p>
+          <h2>St. Jude’s Head</h2>
+          <p class="chapter-note">The formatted manuscript is loaded from the canonical Markdown file in <code>manuscript/</code>.</p>
+        </div>
+        <div id="chapter-content" class="chapter-content">
+          <p class="loading">Loading chapter...</p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <p>Kitfox / Jane the Pilot</p>
+      <p><a href="https://github.com/jain-Igtm/kitfox">View repository</a></p>
+    </footer>
+  </div>
+
+  <script src="site.js"></script>
+</body>
+</html>
