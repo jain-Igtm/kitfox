@@ -2,12 +2,15 @@
 
 ## Premise
 
-Jane is a sixteen-year-old pilot who arrives on **St. Jude’s Head**, a remote Alaskan island, with a black modified Kitfox and a set of credentials that invite questions. He is not merely pretending to be capable; he is pretending to be old enough and properly licensed for people to recognize the capability that already exists.
+Jane is a sixteen-year-old pilot who arrives on **St. Jude’s Head**, a remote Alaskan island, with a black modified Kitfox and a set of credentials that invite questions. **Jane is his surname.** The given name may remain withheld or undecided for now; narration and island personnel refer to him as Jane, which gives the name a slightly formal, file-label quality.
+
+He is not merely pretending to be capable. He is pretending to be old enough and properly licensed for people to recognize the capability that already exists.
 
 The story is not about a prodigy being admired. It is about a useful boy being absorbed by a place desperate enough to use him, cautious enough to resent him, and proud enough not to say either thing plainly.
 
 ## Jane
 
+- Jane is his last name.
 - Sixteen.
 - A pilot and obsessive maintainer of his aircraft.
 - Flies a black modified Kitfox.
@@ -17,6 +20,16 @@ The story is not about a prodigy being admired. It is about a useful boy being a
 - Treats maintenance, accuracy, and usefulness as moral acts.
 - Has serious medical knowledge and field experience but is not a doctor.
 - Has a dangerous relationship with being needed; responsibility can feel like affection to him.
+
+## Arrival conditions
+
+Jane does **not** simply appear on St. Jude’s Head and get indulged.
+
+He has corresponded with Ruth Calder before arriving. Ruth knows enough from emails, attachments, references, and aircraft documents to permit him to present himself in person, but not enough to trust him. He should be addressed in correspondence as **Mr. Jane**.
+
+A serious operational problem is already happening when Jane arrives. The island’s normal air capability is compromised, the weather is closing or unstable, and the SAR group has reason to consider imperfect help. This pressure is what makes Jane’s presence possible.
+
+Acceptance should be reluctant, provisional, and operational rather than sentimental. Ruth does not bless him; she uses him because the island is short on options and because he proves useful under pressure.
 
 ## Guardians
 
