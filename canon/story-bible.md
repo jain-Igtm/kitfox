@@ -85,7 +85,7 @@ Important figures established so far:
 - Understands rules as both necessary and insufficient.
 - Will not openly clear Jane quickly, but may create carefully limited spaces in which he can become useful.
 
-### Lorne
+### Wade
 
 - Airport/SAR logistics/mechanic figure.
 - Dry, practical, observant.
