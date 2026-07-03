@@ -48,9 +48,9 @@ Her hand was cold and firm. She released his quickly.
 
 A man under the eave of the rescue building lifted a mug in what might have been greeting or warning. He was broad, bearded, wearing a fleece vest over a thermal shirt, his cap pulled low. Jane recognized the voice from the radio advisory during approach: calm through static, pretending the field had more official procedure than it did.
 
-“That’s Lorne,” Ruth said. “He answers the radio when it suits him and authority when it doesn’t.”
+“That’s Wade,” Ruth said. “He answers the radio when it suits him and authority when it doesn’t.”
 
-“Airport advisory,” Lorne called. “Logistics. Maintenance. Moral witness.”
+“Airport advisory,” Wade called. “Logistics. Maintenance. Moral witness.”
 
 Jane looked at him. “Which one issued the wind report?”
 
@@ -60,9 +60,9 @@ Jane looked at him. “Which one issued the wind report?”
 
 “It’s the only form that answered you.”
 
-Ruth said, “Lorne.”
+Ruth said, “Wade.”
 
-The mug lifted again, and Lorne retreated under the eave without moving his feet.
+The mug lifted again, and Wade retreated under the eave without moving his feet.
 
 Jane returned to the aircraft. The left wing tie-down ring was slick beneath his fingers. He looped the strap, tightened, checked the angle against the present wind and the likely shift after dark. West later, perhaps northwest if the pressure kept falling. He had read old weather logs for this field until the island’s habits began to show through their omissions. The official station treated St. Jude’s Head as one place. It was not one place. It was a ridge, a harbor, a promontory, a quarry, a north cut, a west cliff, a low fog shelf, and several private arrangements between wind and rock. The numbers described what had happened near the instruments. They did not describe what the air might do to a light aircraft descending over the quarry.
 
@@ -118,7 +118,7 @@ Ruth noticed the case he did not remove. Her eyes touched it, went back to his f
 
 “I object to pretending exposure is random.”
 
-Lorne made a sound from under the eave.
+Wade made a sound from under the eave.
 
 Ruth did not smile. “Hangar door sticks.”
 
@@ -152,11 +152,11 @@ The phrase struck harder than it should have. For a moment the rain lost texture
 
 “Then improve your design.”
 
-Lorne crossed the apron to help with the hangar door, though no one had asked him and Jane had not invited him. Pride, weighed against wind and a wet threshold, produced poor results. Jane let him take the right strut when they rolled the Kitfox forward. The tires caught once at the lip where concrete met gravel; Lorne lifted at the wing strut, Jane pushed from the left, and the aircraft moved cleanly into hangar two.
+Wade crossed the apron to help with the hangar door, though no one had asked him and Jane had not invited him. Pride, weighed against wind and a wet threshold, produced poor results. Jane let him take the right strut when they rolled the Kitfox forward. The tires caught once at the lip where concrete met gravel; Wade lifted at the wing strut, Jane pushed from the left, and the aircraft moved cleanly into hangar two.
 
 The hangar swallowed the black plane in stages: propeller, cowling, windshield, wings, tail. Inside, the Kitfox seemed larger and stranger, the black skin gathering the dim light and holding it close. Rainwater dripped from the wing roots onto concrete. The place smelled of cold metal, old fuel, damp plywood, gulls somewhere above the roofline, and solvent that should have been sealed better. Against the north wall stood a warped workbench, two coils of rope no one should trust, a plastic crate of rusting hardware, and a calendar from nine years ago showing a charter boat in bright impossible weather. Behind a plywood partition was enough dry floor for a cot if the cot were placed diagonally.
 
-“You staying here?” Lorne asked.
+“You staying here?” Wade asked.
 
 Jane checked the chocks again. “Yes.”
 
@@ -168,13 +168,13 @@ Jane kept working. “I am.”
 
 “I’m storing myself.”
 
-Lorne took a slow drink from the mug he had brought with him. “I knew you were going to say that.”
+Wade took a slow drink from the mug he had brought with him. “I knew you were going to say that.”
 
 Ruth stepped inside just far enough that rain struck the concrete behind her instead of her back. “This hangar has bad wiring, fuel residue, a west seam leak, and gulls in the roof.”
 
 “Three gulls.”
 
-Lorne looked up. “You counted?”
+Wade looked up. “You counted?”
 
 “They were loud.”
 
@@ -190,9 +190,9 @@ Lorne looked up. “You counted?”
 
 “The door latches now.”
 
-Ruth looked at Lorne.
+Ruth looked at Wade.
 
-Lorne looked toward the side door, then back at Jane with unwilling interest. “With what?”
+Wade looked toward the side door, then back at Jane with unwilling interest. “With what?”
 
 “Shim. File.”
 
@@ -226,7 +226,7 @@ He handed it over.
 
 She removed the plastic wrap carefully. That mattered. People who treated documents as paper misunderstood them. Documents were instruments for moving permission, liability, and blame from one room to another. Mishandled, they failed as surely as a corroded switch.
 
-Ruth began with the aircraft registration. Then insurance. Then maintenance. Her eyes slowed at the modification list: extended gear, larger tires, vortex generators, baggage alteration, fuel system notes, fabric repairs, modest avionics upgrade, transponder work, prop inspection. Lorne stood near the shelf pretending not to read over her shoulder. He was bad at pretending, but not aggressively bad.
+Ruth began with the aircraft registration. Then insurance. Then maintenance. Her eyes slowed at the modification list: extended gear, larger tires, vortex generators, baggage alteration, fuel system notes, fabric repairs, modest avionics upgrade, transponder work, prop inspection. Wade stood near the shelf pretending not to read over her shoulder. He was bad at pretending, but not aggressively bad.
 
 “Black,” Ruth said.
 
@@ -244,7 +244,7 @@ Jane waited.
 
 “The ocean is rarely above me.”
 
-Lorne made a small sound into his mug.
+Wade made a small sound into his mug.
 
 Ruth looked up. “Search aircraft are sometimes searched for.”
 
@@ -300,7 +300,7 @@ He could have said Anchorage. He could have said with a lawyer. He could have sa
 
 “Not necessarily.”
 
-Lorne laughed under his breath. Ruth ignored him.
+Wade laughed under his breath. Ruth ignored him.
 
 “You understand we coordinate with state troopers, Coast Guard, EMS, and occasionally FAA when someone bends enough metal to interest them.”
 
@@ -346,7 +346,7 @@ The word did not become gentler because it was accurate.
 
 “Six weeks.”
 
-Lorne shifted near the shelves. Outside the glass, someone in the main room set down a cup too hard, then quieted it with a hand. Jane felt the room beyond the office rearrange around the new information. Not gossip first. Awareness first. Fact enters, person re-sorted, eyes redirected too late.
+Wade shifted near the shelves. Outside the glass, someone in the main room set down a cup too hard, then quieted it with a hand. Jane felt the room beyond the office rearrange around the new information. Not gossip first. Awareness first. Fact enters, person re-sorted, eyes redirected too late.
 
 “Sorry,” Ruth said.
 
@@ -366,7 +366,7 @@ She read Elias’s letter to the end and placed it beside the license copy rathe
 
 “What if the lead is wrong?”
 
-Lorne sighed at the ceiling.
+Wade sighed at the ceiling.
 
 Ruth’s face remained still. “Then you will have encountered one of civilization’s older design flaws. You will still not make it worse for sport.”
 
@@ -390,7 +390,7 @@ Ruth followed his glance. “You don’t have the standard.”
 
 “Obviously.”
 
-Lorne said, “Some put him on before they learn to land here. Usually those are the ones who ground-loop in front of the fuel pump.”
+Wade said, “Some put him on before they learn to land here. Usually those are the ones who ground-loop in front of the fuel pump.”
 
 Jane looked at him. “Does he help with taxi?”
 
@@ -398,7 +398,7 @@ Jane looked at him. “Does he help with taxi?”
 
 “Then I’ll wait.”
 
-Ruth closed the folder. “Here is what I can offer without lying to anyone in a way that becomes a meeting. Ground probation. Radio log under supervision. Gear inventory. Map familiarization. Field maintenance if Lorne permits it. Observation only on calls unless a lead authorizes more. You do not fly for this organization. You do not transport patients under this organization. You do not self-dispatch because something on the radio makes you feel useful.”
+Ruth closed the folder. “Here is what I can offer without lying to anyone in a way that becomes a meeting. Ground probation. Radio log under supervision. Gear inventory. Map familiarization. Field maintenance if Wade permits it. Observation only on calls unless a lead authorizes more. You do not fly for this organization. You do not transport patients under this organization. You do not self-dispatch because something on the radio makes you feel useful.”
 
 “I don’t feel useful.”
 
@@ -408,19 +408,19 @@ He said nothing. That was closer.
 
 “One week,” Ruth said. “Then reassessment.”
 
-Lorne looked at her. “One?”
+Wade looked at her. “One?”
 
 “He’ll become a liability faster if bored.”
 
 “I’m good at boredom,” Jane said.
 
-“No,” Ruth and Lorne said together.
+“No,” Ruth and Wade said together.
 
 That annoyed him because it had rhythm.
 
 “Shoes in the main building during calls,” Ruth said. “Gear room, clinic, fuel area, broken glass, metal work, cliff calls, boat calls if marine lead says so. Hangar is your stupidity.”
 
-“Public events?” Lorne asked.
+“Public events?” Wade asked.
 
 “No,” Jane said.
 
@@ -428,7 +428,7 @@ Ruth looked at him. “We have not discussed public events.”
 
 “I’m pre-refusing.”
 
-“Efficient,” Lorne said.
+“Efficient,” Wade said.
 
 “Fine,” Ruth said, surprising both of them. “If you get tetanus, I am not filling out the report.”
 
@@ -440,7 +440,7 @@ The radio in the main room changed tone.
 
 Not volume. Tone. A channel opening under wind, then a voice cut by static. Everyone outside the office adjusted. The two men at the rope table stopped moving. The woman at the computer put one hand to her headset. The older man beneath the coat hooks opened his eyes as if waking had been part of the equipment checklist.
 
-Ruth left the office immediately. Lorne followed. Jane remained seated for half a breath, then stood and went after them.
+Ruth left the office immediately. Wade followed. Jane remained seated for half a breath, then stood and went after them.
 
 The woman at the radio was already writing. “Repeat location.”
 
@@ -458,11 +458,11 @@ Jane looked through the window toward hangar two. The black nose of the Kitfox w
 
 His body had already begun the sequence.
 
-“Stop,” Lorne said quietly.
+“Stop,” Wade said quietly.
 
 Jane turned.
 
-Lorne stood close enough that the word did not carry. His orange jacket was half zipped, his radio clipped high on his chest. The St. Jude patch on his cap had darkened with rain, the little armed figure reduced to white thread and judgment.
+Wade stood close enough that the word did not carry. His orange jacket was half zipped, his radio clipped high on his chest. The St. Jude patch on his cap had darkened with rain, the little armed figure reduced to white thread and judgment.
 
 “I didn’t move,” Jane said.
 
@@ -484,7 +484,7 @@ Jane looked back at the map. “Your boat team will be slow.”
 
 “No.”
 
-It was not Ruth who said it. Ruth was on the radio, back turned. Lorne said it quietly, almost gently, which made it more difficult to dismiss.
+It was not Ruth who said it. Ruth was on the radio, back turned. Wade said it quietly, almost gently, which made it more difficult to dismiss.
 
 “People could die while you preserve procedure,” Jane said.
 
@@ -598,7 +598,7 @@ Ana made a sound that might have been a laugh if she had respected it more.
 
 “Try for permanent,” Ruth said.
 
-The first truck returned from the north overlook with its headlights smeared by rain. Lorne climbed out stiffly, one hand pressing his cap down against the wind. He looked toward hangar two first, then through the window at Jane still seated at the radio desk. Seeing him there, he nodded once. Not approval. Confirmation.
+The first truck returned from the north overlook with its headlights smeared by rain. Wade climbed out stiffly, one hand pressing his cap down against the wind. He looked toward hangar two first, then through the window at Jane still seated at the radio desk. Seeing him there, he nodded once. Not approval. Confirmation.
 
 Jane looked away before it could become something.
 
@@ -632,9 +632,9 @@ She pointed toward a slow cooker on the side counter beside stacked paper bowls.
 
 “I’ll eat later.”
 
-“You’ll eat now or I’ll revise probation to include being fed by Lorne.”
+“You’ll eat now or I’ll revise probation to include being fed by Wade.”
 
-Lorne, across the room, said, “I’m not gentle.”
+Wade, across the room, said, “I’m not gentle.”
 
 Jane took a bowl.
 
@@ -652,7 +652,7 @@ Ruth appeared beside him without ceremony. “Seven tomorrow.”
 
 “For what?”
 
-“Map work. Gear inventory. Radio protocol. Lorne wants to argue about your brake line.”
+“Map work. Gear inventory. Radio protocol. Wade wants to argue about your brake line.”
 
 “It’s not an argument if I’m right.”
 
@@ -690,7 +690,7 @@ The barometer went on the wall last.
 
 The brass rim looked wrong against corrugated metal, too fine and too damaged, from another life but not a softer one. He adjusted it until it hung level. The needle remained low. Falling, maybe. He would need an hour to confirm movement.
 
-In the darkening hangar, the black Kitfox occupied most of the available world. It did not care what Ruth Calder suspected, what Lorne had observed, what the state required, what the Coast Guard declined, or what the saint on the island flag appeared ready to defend by force. It cared about fuel, spark, air, compression, fabric tension, control cables, corrosion, weather, weight. Its moral universe was brutally clean. Neglect punished. Care accumulated. Error waited.
+In the darkening hangar, the black Kitfox occupied most of the available world. It did not care what Ruth Calder suspected, what Wade had observed, what the state required, what the Coast Guard declined, or what the saint on the island flag appeared ready to defend by force. It cared about fuel, spark, air, compression, fabric tension, control cables, corrosion, weather, weight. Its moral universe was brutally clean. Neglect punished. Care accumulated. Error waited.
 
 Jane put his palm on the left wing strut.
 
