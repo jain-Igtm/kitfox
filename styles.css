@@ -205,7 +205,7 @@ body::before {
   border-radius: 34px;
   overflow: hidden;
   background: #ede4d3;
-  color: #191510;
+  color: #0f0c08;
   box-shadow: 0 40px 100px rgba(0,0,0,0.35);
 }
 
@@ -239,6 +239,7 @@ body::before {
   font-family: var(--serif);
   font-size: clamp(1.28rem, 2.1vw, 1.58rem);
   line-height: 1.58;
+  color: #0f0c08;
 }
 
 .chapter-content h1 {
@@ -247,6 +248,8 @@ body::before {
 
 .chapter-content p {
   margin: 0 0 1.12em;
+  color: #0f0c08;
+  font-weight: 500;
 }
 
 .chapter-content p:first-of-type::first-letter {
@@ -255,7 +258,7 @@ body::before {
   font-size: 5.4em;
   line-height: 0.82;
   font-weight: 700;
-  color: #6f4e1f;
+  color: #3a230b;
 }
 
 .chapter-content hr {
@@ -263,13 +266,13 @@ body::before {
   height: 1px;
   margin: 2.4em auto;
   width: 42%;
-  background: linear-gradient(90deg, transparent, rgba(25,21,16,0.35), transparent);
+  background: linear-gradient(90deg, transparent, rgba(15,12,8,0.48), transparent);
 }
 
 .chapter-content .loading,
 .chapter-content .error {
   font-family: var(--sans);
-  color: #5e554a;
+  color: #30271d;
 }
 
 .site-footer {
