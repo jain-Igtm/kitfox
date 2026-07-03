@@ -26,11 +26,11 @@ Static followed. Rain moved through it like sand.
 
 The woman answered. “Can you continue on foot?”
 
-“Not with the litter. Creek’s running chest-deep in the middle and undercutting. We need another way into Mercy Cove.”
+“Not with the litter. Creek is too high and still rising. We need another way into Mercy Cove.”
 
 Jane adjusted two degrees west to keep the ridge shadow from pulling him lower than he wanted. Mercy Cove. He had marked it on his paper chart in blue pencil three nights earlier, then again in black when three separate sources contradicted one another about whether the old cannery strip there still existed. On one satellite image it was gravel. On another it was grass. On a fishing forum from six years before, a man claimed he had landed a Super Cub there in a crosswind and would rather divorce a second wife than try it again. That sort of information was not reliable, but it had personality, and personality often pointed toward truth.
 
-The clinic voice returned. “Station, clinic. I need status. We have a possible femur fracture, scalp laceration, altered mentation, and hypothermia risk. If patient is still at the cove, they need transport.”
+The clinic voice returned. “Station, clinic. I need a status update. Possible leg fracture, head impact, exposure, confusion. If they’re still at the cove, they need transport.”
 
 “Understood,” said the woman.
 
@@ -114,7 +114,7 @@ The clinic voice came on. “Can aircraft see patient movement?”
 
 Jane banked shallowly for a second angle, careful not to tighten the turn into the ridge wind. “One standing waving. Kneeling person moving. Patient not visibly moving from this altitude.”
 
-The clinic swore, not loudly, and then apologized to the frequency.
+The clinic went quiet for half a second, then requested relay to Coast Guard.
 
 Ruth said, “Continue municipal.”
 
@@ -167,10 +167,6 @@ The tone did what the words did not. Jane looked at the rescue building and saw,
 He opened the baggage compartment and removed the plastic-wrapped folder. He hesitated over the medical kit.
 
 “Bring it,” Wade said.
-
-Jane looked at him.
-
-“Clinic’s on the line. If Ruth doesn’t want it, she’ll enjoy telling you.”
 
 Jane brought it.
 
@@ -226,11 +222,11 @@ Wade said, “Old utility line from cannery to pump house. Supposed to be dead. 
 
 Jane added it to the map.
 
-The radio spoke with a burst of Coast Guard static. The helicopter had launched but was weather-limited and holding east for a better report from the cove. The clinic still could not get a clear update. The person kneeling with the patient had a handheld radio but poor signal. The standing figure had managed one transmission through relay: fall injury, bleeding controlled, patient confused, cold, possible leg deformity, no safe road access.
+The radio spoke with a burst of Coast Guard static. The helicopter had launched but was weather-limited and holding east for a better report from the cove. The clinic still could not get a clear update. The person kneeling with the patient had a handheld radio but poor signal. The standing figure had managed one transmission through relay: fall injury, exposure, confusion, possible leg injury, no safe road access.
 
 Ruth turned to Jane. “What is in the kit?”
 
-He set it on the table. “Trauma supplies. Hemorrhage control. Airway basics. Splints. Dressings. Thermal. Some medications not useful here without a physician telling me to use them.”
+He set it on the table. “Trauma supplies. Airway basics. Splints. Dressings. Thermal. Some medications not useful here without a physician telling me to use them.”
 
 The radio operator looked over.
 
@@ -244,7 +240,7 @@ Ruth said, “You’re a doctor?”
 
 “Then why do you have that?”
 
-Because Elias had believed that empty space in an aircraft was a moral failure if one had ever watched a child die within reach of a supply that had not been packed. Because Mara had weighed everything and removed comfort before function. Because field clinics taught hierarchy until hierarchy went missing and then taught hands. Because after Elias died the kit had remained, and Jane had not known whether carrying it was grief, habit, or refusal.
+Because Elias had believed that empty space in an aircraft was a moral failure if one had ever seen the absence of supplies become the deciding fact. Because Mara had weighed everything and removed comfort before function. Because field clinics taught hierarchy until hierarchy went missing and then taught hands. Because after Elias died the kit had remained, and Jane had not known whether carrying it was grief, habit, or refusal.
 
 “Experience,” he said.
 
@@ -330,7 +326,7 @@ Jane kept the turn steady.
 
 The standing person below dropped to one knee.
 
-At first Jane thought he had fallen. Then the man leaned forward and pressed both hands to his own thigh, or to something against it. Blood showed dark even through the rain. The kneeling person by the tarp looked up and waved once, not toward the aircraft this time, but toward the strip.
+At first Jane thought he had fallen. Then the man leaned forward and pressed both hands to his leg. The kneeling person by the tarp looked up and waved once, not toward the aircraft this time, but toward the strip.
 
 Wade stopped transmitting.
 
@@ -392,11 +388,11 @@ Wade opened his door. “Now we report.”
 
 Jane climbed out into wet grass and gravel.
 
-The standing man was not standing anymore. He was on one knee near the edge of the strip, one hand pressed to a cut high on his thigh. Not arterial, Jane thought from the distance, then corrected himself. Not visibly arterial. The kneeling person by the patient was a woman in a soaked blue jacket, her hair plastered flat, one hand on the patient’s shoulder and the other holding a handheld radio that had gone dead or might as well have.
+The standing man was not standing anymore. He was on one knee near the edge of the strip, one hand pressed to his leg. The kneeling person by the patient was a woman in a soaked blue jacket, her hair plastered flat, one hand on the patient’s shoulder and the other holding a handheld radio that had gone dead or might as well have.
 
 The patient lay on a tarp against the cannery wall.
 
-Young man. Twenties, maybe. Pale. Eyes half open and not tracking. Blood at the hairline, diluted pink by rain. Right leg wrong at the thigh, shortened and turned in a way that made the problem obvious even before touch. Shivering had either stopped or never started strongly enough.
+Young man. Twenties, maybe. Pale. Eyes half open and not tracking. The rain had made every detail less certain except the position of his leg and the cold slackness of his hands. Shivering had either stopped or never started strongly enough.
 
 Jane reached for the medical kit that was not there.
 
@@ -416,7 +412,7 @@ Then Wade was beside him with the aircraft survival pouch, two wool blankets fro
 
 Jane took the tin.
 
-The contents were not enough. Gloves, gauze, compressed dressing, triangular bandage, trauma shears too small to respect themselves, tape, space blanket, a single tourniquet, two pairs of nitrile gloves, alcohol wipes, a pencil, safety pins, water purification tablets, an old packet of oral glucose. The sort of kit people carried to say they had one. Better than nothing. Worse than what he had left on Ruth’s table.
+The contents were not enough. Gloves, gauze, compressed dressing, triangular bandage, small shears, tape, space blanket, two pairs of nitrile gloves, alcohol wipes, a pencil, safety pins, water purification tablets, an old packet of oral glucose. The sort of kit people carried to say they had one. Better than nothing. Worse than what he had left on Ruth’s table.
 
 He put on gloves.
 
@@ -446,27 +442,13 @@ There was a silence so complete that even static seemed to step away from it.
 
 Then Ruth said, “Put clinic with Jane.”
 
-No shouting. Not yet. Shouting was for after the patient survived.
+No shouting. Not yet. Shouting was for after the patient was moving.
 
-Jane checked airway, breathing, pulse, pupils. Scalp wound first because it looked dramatic and was easiest to control. Leg second because it could kill him quietly. No obvious major external bleed from the femur. Skin cold. Pulse fast. Confused. Possible head injury. Hypothermia working. Shock either present or coming.
+Jane worked by voice and sequence. He gave the clinic what he could confirm, nothing more. He said unknown when he did not know. He said likely when he was estimating. He kept Caleb warm, kept him still, protected him from rain as best the small kit allowed, and made the improvised supplies answer questions they had not been made for.
 
-He said his findings aloud. Wade repeated them into the radio until the clinic voice came through directly, thin and professional.
+The clinic voice asked questions in order. Jane answered in order. Wade repeated what needed repeating and moved when Jane pointed, bringing driftwood, folded fabric, duct tape, and a length of aluminum conduit from the collapsed wall. Together they made a long splint ugly enough to be honest and firm enough to matter.
 
-“Jane, clinic. What are you working with?”
-
-“Minimal kit. Gauze, one tourniquet, tape, triangular, blankets, duct tape, cockpit shears. No rigid splint except what we make.”
-
-“What can you make?”
-
-Jane looked around.
-
-Cannery debris. Driftwood. Broken crate slats. A length of aluminum conduit under the collapsed wall. Wade had already moved toward it.
-
-“Long splint,” Jane said. “Improvised.”
-
-The clinic voice asked questions in order. Jane answered in order. When he did not know, he said unknown. When he guessed, he said likely. He cut wet fabric away from the scalp wound and dressed it. He wrapped Caleb in the wool blankets, then the space blanket, reflective side inward where it would do more than look official. He and Wade used two lengths of conduit padded with folded jacket material and fixed the injured leg as best they could without traction, because traction without enough hands and authority would become another injury disguised as treatment.
-
-The man with the thigh wound tried to stand and nearly fell.
+The man with the leg cut tried to stand and nearly fell.
 
 “Sit,” Jane said.
 
@@ -476,7 +458,7 @@ Wade said, “Sit down, Aaron.”
 
 Aaron sat.
 
-Blue jacket woman kept one hand on Caleb’s shoulder. She was shaking hard now that someone else had taken over the shape of action.
+The blue-jacket woman kept one hand on Caleb’s shoulder. She was shaking hard now that someone else had taken over the shape of action.
 
 “You did well,” Jane said without looking at her.
 
@@ -484,13 +466,13 @@ She began crying silently, which was inconvenient but not a problem.
 
 The helicopter came twelve minutes later.
 
-It arrived from the water side, low and loud, pushing rain outward in violent sheets. Jane stayed low over Caleb, one hand on the dressing, the other keeping the blanket from lifting. Wade moved to the strip with the orange panel the standing man had been using and marked the wire hazard from the seaward side. He did not look like a man disobeying orders. He looked like a man extending an existing mistake until it became useful.
+It arrived from the water side, low and loud, pushing rain outward in violent sheets. Jane stayed low over Caleb, one hand holding the improvised covering in place. Wade moved to the strip with the orange panel the standing man had been using and marked the wire hazard from the seaward side. He did not look like a man disobeying orders. He looked like a man extending an existing mistake until it became useful.
 
 The Coast Guard did not land. They hoisted.
 
 First Caleb. Then Aaron, who insisted he could wait and was ignored. The woman in blue remained because there was no room, then because she could walk once the road team found a foot route down from the west. When the helicopter lifted away, the cove seemed abruptly larger and less real.
 
-Jane stood beside the Kitfox with rain running off his hair, gloves bloody, shoes soaked through. The aircraft sat where he had put it, black against the wet strip, more vulnerable on the ground than it had ever looked in the air.
+Jane stood beside the Kitfox with rain running off his hair, gloves wet, shoes soaked through. The aircraft sat where he had put it, black against the strip, more vulnerable on the ground than it had ever looked in the air.
 
 Wade came to stand beside him.
 
@@ -502,25 +484,21 @@ Ruth’s voice was waiting.
 
 “Wade.”
 
-Wade closed his eyes briefly. “Here.”
+“Here.”
 
-“Is the patient airborne?”
+“Patient airborne?”
 
 “Yes.”
 
-“Is the aircraft damaged?”
+“Aircraft?”
 
-“No.”
+“Intact. Brake fitting still weeping.”
 
-“Is Mr. Jane alive?”
+“Mr. Jane?”
 
-Jane looked at him.
+Wade glanced at him. “Standing.”
 
-Wade looked back, then keyed the mic. “Unfortunately.”
-
-Another silence.
-
-“Return when safe,” Ruth said.
+“Return when safe,” Ruth said. “Not before.”
 
 The return takeoff was worse than the landing.
 
@@ -534,11 +512,13 @@ Jane lifted his hand once and got into the aircraft.
 
 The Kitfox left the cove with no elegance. It bumped, gathered, skipped once over gravel, then lifted into rain with the stall horn thinking about speaking and deciding not to. Wade did not breathe until they cleared the hook of rock.
 
-“Don’t do that often,” he said.
+“That was close,” Wade said.
 
-“I don’t.”
+“Yes.”
 
-“Good.”
+“Don’t make close a habit.”
+
+Jane kept the nose down until the airspeed was honest. “I don’t.”
 
 St. Jude’s municipal came back in a darker rain. Jane landed with the soft brake in mind and did not need it much. He rolled clear, taxied to the apron, and shut down in front of the rescue building because Ruth was already outside.
 
@@ -546,81 +526,79 @@ She stood in the rain without her hood, arms at her sides, the framed authority 
 
 Wade climbed out first.
 
-He did not give Ruth a report immediately. He looked at her and nodded once.
+Ruth did not look at Jane yet. “Report.”
 
-That nod did more damage to her anger than apology would have.
+Wade gave it to her in order. Landing surface. Patient status on arrival. Care given under clinic direction. Helicopter hoist. Aircraft condition. Brake fitting. Takeoff delay. Return flight.
 
-Jane stepped down from the cockpit. His feet touched the wet apron. This time Ruth did not look at them.
+Ruth listened without interrupting. Rain ran off the ends of her hair and darkened the collar of her jacket. When Wade finished, she looked at Jane.
 
-“You disobeyed a direct instruction,” she said.
-
-“Yes.”
-
-“You landed an uncleared aircraft on an uninspected strip during an active SAR operation.”
+“You accepted one pass with one observer,” she said.
 
 “Yes.”
 
-“You left your medical kit here.”
+“You landed.”
 
 “Yes.”
 
-“Which means you disobeyed me and still did not have the equipment you wanted.”
+“Why?”
+
+“Ground party exposed a longer strip. Aaron went down. Coast Guard reported loss of ceiling. From the second pass, the landing was possible. Not clean. Possible.”
+
+“Possible is not authorization.”
+
+“No.”
+
+“Did you believe the patient would worsen without immediate care?”
+
+Jane did not answer quickly. The question deserved its own weight.
+
+“I believed delay increased the chance of a worse outcome.”
+
+“Different answer.”
 
 “Yes.”
 
-Her face was very still. “Do you understand the problem?”
+“Better answer.”
 
-“Yes.”
+Wade looked at the ground.
 
-“No,” Ruth said. “You understand several problems. You do not understand mine yet.”
-
-Wade said, “Ruth.”
-
-“Don’t.”
-
-He stopped.
-
-The rain ran down the sides of Jane’s face and into his collar. He did not wipe it away. He could still feel the patient’s pulse under his fingers, fast and thin. He could still feel the missing medical kit like a shape cut out of his own thinking.
-
-Ruth held out her hand.
-
-Jane did not understand until Wade said, “Folder.”
+Ruth held out her hand. “Folder.”
 
 Jane handed it to her.
 
-“You will not fly for this organization,” Ruth said.
+“This is not punishment,” she said. “It is documentation. Before today, you were a civilian pilot I had exchanged emails with. Then I put one of my people in your aircraft and gave you a task inside my incident. You changed the task. Maybe correctly. Maybe not. Either way, I now have to account for you.”
 
-“No.”
+Jane said nothing.
 
-“You will not land anywhere I have not cleared.”
-
-“No.”
-
-“You will not decide that being useful gives you authority.”
-
-“No.”
-
-“You will give Wade access to your maintenance logs.”
+“If your documents fail review, that becomes its own problem. If your aircraft fails Wade’s inspection, that becomes its own problem. If your account of your medical experience does not match what the clinic heard on the radio, that becomes its own problem.”
 
 “Yes.”
 
-“You will sleep somewhere that is not my apron.”
+“And if all of it holds,” Ruth said, “that does not make you cleared. It makes you something I have to decide how to use without letting urgency write policy for me.”
 
-“I rented hangar two.”
+Jane looked at her then. She was not being cruel. She was building a fence around a fire and deciding whether the fire was worth keeping.
+
+“I understand,” he said.
+
+“I don’t think you do yet. But you understood enough in the cove to say possible instead of safe. That matters.”
+
+The rain struck the apron hard enough to bounce.
+
+Ruth looked toward the hangars. “You rented hangar two.”
+
+“Yes.”
 
 “You rented storage.”
 
 “I occupy space.”
 
-For the first time since he had heard her voice over the radio, Ruth almost smiled. It failed before becoming kind.
+For a moment, something almost changed in her face. It did not become humor.
 
-“Fine,” she said. “Store yourself. Tonight only. Tomorrow we discuss how many laws that offends.”
+“Tonight,” she said. “Because the shelter bunks are full, because half my people are still wet, and because I do not have a spare person to drive you around the harbor looking for a room you will refuse. Tomorrow we discuss what that arrangement violates.”
 
-“Several,” Wade said.
+Wade said, “It violates several things.”
 
-Ruth looked at him.
-
-He lifted both hands. “I’m not saying I mind.”
+“I know,” Ruth said.
 
 She turned back toward the building with his folder under her arm.
 
