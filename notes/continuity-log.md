@@ -27,7 +27,7 @@ Chapter One should establish:
 
 - The island’s physical reality: rain, wind, cliffs, harbor, airfield, salt, corrosion.
 - Jane’s attachment to the black Kitfox.
-- Ruth and Lorne as practical local authorities.
+- Ruth and Wade as practical local authorities.
 - The tension between Jane’s competence and his paperwork.
 - St. Jude’s standard as background civic texture.
 - Jane’s refusal to belong too quickly.
