@@ -6,6 +6,8 @@
 
 A manuscript and continuity archive for a literary aviation rescue story set on **St. Jude’s Head, Alaska**.
 
+**[Open the pretty reading site](https://jain-igtm.github.io/kitfox/)**
+
 </div>
 
 ---
