@@ -22,17 +22,17 @@ The radio spoke again.
 
 “Station, this is Ridge Two. We’re at Sisters Creek. Road is gone. Not blocked. Gone. Water took both shoulders. We can’t get the truck across.”
 
-A pause. Static filled with rain.
+Static followed. Rain moved through it like sand.
 
-The woman answered. “Copy. Can you continue on foot?”
+The woman answered. “Can you continue on foot?”
 
-“Negative, not with the litter. Creek’s running chest-deep in the middle and undercutting. We need another way into Mercy Cove.”
+“Not with the litter. Creek’s running chest-deep in the middle and undercutting. We need another way into Mercy Cove.”
 
 Jane adjusted two degrees west to keep the ridge shadow from pulling him lower than he wanted. Mercy Cove. He had marked it on his paper chart in blue pencil three nights earlier, then again in black when three separate sources contradicted one another about whether the old cannery strip there still existed. On one satellite image it was gravel. On another it was grass. On a fishing forum from six years before, a man claimed he had landed a Super Cub there in a crosswind and would rather divorce a second wife than try it again. That sort of information was not reliable, but it had personality, and personality often pointed toward truth.
 
 The clinic voice returned. “Station, clinic. I need status. We have a possible femur fracture, scalp laceration, altered mentation, and hypothermia risk. If patient is still at the cove, they need transport.”
 
-The woman on the rescue frequency said, “Understood.”
+“Understood,” said the woman.
 
 It was not a soft word. Nothing in the woman’s voice was soft. She made understood sound like a tool placed correctly on a table.
 
@@ -42,21 +42,15 @@ The voice from the harbor cut in. “Station, harbor. I’m telling you again, n
 
 “Copy harbor,” said the woman.
 
-“Do you?”
-
-“I copied the words, Ben.”
-
-Jane almost smiled. Not because it was funny. Because the exchange told him more than the chart. The island had known voices. Known refusals. People argued inside procedures without leaving them. That was useful.
-
-He changed frequency long enough to make his required position call.
+Jane changed frequency long enough to make his required position call.
 
 “St. Jude traffic, experimental seven-three-four kilo, Kitfox, ten east-northeast, eight hundred, inbound for St. Jude municipal, listening advisory.”
 
 For three seconds there was no answer.
 
-Then the man from the airfield came on. “Seven-three-four kilo, St. Jude advisory. Wind two-eight-zero at one-eight, gusting two-six. Altimeter two-niner-eight-four. Runway three-zero favored. Be advised active SAR traffic north side, no local air assets available.”
+Then the man from the airfield came on. “Seven-three-four kilo, St. Jude advisory. Wind two-eight-zero at one-eight, gusting two-six. Altimeter two-niner-eight-four. Runway three-zero favored. Active SAR north side. No local air assets available.”
 
-Jane wrote the numbers in his head and compared them against the aircraft. “Seven-three-four kilo copies. Runway three-zero. I have been monitoring SAR traffic.”
+“Seven-three-four kilo copies. Runway three-zero.”
 
 A new voice entered before the man could answer.
 
@@ -76,17 +70,15 @@ Silence. Then, flatter: “Mr. Jane.”
 
 “This is not a good time for precision.”
 
-“It usually is.”
+Jane did not answer. There was no useful answer that would not become attitude.
 
-The man from advisory made a small sound and did not transmit it fully.
+Ruth said, “Continue to St. Jude municipal. Remain clear of north-side operations.”
 
-Ruth said, “Mr. Jane, continue to St. Jude municipal. Remain clear of north-side operations.”
-
-Jane looked ahead. The cloud lifted in a strip between two rain bands and showed him the northern shoreline. The cove appeared as an indentation under a steep green-black slope, half protected by a hooked arm of rock. A line of old pilings stood just inside the mouth. The cannery buildings were still there, roofs rusted red-brown, one wall collapsed toward the beach. Above them, where the road should have entered from the east, a brown scar cut through trees and ran down into the water.
+The cloud lifted in a strip between two rain bands and showed him the northern shoreline. The cove appeared as an indentation under a steep green-black slope, half protected by a hooked arm of rock. A line of old pilings stood just inside the mouth. The cannery buildings were still there, roofs rusted red-brown, one wall collapsed toward the beach. Above them, where the road should have entered from the east, a brown scar cut through trees and ran down into the water.
 
 Mercy Cove.
 
-The old strip lay behind the cannery, parallel to the beach. It was shorter than the chart suggested and rougher than the satellite promised. Gravel showed through grass in pale wounds. Driftwood had collected along the seaward side. The west end looked wet. The east end looked worse. But the middle third was visible, and visibility was a kind of argument.
+The old strip lay behind the cannery, parallel to the beach. It was shorter than the chart suggested and rougher than the satellite promised. Gravel showed through grass in pale wounds. Driftwood had collected along the seaward side. The west end looked wet. The east end looked broken by runoff. But the middle third was visible, and visibility was a kind of argument.
 
 Jane keyed the mic. “Station, seven-three-four kilo has Mercy Cove in sight.”
 
@@ -94,45 +86,15 @@ Ruth answered at once. “Do not divert.”
 
 “I have the road washout in sight.”
 
-“Do not divert.”
+“Continue municipal.”
 
-“Old cannery strip appears partially usable. Middle section dry enough to inspect from low pass.”
+“Old cannery strip visible. I can give you one pass without landing.”
 
 A pause.
 
 The pause was not uncertainty. It was triage.
 
-“Seven-three-four kilo,” Ruth said, “you are not part of this operation.”
-
-“No.”
-
-“You are not authorized to land at Mercy Cove.”
-
-“I haven’t landed.”
-
-“You are considering it.”
-
-“Yes.”
-
-The man on advisory said, very quietly, “Jesus.”
-
-Ruth ignored him. “You will proceed to municipal unless instructed otherwise.”
-
-Jane let the aircraft ride a gust instead of fighting it too early. He could feel the cove pulling at his attention, which was dangerous. Wanting to be useful changed the shape of a place. It made runways appear longer, ceilings higher, decisions cleaner. Elias had hated that in him. Mara had named it before Elias did: eagerness disguised as calculation.
-
-He breathed once, slow.
-
-“Station,” he said, “I can give you one pass without landing.”
-
-No answer.
-
-He continued before desire could improve the offer. “I will remain offshore, north to south, not below six hundred unless you clear lower. I can report strip condition, beach access, smoke, visible persons, and whether a helicopter has a better line from west or east if the ceiling opens.”
-
-Still no answer.
-
-The Kitfox crossed the first wind line off the ridge and dropped twenty feet before he took it back. He corrected, not sharply. Sharp corrections were confessions.
-
-Ruth said, “One pass. Offshore. Six hundred minimum. You do not land. You do not become the incident.”
+“Offshore,” Ruth said. “Six hundred minimum. One pass. Do not land.”
 
 “Seven-three-four kilo copies. One pass. Offshore. Six hundred minimum.”
 
@@ -144,7 +106,7 @@ Orange, there. Not a signal panel. A jacket.
 
 He did not descend.
 
-“Station, seven-three-four kilo. Visual on three persons at Mercy Cove near cannery wall. One down on tarp. One kneeling. One standing. White pickup east side of washout, inaccessible from road. Old strip: middle portion appears unobstructed approximately three hundred feet, maybe less. Driftwood seaward side. West end wet. East end broken by runoff. Not recommending fixed-wing landing without ground inspection.”
+“Station, seven-three-four kilo. Visual on three persons at Mercy Cove near cannery wall. One down on tarp. One kneeling. One standing. White pickup east side of washout, inaccessible from road. Old strip: middle section appears partly clear, approximately three hundred feet, maybe less. Driftwood seaward side. West end wet. East end broken by runoff. Not recommending fixed-wing landing from this pass.”
 
 Ruth repeated the essentials, not to him but into the room around her. He could hear the difference.
 
@@ -154,9 +116,9 @@ Jane banked shallowly for a second angle, careful not to tighten the turn into t
 
 The clinic swore, not loudly, and then apologized to the frequency.
 
-Ruth said, “Mr. Jane, continue to municipal.”
+Ruth said, “Continue municipal.”
 
-Jane looked at the old strip again.
+Jane looked at the strip again.
 
 The middle section was short. Too short for pride, long enough for a Kitfox if the surface held and the approach was clean and he did not lie to himself about the tailwind. The approach was not clean. The crosswind curled off the cannery wall. The beach side had driftwood. The strip was an answer with several missing clauses.
 
@@ -178,7 +140,7 @@ Ruth was not outside.
 
 That was correct. People in charge of emergencies did not walk onto aprons for atmosphere.
 
-Wade signaled him toward hangar two, then changed his mind halfway and pointed to the rescue building instead. Jane shut down in the open. The engine ticked as it cooled. Rain began collecting immediately along the black cowling seam.
+Wade signaled him toward the rescue building. Jane shut down in the open. The engine ticked as it cooled. Rain began collecting immediately along the black cowling seam.
 
 He sat still for three seconds after the prop stopped.
 
@@ -186,35 +148,25 @@ The cockpit smelled of damp fabric, oil, old map paper, and himself. He listened
 
 Wade looked at his feet. Then at his face. Then at the aircraft.
 
-“Mr. Jane,” he said.
+“Mr. Jane.”
 
 “Jane is fine.”
 
-“That your first name or last?”
+“Last name?”
 
-“Last.”
+“Yes.”
 
 Wade accepted this as if it explained something without improving it. “Ruth wants you inside.”
 
 “The plane needs securing.”
 
-“Ruth wants you inside now.”
+“Now, Jane.”
 
-“The plane can become a second problem.”
+The tone did what the words did not. Jane looked at the rescue building and saw, through the windows, too many people gathered around one map.
 
-Wade looked at the sky, then at the Kitfox, then at the tie-down rings. He did not waste time pretending that was wrong.
+He opened the baggage compartment and removed the plastic-wrapped folder. He hesitated over the medical kit.
 
-“I’ll chock. You strap. Fast.”
-
-Jane disliked help most when it was useful. He took the left tie-down. Wade set chocks with his boot and then crouched to adjust one properly with his hand after noticing Jane notice the first angle. That improved him.
-
-The rain came harder. It ran down the back of Jane’s neck and into his collar. The black wing shed water in thin lines. Most small aircraft tried to look cheerful even when neglected; the Kitfox did not. It looked like a thing built to endure being misunderstood.
-
-When the aircraft was secured enough not to insult him, Jane opened the baggage compartment and removed the plastic-wrapped folder. He hesitated over the medical kit.
-
-Wade saw the hesitation.
-
-“Bring it,” he said.
+“Bring it,” Wade said.
 
 Jane looked at him.
 
@@ -232,7 +184,7 @@ Ruth Calder stood at the map wall with a pencil in one hand and a phone pressed 
 
 She looked at Jane once, took in his face, his folder, his bare feet, the medical kit, and went back to the phone.
 
-“No,” she said into it. “Not safe for a ground carry across the washout. Ridge access is forty-plus and we lose light. Harbor already refused the head. Ask the pilot what he can do with that ceiling.”
+“No,” she said into it. “Not safe for a ground carry across the washout. Harbor already refused the head. Ask the pilot what he can do with that ceiling.”
 
 A voice from the radio desk said, “Coast Guard wants updated patient status.”
 
@@ -252,17 +204,11 @@ Jane recognized the pause. It existed in clinics when someone arrived with exact
 
 “Would you land there?”
 
-“No.”
+“Not from that pass.”
 
-Some of the room heard that. A few shoulders altered.
+“Why?”
 
-Ruth’s eyes stayed on him. “Why not?”
-
-“Not from the pass I made. Not without surface inspection. Not with patient loading. Not with that wind.”
-
-“You said middle third was clear.”
-
-“Clear is not suitable.”
+“Surface unknown. West end wet. East end cut by runoff. Patient loading would be slow. Wind over the cannery is dirty.”
 
 Wade, behind him, made a quiet approving sound and disguised it as a cough.
 
@@ -282,15 +228,7 @@ Ruth looked at Wade.
 
 Wade said, “Old utility line from cannery to pump house. Supposed to be dead. Still physically there last I saw.”
 
-“Where?” Jane asked.
-
-Wade pointed. Jane added it to the map.
-
-Ruth watched him draw. “You saw that from the air?”
-
-“No. He did.”
-
-That bought him half a second of her not disliking him more.
+Jane added it to the map.
 
 The radio spoke with a burst of Coast Guard static. The helicopter had launched but was weather-limited and holding east for a better report from the cove. The clinic still could not get a clear update. The person kneeling with the patient had a handheld radio but poor signal. The standing figure had managed one transmission through relay: fall injury, bleeding controlled, patient confused, cold, possible leg deformity, no safe road access.
 
@@ -300,7 +238,7 @@ He set it on the table. “Trauma supplies. Hemorrhage control. Airway basics. S
 
 The radio operator looked over.
 
-Ruth said, “You are a doctor?”
+Ruth said, “You’re a doctor?”
 
 “No.”
 
@@ -318,107 +256,47 @@ Ruth did not like the answer. She liked even less that it might be the only avai
 
 “You do not touch the patient unless clinic tells you to and I tell you to.”
 
-“I’m at the airfield.”
+Jane said nothing. He was at the airfield. The patient was not.
 
-“For now.”
+Ruth looked at the map again.
 
-The words changed the room.
+The old strip. The beach. The helicopter holding east. The road gone at Sisters Creek. The boat unable to round the head. The two local aircraft useless outside. The black Kitfox cooling on the apron with rain running down its wings.
 
-Jane looked at the map again. Mercy Cove. The old strip. The beach. The helicopter holding east. The road gone at Sisters Creek. The boat unable to round the head. The two local aircraft useless outside. The black Kitfox cooling on the apron with rain running down its wings.
+“I need eyes over the cove,” she said.
 
-“No,” he said.
+Jane looked at her.
 
-Ruth’s eyes narrowed.
+“One observer,” she continued. “No landing. No drop. No patient contact. Wade goes with you. You mark wires, wind, beach approach, and patient location for Coast Guard. Then you come back.”
 
-He heard himself and corrected the form, not the meaning. “Not a landing. The strip is not good enough.”
+Wade picked up his jacket from the chair.
 
-“I didn’t ask for a landing.”
+Jane said, “Left brake went soft on taxi.”
 
-“You were going to.”
+Ruth stared at him.
 
-“I was going to ask what you could do.”
+“Likely fitting,” he said. “Braking not needed for a pass. Landing here is manageable. I would not take the cannery strip without another look.”
 
-“That is what I can’t do.”
-
-For the first time, the expression on Ruth’s face changed with something like interest.
-
-Jane looked at the map, measuring the cove against fuel, wind, light, and the aircraft in his head. “I can take someone over it. One observer. No landing. Low enough to mark wires and beach approach for the helicopter if the ceiling allows. Or I can orbit offshore and relay between cove, Coast Guard, and station. Or I can carry the kit and drop it if you have someone able to retrieve, but not without risking it going into water. I do not recommend the drop.”
-
-Wade said, “He can fly slow enough to make the helo pilot jealous.”
-
-Ruth did not look at him. “Mr. Jane, how old are you?”
-
-The room did not stop. It got worse than stopped. It continued functioning while making space for the answer.
-
-Jane had prepared lies for many questions. This one was not difficult because it required invention. It was difficult because it required maintenance inside a room that had just watched him be useful.
-
-He said, “My documents are in the folder.”
-
-“That is not an answer.”
-
-“No.”
-
-Wade looked down at the table.
-
-The radio saved him from the next question or postponed it, which was not the same thing.
-
-“Station, Coast Guard. We can attempt a look if we get a reliable wire and wind report. We need eyes on the cove before committing to hover.”
-
-Ruth held Jane in place with her gaze for one second longer.
-
-Then she turned to Wade. “You go with him.”
-
-Wade’s eyebrows lifted. “I do?”
-
-“You know the wires. You know the cove. You know when to say no. Take the portable. Mr. Jane flies. You observe. No heroics. No landing. No patient contact. If either of you decides to become interesting, I will make sure the survivor outlives you just to testify.”
-
-Wade picked up his jacket from the chair. “That sounds fair.”
-
-Jane said, “The aircraft has one brake issue.”
-
-Ruth looked at him as if he had offered her a fresh reason to throw him into the sea.
-
-“Left pedal soft on taxi,” he said. “Likely fitting. Braking not required for the pass. Landing here is manageable. I wouldn’t take the cannery strip.”
-
-Wade was already moving toward the door. “I’ll look at it before we roll.”
+Wade was already moving toward the door. “I’ll check it before we roll.”
 
 Ruth pointed at Jane’s kit. “Leave that here.”
 
 He hesitated.
 
-“Now,” she said.
+“Now.”
 
 He left it.
 
 The second flight was shorter and worse.
 
-Wade sat beside him with the portable radio strapped awkwardly across his chest and one hand braced above the door, not from fear but because he understood that light aircraft were not furniture. He said almost nothing during taxi. At the hold short line, he leaned down, touched the left brake line fitting with two fingers, looked at the wet mark, and said, “You were right.”
+Wade sat beside him with the portable radio strapped awkwardly across his chest and one hand braced above the door, not from fear but because he understood that light aircraft were not furniture. He said almost nothing during taxi. At the hold short line, he leaned down, touched the left brake line fitting with two fingers, looked at the wet mark, and closed the door.
 
-Jane did not answer.
+“Fitting,” he said.
 
-“Don’t enjoy it,” Wade said.
-
-“I wasn’t.”
-
-“Sure.”
+Jane nodded.
 
 Then they were moving.
 
 The Kitfox lifted into rain with less runway than Wade probably expected. St. Jude’s municipal fell away beneath them: runway, fuel pump, rescue building, flag, useless local aircraft, the harbor below and the head beyond it shouldering cloud. Jane kept the climb shallow until he had clean speed, then turned north before the ridge could decide for him.
-
-Wade did not talk for the first minute.
-
-Good, Jane thought.
-
-Then Wade said, “You always fly barefoot?”
-
-Jane looked out the side window. “No.”
-
-“When do you wear shoes?”
-
-“When the question is better.”
-
-Wade considered that. “I deserved that.”
 
 They crossed the north road at five hundred feet and followed it toward the washout. From above, Sisters Creek looked less like a creek than a place where the hillside had opened a vein. Brown water cut through gravel and alder, carrying sections of road shoulder toward the sea. A rescue truck waited on the near side with its lights on. Two figures stood beside it, small and useless under fluorescent rain gear.
 
@@ -428,51 +306,293 @@ Mercy Cove appeared beneath the next band.
 
 This time he came in slower, wider, lower with Ruth’s clearance and Wade’s eyes working over the ground. The cannery roof shone dark red with rain. The old utility line sagged from a leaning pole near the pump house to a mast at the corner of the building, exactly where a helicopter would hate it. The beach looked smaller than before. The standing figure had moved closer to the water and was waving both arms now. The kneeling figure remained by the tarp.
 
-Wade transmitted. “Station, Wade. Confirm wire from pump house to cannery mast, north-south across inner approach. Beach hoist possible from seaward side only. Patient position fifteen yards west of cannery wall. No safe fixed-wing landing. Repeat, no fixed-wing landing.”
+Wade transmitted. “Station, Wade. Confirm wire from pump house to cannery mast, north-south across inner approach. Beach hoist possible from seaward side only. Patient position fifteen yards west of cannery wall. No safe road access.”
 
-Ruth’s voice answered. “Copy no fixed-wing landing.”
+Ruth’s voice answered. “Copy. Continue observation. Do not land.”
 
 Jane held the aircraft in the edge of a turn, not circling the patient directly, not crowding the ridge. The Kitfox moved slowly enough that the figures below seemed briefly less like symbols. The patient’s tarp had shifted. A pale face, maybe. A boot at the wrong angle. The kneeling person looked up once as the aircraft passed, then bent back over the body.
 
-Jane’s right hand tightened on the stick and loosened again.
+On the second pass, the standing person ran.
 
-Wade saw it. He did not comment.
+Not far. From the cannery wall to the old strip, stumbling over wet grass and gravel, arms wide in the universal language of aircraft and desperation. He dragged something white behind him. A tarp, at first. No. A sheet of old plastic roofing. He pulled it off the middle of the strip and threw it toward the driftwood line. Then he turned and stood at the east end with both hands raised, palms out.
 
-The Coast Guard pilot came on frequency. Wade gave the wire location, beach angle, wind over the cove, and approach recommendation. Jane corrected one wind call by lifting two fingers, not speaking. Wade amended it without pride.
+Wade leaned forward.
 
-They made two passes. On the third, Jane climbed east and became a relay while the helicopter came in from the water side.
+Jane had already seen it.
 
-He did not watch the hoist directly. He watched altitude, airspeed, cloud, spacing, fuel, the ridge, the helicopter’s rotor wash on the water, the way rain moved over the cove in bands. Watching the patient would not help the patient. It would only feed the part of him Elias had spent years trying to discipline into function.
+The plastic had been covering a long strip of gravel, wet but intact, hidden under the earlier angle. Not good. Not clean. Not legal in any useful sense of the word. But longer than it had looked. The west end remained soft. The east end was cut by runoff. The usable middle had just become a possibility.
 
-“Survivor one aboard,” came the Coast Guard voice.
+“Jane,” Wade said.
 
-There was only one survivor. Jane knew it before the radio said so from the way the room on frequency changed. Not silent. Never silent. Silence was for people with nothing left to do. The frequency continued, but the shape of the work changed from rescue to recovery, and everyone on it understood the difference without being told.
+“I see it.”
 
-Wade exhaled slowly through his nose.
+“Station,” Wade transmitted. “Ground party just cleared debris from old strip. We have a possible short landing surface. Repeat possible, not confirmed.”
 
-Jane kept flying.
+Ruth came back immediately. “Negative landing. Continue observation.”
 
-The return to St. Jude’s municipal happened in a darker rain. He landed with the soft left brake in mind and did not need it much. The Kitfox rolled out steady. Wade said nothing until they were clear of the runway.
+Jane kept the turn steady.
 
-Then: “You fly like somebody mean taught you to be careful.”
+The standing person below dropped to one knee.
 
-Jane taxied toward the apron. “Two people.”
+At first Jane thought he had fallen. Then the man leaned forward and pressed both hands to his own thigh, or to something against it. Blood showed dark even through the rain. The kneeling person by the tarp looked up and waved once, not toward the aircraft this time, but toward the strip.
 
-Wade looked at him for a moment and then looked away.
+Wade stopped transmitting.
 
-Ruth was outside this time.
+The helicopter voice came over the frequency, broken by weather. “Station, Coast Guard. We are losing ceiling at the head. Holding east. Cannot commit hoist without clearer window.”
+
+Ruth answered them. Jane did not hear the words clearly.
+
+He was looking at the strip.
+
+It would take a high approach and a short roll. The wind was wrong but not impossible. The runoff at the east end meant no go-around after a certain point. Driftwood on the seaward side, cannery wall inland, wet grass beyond, people too close until they understood. Weight acceptable with two aboard and fuel already burned down. Takeoff worse. Takeoff with patient impossible unless everything improved, which it would not. Landing would not evacuate anyone. It would only put two more people and an aircraft inside the problem.
+
+It would also put hands on the patient before the weather took the helicopter away entirely.
+
+Jane looked at Wade.
+
+Wade looked at the strip, then at the patient, then at the rain closing over the head.
+
+No one said the rule. Ruth had said it already.
+
+Wade reached to the panel and turned the radio volume down, not off.
+
+Jane said, “You know the cove.”
+
+Wade nodded once.
+
+That was the discussion.
+
+Jane brought the nose around.
+
+The approach did not feel heroic. It felt narrow and ugly and full of numbers that had to remain numbers. Airspeed. Gust spread. Sink. Surface. Escape point. The old strip held still below him, which meant nothing and had to mean enough. Wade braced one hand against the frame and kept his eyes on the ground.
+
+“Deer track on the right,” he said.
+
+Jane shifted left.
+
+“Soft west. Don’t roll long.”
+
+“I know.”
+
+“Tell me anyway.”
+
+“Soft west. No long roll.”
+
+The wheels touched gravel with a wet slap, bounced once, touched again. Jane held the stick back and kept the aircraft light as long as he could, then let it settle before the west end softened. The Kitfox rolled shorter than it should have and longer than he wanted. Gravel hissed beneath the tires. Wade said nothing. The aircraft slowed, slowed more, and stopped with the prop wash flattening grass ahead of them.
+
+For half a second, nobody moved.
+
+Then Ruth’s voice came through the lowered radio, thin but unmistakable.
+
+“Seven-three-four kilo, report.”
+
+Wade did not look at the radio.
+
+Jane pulled the mixture, killed the engine, and listened to the propeller stop.
+
+The cove rushed in around the silence: rain on metal, surf beyond the hook of rock, a man shouting from the cannery wall, the small animal sound of someone in pain trying not to spend strength on it.
+
+Wade opened his door. “Now we report.”
+
+Jane climbed out into wet grass and gravel.
+
+The standing man was not standing anymore. He was on one knee near the edge of the strip, one hand pressed to a cut high on his thigh. Not arterial, Jane thought from the distance, then corrected himself. Not visibly arterial. The kneeling person by the patient was a woman in a soaked blue jacket, her hair plastered flat, one hand on the patient’s shoulder and the other holding a handheld radio that had gone dead or might as well have.
+
+The patient lay on a tarp against the cannery wall.
+
+Young man. Twenties, maybe. Pale. Eyes half open and not tracking. Blood at the hairline, diluted pink by rain. Right leg wrong at the thigh, shortened and turned in a way that made the problem obvious even before touch. Shivering had either stopped or never started strongly enough.
+
+Jane reached for the medical kit that was not there.
+
+The absence moved through his body so sharply he almost looked back at the aircraft as if the kit might have followed him by habit.
+
+It had not. Ruth had told him to leave it. He had obeyed.
+
+For three seconds, obedience stood between him and the patient like a wall.
+
+Then Wade was beside him with the aircraft survival pouch, two wool blankets from the baggage shelf, a roll of duct tape, and the small first-aid tin Jane kept in the cockpit because Elias had taught redundancy with the patience of a man describing gravity.
+
+“Not your big kit,” Wade said.
+
+“No.”
+
+“Then small.”
+
+Jane took the tin.
+
+The contents were not enough. Gloves, gauze, compressed dressing, triangular bandage, trauma shears too small to respect themselves, tape, space blanket, a single tourniquet, two pairs of nitrile gloves, alcohol wipes, a pencil, safety pins, water purification tablets, an old packet of oral glucose. The sort of kit people carried to say they had one. Better than nothing. Worse than what he had left on Ruth’s table.
+
+He put on gloves.
+
+The woman in the blue jacket looked at him as he knelt. “Are you the medic?”
+
+“No.”
+
+The answer hurt her face.
+
+“I have medical experience. Clinic is on the radio. What’s his name?”
+
+“Caleb.”
+
+“Caleb.” Jane leaned close enough that the patient might hear without needing to understand. “I’m going to check you.”
+
+Caleb’s eyes moved but did not find him.
+
+Wade had the portable radio out now, antenna up, body turned to shield it from rain. “Station, Wade. We are on the ground at Mercy Cove. Repeat, on the ground. Patient contact in progress. Aircraft intact. No injuries to us.”
+
+The frequency erupted.
+
+Ruth cut through it. “Say again.”
+
+Wade did.
+
+There was a silence so complete that even static seemed to step away from it.
+
+Then Ruth said, “Put clinic with Jane.”
+
+No shouting. Not yet. Shouting was for after the patient survived.
+
+Jane checked airway, breathing, pulse, pupils. Scalp wound first because it looked dramatic and was easiest to control. Leg second because it could kill him quietly. No obvious major external bleed from the femur. Skin cold. Pulse fast. Confused. Possible head injury. Hypothermia working. Shock either present or coming.
+
+He said his findings aloud. Wade repeated them into the radio until the clinic voice came through directly, thin and professional.
+
+“Jane, clinic. What are you working with?”
+
+“Minimal kit. Gauze, one tourniquet, tape, triangular, blankets, duct tape, cockpit shears. No rigid splint except what we make.”
+
+“What can you make?”
+
+Jane looked around.
+
+Cannery debris. Driftwood. Broken crate slats. A length of aluminum conduit under the collapsed wall. Wade had already moved toward it.
+
+“Long splint,” Jane said. “Improvised.”
+
+The clinic voice asked questions in order. Jane answered in order. When he did not know, he said unknown. When he guessed, he said likely. He cut wet fabric away from the scalp wound and dressed it. He wrapped Caleb in the wool blankets, then the space blanket, reflective side inward where it would do more than look official. He and Wade used two lengths of conduit padded with folded jacket material and fixed the injured leg as best they could without traction, because traction without enough hands and authority would become another injury disguised as treatment.
+
+The man with the thigh wound tried to stand and nearly fell.
+
+“Sit,” Jane said.
+
+The man looked at him blankly.
+
+Wade said, “Sit down, Aaron.”
+
+Aaron sat.
+
+Blue jacket woman kept one hand on Caleb’s shoulder. She was shaking hard now that someone else had taken over the shape of action.
+
+“You did well,” Jane said without looking at her.
+
+She began crying silently, which was inconvenient but not a problem.
+
+The helicopter came twelve minutes later.
+
+It arrived from the water side, low and loud, pushing rain outward in violent sheets. Jane stayed low over Caleb, one hand on the dressing, the other keeping the blanket from lifting. Wade moved to the strip with the orange panel the standing man had been using and marked the wire hazard from the seaward side. He did not look like a man disobeying orders. He looked like a man extending an existing mistake until it became useful.
+
+The Coast Guard did not land. They hoisted.
+
+First Caleb. Then Aaron, who insisted he could wait and was ignored. The woman in blue remained because there was no room, then because she could walk once the road team found a foot route down from the west. When the helicopter lifted away, the cove seemed abruptly larger and less real.
+
+Jane stood beside the Kitfox with rain running off his hair, gloves bloody, shoes soaked through. The aircraft sat where he had put it, black against the wet strip, more vulnerable on the ground than it had ever looked in the air.
+
+Wade came to stand beside him.
+
+Neither of them spoke for a while.
+
+Then Wade turned the radio volume back up.
+
+Ruth’s voice was waiting.
+
+“Wade.”
+
+Wade closed his eyes briefly. “Here.”
+
+“Is the patient airborne?”
+
+“Yes.”
+
+“Is the aircraft damaged?”
+
+“No.”
+
+“Is Mr. Jane alive?”
+
+Jane looked at him.
+
+Wade looked back, then keyed the mic. “Unfortunately.”
+
+Another silence.
+
+“Return when safe,” Ruth said.
+
+The return takeoff was worse than the landing.
+
+It required moving debris, walking the strip, arguing with the west end, and waiting six minutes for a rain band to pass. Jane did not rush it. Disobedience did not make physics sentimental. Wade walked the usable section twice, boots sinking slightly near the wet end, and marked the softest patch with a strip of orange plastic roofing. They turned the Kitfox by hand. Jane checked the brake fitting again and wiped rain off the windshield with his sleeve.
+
+Before climbing in, he looked once toward the cannery wall.
+
+The blue-jacket woman sat beneath the overhang with both arms around herself. The dead handheld radio lay beside her. She raised one hand. Not waving this time. Just acknowledgment.
+
+Jane lifted his hand once and got into the aircraft.
+
+The Kitfox left the cove with no elegance. It bumped, gathered, skipped once over gravel, then lifted into rain with the stall horn thinking about speaking and deciding not to. Wade did not breathe until they cleared the hook of rock.
+
+“Don’t do that often,” he said.
+
+“I don’t.”
+
+“Good.”
+
+St. Jude’s municipal came back in a darker rain. Jane landed with the soft brake in mind and did not need it much. He rolled clear, taxied to the apron, and shut down in front of the rescue building because Ruth was already outside.
 
 She stood in the rain without her hood, arms at her sides, the framed authority of the building behind her and the island standard cracking above the door. The severe little saint appeared and disappeared as the flag folded on itself. Behind her, through lit windows, people moved around the map wall and radio desk, turning the emergency into reports, calls, equipment checks, and the first version of what had happened.
 
-Jane shut down. The prop stopped. Rain reclaimed the sound.
+Wade climbed out first.
 
-Wade climbed out first. He did not give Ruth a report immediately. He looked at her and nodded once.
+He did not give Ruth a report immediately. He looked at her and nodded once.
 
-That nod did more damage to her objections than a paragraph would have.
+That nod did more damage to her anger than apology would have.
 
 Jane stepped down from the cockpit. His feet touched the wet apron. This time Ruth did not look at them.
 
-“You will not fly for this organization,” she said.
+“You disobeyed a direct instruction,” she said.
+
+“Yes.”
+
+“You landed an uncleared aircraft on an uninspected strip during an active SAR operation.”
+
+“Yes.”
+
+“You left your medical kit here.”
+
+“Yes.”
+
+“Which means you disobeyed me and still did not have the equipment you wanted.”
+
+“Yes.”
+
+Her face was very still. “Do you understand the problem?”
+
+“Yes.”
+
+“No,” Ruth said. “You understand several problems. You do not understand mine yet.”
+
+Wade said, “Ruth.”
+
+“Don’t.”
+
+He stopped.
+
+The rain ran down the sides of Jane’s face and into his collar. He did not wipe it away. He could still feel the patient’s pulse under his fingers, fast and thin. He could still feel the missing medical kit like a shape cut out of his own thinking.
+
+Ruth held out her hand.
+
+Jane did not understand until Wade said, “Folder.”
+
+Jane handed it to her.
+
+“You will not fly for this organization,” Ruth said.
 
 “No.”
 
@@ -483,10 +603,6 @@ Jane stepped down from the cockpit. His feet touched the wet apron. This time Ru
 “You will not decide that being useful gives you authority.”
 
 “No.”
-
-“You will give me your folder.”
-
-He handed it to her.
 
 “You will give Wade access to your maintenance logs.”
 
