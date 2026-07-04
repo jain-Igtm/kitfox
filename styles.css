@@ -155,6 +155,11 @@ body::before {
   letter-spacing: -0.04em;
 }
 
+.chapter-list {
+  display: grid;
+  gap: 14px;
+}
+
 .chapter-row {
   display: grid;
   grid-template-columns: auto 1fr;
