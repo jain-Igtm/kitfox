@@ -17,7 +17,7 @@ A manuscript and continuity archive for a literary aviation rescue story set on 
 | Chapter | Title | Link | Status |
 |---:|---|---|---|
 | 1 | **St. Jude’s Head** | [Read Chapter One](manuscript/chapter-01-st-judes-head.md) | Drafted / formatted |
-| 2 | **Hangar Two** | [Read Chapter Two](manuscript/chapter-02-the-paper-door.md) | Rewritten |
+| 2 | **Salt on the Struts** | [Read Chapter Two](manuscript/chapter-02-the-paper-door.md) | Rewritten from scratch |
 
 ---
 
