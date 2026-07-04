@@ -15,7 +15,7 @@
 | Chapter | Title | Status |
 |---:|---|---|
 | 1 | [St. Jude’s Head](chapter-01-st-judes-head.md) | Drafted / formatted |
-| 2 | [The Paper Door](chapter-02-the-paper-door.md) | Drafted |
+| 2 | [Hangar Two](chapter-02-the-paper-door.md) | Rewritten |
 
 ---
 
