@@ -7,7 +7,7 @@ const chapters = {
   "2": {
     path: "manuscript/chapter-02-the-paper-door.md",
     kicker: "Chapter Two",
-    title: "Hangar Two"
+    title: "Salt on the Struts"
   }
 };
 
