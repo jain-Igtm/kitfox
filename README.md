@@ -17,6 +17,7 @@ A manuscript and continuity archive for a literary aviation rescue story set on 
 | Chapter | Title | Link | Status |
 |---:|---|---|---|
 | 1 | **St. Jude’s Head** | [Read Chapter One](manuscript/chapter-01-st-judes-head.md) | Drafted / formatted |
+| 2 | **The Paper Door** | [Read Chapter Two](manuscript/chapter-02-the-paper-door.md) | Drafted |
 
 ---
 
@@ -49,7 +50,7 @@ The island is remote, Alaskan, legally American, and practically governed by wea
 - St. Jude’s Head is a remote Alaskan island in the United States.
 - The island has an official standard featuring a severe, oddly militant old-style St. Jude figure.
 - Locals are proud of the standard. SAR displays it often. Most local pilots put it on their aircraft.
-- Jane does not mark the Kitfox with the standard at first. When he eventually does, he gets it himself.
+- Jane does not mark the Kitfox with the standard at first, but this is not a conscious day-one refusal.
 
 ---
 
