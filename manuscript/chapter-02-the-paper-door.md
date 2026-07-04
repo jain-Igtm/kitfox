@@ -12,6 +12,12 @@ St. Jude’s Head.
 
 The black Kitfox stood above him in the dark, wing crossing the weak bulb light like a roof inside the roof. Its left tire was visible beyond the edge of the cot. The chock was still in place. The tie-down strap ran correctly through the floor ring, though he did not like the twist near the buckle. The aircraft had not moved in the night. The island had not required that of it.
 
+The hangar did not belong to search and rescue.
+
+That mattered before anything else did. It was not Ruth Calder’s room, not Wade Halversen’s shop, not a corner of the SAR building that had been temporarily granted to him by institutional mercy. It was municipal airport property, leased badly and at too much money through an office that had sent him a PDF with two signatures missing and one line item miscalculated. Jane had paid it anyway because the door locked, the roof mostly held, and the floor had a dry rectangle large enough for the Kitfox and a cot if the cot surrendered dignity.
+
+SAR had used him yesterday. It had not acquired him.
+
 Jane lay still until his eyes adjusted.
 
 He had slept in his clothes. His sweater smelled of rain, avgas, wet wool, and a thin mineral trace from Mercy Cove that belonged to the old cannery strip. His shoes sat beneath the cot where he had taken them off without remembering doing it. One sock had dried folded against itself and would be unpleasant to put on. The other was missing. He found it under the blanket near his knee, stiff at the heel.
@@ -52,53 +58,95 @@ It was evidence.
 
 Everything was.
 
-The hangar door rolled open before seven.
+He had the inspection panel off before seven.
 
-Jane turned. Wade stood in the gap with a paper cup in one hand and a small canvas tool roll in the other. The morning behind him was gray rather than dark. The airfield looked rinsed and unfinished: runway wet, fuel shed dark, the rescue building already lit, harbor fog lying low beyond the apron. Wade’s cap was damp at the brim. His beard had gone flat on one side from sleep or weather. He looked at the aircraft before he looked at Jane.
+The tool roll on the floor was his own. Wrenches, inspection mirror, flashlight, rag, spare fittings, brake fluid, line cutter, flaring tool. Not complete in the way a mainland shop was complete. Complete in the way an aircraft needed when there was no shop. Mara had taught him to remove the unnecessary. Elias had taught him to distrust any kit that required the world to be nearby.
 
-“Brake first,” Wade said.
+Jane cleaned the fitting, dried the line, depressed the pedal by hand from outside the cockpit, and watched the fitting through the inspection mirror. A small bead formed at the flare.
 
-Jane nodded.
+Not the line.
 
-Wade set the cup on the workbench, then reconsidered and moved it three inches away from a rust stain. He opened the tool roll. Wrenches, inspection mirror, flashlight, rag, small bottle, spare fittings, brake fluid. Not a complete kit. A kit assembled by someone who knew which incompleteness mattered.
+Flare or seat.
 
-“You sleep?” Wade asked.
+He loosened the fitting and inspected it under the headlamp. The flare was slightly uneven. The seat was scored at the lower edge. Small. Enough. He removed the fitting, capped the line, and checked the spares box.
+
+Two correct fittings. One wrong one in a correct bag, which he set aside with more irritation than surprise.
+
+By 7:14 he had the new fitting hand-started. By 7:19 he had it tightened. By 7:26 he had bled the line once and disliked the pedal. By 7:31 he had bled it again and accepted the pedal without liking it. At 7:34, he wrote the repair in the aircraft log with the old fitting beside the page like a small piece of testimony.
+
+At 7:36, someone knocked on the outside of the hangar door.
+
+Three strikes. Knuckles on metal. Not loud. Not official. A request, or the island’s nearest local approximation.
+
+Jane finished the sentence before answering.
+
+“Open,” he called.
+
+The door moved eight inches and stopped at the bind on the left track. Wade’s voice came through the gap.
+
+“Door still binds.”
+
+“I know.”
+
+“I can wait.”
+
+Jane looked at the half-open door, then at the aircraft, then at the fitting he had not yet safety-marked. “Lift before rolling.”
+
+“I wrote that instruction.”
+
+“Then follow it.”
+
+Wade did. The door rose slightly under his shoulder and rolled open another three feet, enough to put him in the gap without putting him inside. The morning behind him was gray rather than dark. The airfield looked rinsed and unfinished: runway wet, fuel shed dark, rescue building already lit, harbor fog lying low beyond the apron. Wade held a paper cup in one hand and nothing in the other. No tool roll. That improved him.
+
+His eyes went first to the Kitfox, then to the open panel, then to the old fitting on the logbook page.
+
+“You fixed it.”
 
 “Yes.”
 
-“How much?”
+Wade did not step over the threshold. “May I come in?”
 
-“Enough to wake.”
+Jane looked at him then.
 
-Wade accepted this without expression. “That answer gets worse the longer I think about it.”
+The question mattered more than the manners around it. Wade knew the hangar was leased space. He knew the difference between a SAR building and a door someone paid to close.
 
-“It was not intended to improve.”
+“Yes,” Jane said. “Don’t touch the aircraft.”
 
-For one second Wade’s face suggested he might answer in kind. He did not. He crouched by the left gear and pointed at the fitting.
+Wade entered and stayed clear of the wing. He set the paper cup on an empty crate near the door, not on the workbench. He looked at the logbook from a distance.
 
-“Show me what you saw.”
+“Ruth wants aircraft status before debrief.”
 
-Jane crouched beside him and did.
+“Brake fitting replaced. Line bled. Pedal acceptable. Ground taxi still required. I would not fly until taxi confirms.”
 
-They worked without speaking for several minutes. Wade cleaned the line, dried the fitting, had Jane depress the pedal slowly, then hold, then release. He watched the fitting through the mirror. A small bead formed at the flare.
+“Show me the old fitting.”
 
-“Not the line,” Wade said.
+Jane handed it to him.
 
-“No.”
-
-“Flare or seat.”
+Wade turned it between thumb and forefinger. “Seat was scored.”
 
 “Yes.”
 
-“You landed Mercy Cove with this.”
+“Flare?”
 
-“I landed here with it first.”
+“Slightly uneven.”
 
-Wade looked at him then.
+“You reflared?”
 
-Jane realized the answer had been defensive, therefore imprecise.
+“No. Line length is marginal. Replaced fitting only. If it weeps after taxi, line section.”
 
-“I knew it was soft,” he said. “I did not know the source. I judged braking nonessential to the cove landing and manageable on return.”
+Wade nodded and handed the fitting back. “Good.”
+
+Jane did not answer.
+
+Wade looked at the aircraft again, not like a man assessing whether he could fix it, but like a man assessing whether yesterday’s decision had left a second problem disguised as a machine. “You landed Mercy Cove with that pedal soft.”
+
+“I landed here with it soft first.”
+
+Wade’s eyes moved back to him.
+
+Jane heard the defensiveness in the answer and disliked it.
+
+“I knew the pedal was soft,” he said. “I did not know the source. I judged braking nonessential to the cove landing and manageable on return.”
 
 “Was it?”
 
@@ -108,51 +156,35 @@ Jane realized the answer had been defensive, therefore imprecise.
 
 “No.”
 
-Wade returned to the fitting. “Good. Don’t make me pull teeth every time the truth has dirt on it.”
+Wade took a slow breath and looked toward the rescue building across the apron. “Ruth will ask.”
 
-Jane held the flashlight steady.
+“Yes.”
 
-The workbench bulb hummed above them. Rain clicked softly on the hangar roof. Across the apron, the rescue building door opened and closed twice. A woman in a blue jacket carried a crate of radios inside. Someone had already restarted the day without asking whether the previous one was finished.
+“Give her that version first.”
 
-Wade loosened the fitting, inspected it, and handed Jane the mirror.
+Jane wiped his hands on a rag, though they were already clean enough. “I was going to.”
 
-“Tell me.”
+“No,” Wade said. “You were going to answer the first question accurately and wait for the second.”
 
-Jane angled the light. “Flare is slightly uneven. Seat may be scored.”
+Jane looked at him.
 
-“May be?”
+Wade’s face had lost all trace of dry amusement. “This island runs on people answering only what got asked. It saves time until it doesn’t.”
 
-“Is. Small score at lower edge.”
+The sentence landed with more weight than Jane wanted to give it.
 
-“Repair?”
+He wrote one more line in the log.
 
-“Replace fitting. Reflare if line length allows. Otherwise line section.”
+Repair requires verification by ground taxi.
 
-“Time?”
+Wade watched him write. “At the cove. When did you decide?”
 
-“Depends whether you have the fitting.”
-
-Wade opened a small metal box and showed him three.
-
-Jane looked at them, then at Wade.
-
-Wade said, “Island rule. If it can strand you, own two.”
-
-“That would mean owning more of everything.”
-
-“Now you’re learning.”
-
-The words were dry, but not light. He went back to the work.
-
-After a while, Wade said, “At the cove. When did you decide?”
-
-Jane kept the flashlight fixed. “After Aaron went down.”
+“After Aaron went down.”
 
 “Not when the strip cleared?”
 
 “No. When the strip cleared, landing became possible. When Aaron went down and Coast Guard lost the window, landing became relevant.”
 
-Wade tightened the new fitting by hand first, then with the wrench. “Relevant is a dangerous word.”
+“Relevant is a dangerous word.”
 
 “Yes.”
 
@@ -160,7 +192,7 @@ Wade tightened the new fitting by hand first, then with the wrench. “Relevant 
 
 Jane did not answer.
 
-Wade leaned back on his heels. “I turned the radio down.”
+Wade looked at the radio clipped to his belt, then at the aircraft. “I turned the radio down.”
 
 “Yes.”
 
@@ -172,49 +204,21 @@ Wade leaned back on his heels. “I turned the radio down.”
 
 “I wasn’t going to.”
 
-“No. But you were going to answer only what got asked.”
+“Good.”
 
-Jane looked at him.
+Jane set the old fitting in a small plastic bag and labeled it. Wade watched without comment.
 
-Wade’s face had lost all trace of humor. “This island runs on people answering only what got asked. It saves time until it doesn’t.”
+“You could have stopped me,” Jane said.
 
-Jane considered that.
+Wade looked toward the open hangar door. Beyond it the island standard moved damply near the SAR building, sometimes opening, sometimes closing around itself.
 
-Then he said, “You turned the radio down before I turned final.”
-
-“Because I knew what you were about to do.”
-
-“You could have stopped me.”
-
-“I could have tried.”
+“I could have tried,” Wade said.
 
 The distinction sat between them.
 
-Wade picked up the rag and wiped the fitting. “Ruth will not forgive the landing because it worked.”
+After a moment Wade lifted the paper cup from the crate. “Ruth has your kit.”
 
-“I didn’t expect her to.”
-
-“Good. Do not ask her to. Do not make Wade told me to part of your report, either.”
-
-Jane’s grip on the flashlight changed.
-
-Wade noticed. “Because I didn’t. I made my own bad decision beside yours. They can stand separately.”
-
-“That is not how reports usually read.”
-
-“It is how this one will.”
-
-Jane nodded once.
-
-They bled the line. Wade made him do it twice, not because the second time changed much, but because the first repair after a hard landing deserved ceremony disguised as verification. The pedal firmed. Wade inspected again. No bead formed.
-
-“Ground taxi later,” Wade said. “Not now.”
-
-Jane wrote it down.
-
-“Ruth has your kit,” Wade said.
-
-Jane stopped writing.
+Jane closed the logbook.
 
 “She did not throw it into the harbor.”
 
@@ -226,11 +230,9 @@ Jane stopped writing.
 
 “She did. With clinic on the phone. Inventory only.”
 
-Jane finished the line in the notebook because stopping would make the information larger than it was.
+Jane put the logbook under his arm. Stopping would make the information larger than it was.
 
-Wade stood. His knees cracked quietly. “Debrief at eight. Bring your aircraft log. Bring your pilot documents. Bring whatever answer you plan to give when Ruth asks you why your paperwork makes everybody in the room unhappy.”
-
-Jane closed the notebook.
+“Debrief at eight,” Wade said. “Bring your aircraft log. Bring your pilot documents. Bring whatever answer you plan to give when Ruth asks you why your paperwork makes everybody in the room unhappy.”
 
 “Is that the phrasing she used?”
 
@@ -262,7 +264,7 @@ Inside, the building smelled of coffee, wet rope, toner, damp paper, and the dis
 
 The times continued down the paper with the pitiless calm of things that had already happened.
 
-Ruth stood at the end of the table, not behind it. That mattered. A person behind a table was a judge. A person at the end of one was still part of the work. Ana sat at the radio desk with a yellow legal pad. Wade stood near the heater, arms folded, hair still wet from the hangar. A clinic physician joined by speakerphone. The Coast Guard pilot was not on the line; Ruth had already taken that statement. A harbor representative sat near the wall with a cap in his hands and the expression of a man who had been correct and still unhappy.
+Ruth stood at the end of the table, not behind it. That mattered. A person behind a table was a judge. A person at the end of one was still part of the work. Ana sat at the radio desk with a yellow legal pad. Wade stood near the heater, arms folded, hair still wet from the morning. A clinic physician joined by speakerphone. The Coast Guard pilot was not on the line; Ruth had already taken that statement. A harbor representative sat near the wall with a cap in his hands and the expression of a man who had been correct and still unhappy.
 
 Ruth began when the second hand reached eight.
 
@@ -440,7 +442,7 @@ Jane waited.
 
 “Yes.”
 
-Wade said, “Brake’s fixed. I still want the gear, control cables, fuel system, and attach points.”
+Wade said, “Brake repair needs taxi verification. After that I still want the gear, control cables, fuel system, and attach points.”
 
 Jane nodded.
 
@@ -540,7 +542,7 @@ Ruth closed the folder.
 
 Jane absorbed the list without moving.
 
-“But,” Ruth said, and the word was not mercy, “I am not throwing away a useful person in a place that has too few of them. Pending review, you may assist Wade with maintenance, logistics, map updates, weather observations, and ground support. You may sit radio log under Ana if she agrees to tolerate you. You may speak to Dr. Saye about medical knowledge, under her terms. Your aircraft stays grounded until Wade signs off on it mechanically, and even then it is your aircraft, not our aircraft. If that distinction blurs, I stop this before it becomes a habit.”
+“But,” Ruth said, and the word was not mercy, “I am not throwing away a useful person in a place that has too few of them. Pending review, you may assist with logistics, map updates, weather observations, radio log, equipment inventory, and ground support. You may speak to Dr. Saye about medical knowledge, under her terms. Your aircraft is private and remains outside SAR unless I explicitly bring it inside an incident. It does not fly in connection with us until Wade signs off mechanically and I sign off operationally. If that distinction blurs, I stop this before it becomes a habit.”
 
 Jane said, “Understood.”
 
@@ -564,13 +566,13 @@ Ruth did not ask him to promise. Competent people knew the difference between a 
 
 She looked at Wade. “Hangar two?”
 
-Wade said, “Roof leaks aft corner. Door binds left. Electrical is ugly but not immediately murderous. He found the dry patch.”
+“Municipal lease,” Wade said. “Not SAR space. Roof leaks aft corner. Door binds left. Electrical is ugly but not immediately murderous. He found the dry patch.”
 
 “Of course he did.”
 
 Jane did not know what to do with that sentence.
 
-Ruth stood. “Tonight also. Not indefinite. He gets a carbon monoxide detector, a fire extinguisher that isn’t older than he is, and he does not run a stove in there.”
+Ruth stood. “Tonight also. Not indefinite. We notify airport administration that he is occupying leased hangar space overnight, not SAR housing. He gets a carbon monoxide detector, a fire extinguisher that isn’t older than he is, and he does not run a stove in there.”
 
 “I don’t have a stove,” Jane said.
 
@@ -766,9 +768,11 @@ Wade found Jane at the log desk at 16:40.
 
 Ana looked at Ruth. Ruth nodded without looking up from a call. Jane stood.
 
+They crossed to hangar two together. Wade stopped outside the door while Jane unlocked it.
+
 The inspection took two hours.
 
-Wade did not let him assist at first. He made Jane watch him inspect the aircraft as though it belonged to someone else. That, Jane understood, was the point. People were blind to the things they loved by touch. Wade checked the brake repair, gear attach points, tailwheel, control cables, pulleys, fabric, strut fittings, fuel drains, filters, electrical routing, baggage restraints, propeller, engine mounts, cowling fasteners, firewall, tires, ELT, survival gear, and the place behind the seat where Jane had wedged extra supplies too neatly.
+Jane stood back because an inspection performed by the person who loved the aircraft was not inspection. It was maintenance with better posture. Wade did not touch anything without naming it first. He checked the brake repair, gear attach points, tailwheel, control cables, pulleys, fabric, strut fittings, fuel drains, filters, electrical routing, baggage restraints, propeller, engine mounts, cowling fasteners, firewall, tires, ELT, survival gear, and the place behind the seat where Jane had wedged extra supplies too neatly.
 
 “You trust your packing,” Wade said.
 
@@ -808,7 +812,7 @@ Wade closed the inspection panel. “It can’t.”
 
 The hangar held the sentence after him.
 
-Wade packed his tools, then paused at the door.
+Wade packed his tools, then paused at the threshold rather than the door, as if the line still mattered after two hours inside.
 
 “Ruth will not clear you quickly.”
 
