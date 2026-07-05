@@ -12,9 +12,9 @@ Across from him, a framed photograph of the county commissioners hung above a ra
 
 He looked up.
 
-The woman standing in front of him had introduced herself three times. Renee Alvarez, Department of Human Services. She was short, broad through the hips, with hair pinned at the nape of her neck and a soft brown cardigan that had collected lint along one sleeve. She carried a file too thick for someone who had been in county custody less than a day. That meant the file contained other people’s versions of him: sheriff’s report, emergency intake, names from New Mercy, photographs of buildings, maybe the first pages taken from Mother Ester’s office before the smoke made the papers brittle at the edges. He wondered whether anyone had found the cabinet beneath the women’s house. He wondered whether Mother Serene had emptied it before she ran.
+The woman standing in front of him had introduced herself three times. Marian Kline, Department of Human Services. She was short, broad through the hips, with hair pinned at the nape of her neck and a soft brown cardigan that had collected lint along one sleeve. She carried a file too thick for someone who had been in county custody less than a day. That meant the file contained other people’s versions of him: sheriff’s report, emergency intake, names from New Mercy, photographs of buildings, maybe the first pages taken from Mother Ester’s office before the smoke made the papers brittle at the edges. He wondered whether anyone had found the cabinet beneath the women’s house. He wondered whether Mother Serene had emptied it before she ran.
 
-Renee sat in the chair angled near his, not directly opposite. Adults thought side angles made them less threatening. Sometimes they were right.
+Marian sat in the chair angled near his, not directly opposite. Adults thought side angles made them less threatening. Sometimes they were right.
 
 “How are you feeling?” she asked.
 
@@ -24,7 +24,7 @@ He considered a truthful answer and found it too large to be useful. “Fine.”
 
 “No.”
 
-Her eyes moved once to his left hand. The knuckles were split. There was a burn along the inside of his wrist, treated and bandaged, white gauze bright against his skin. At the collar of the borrowed sweatshirt, a line of tattooed color rose and disappeared again, too vivid for the room. The intake nurse had stared while pretending not to. Renee did not pretend. She saw it, recorded it somewhere behind her eyes, and returned to his face.
+Her eyes moved once to his left hand. The knuckles were split. There was a burn along the inside of his wrist, treated and bandaged, white gauze bright against his skin. At the collar of the borrowed sweatshirt, a line of tattooed color rose and disappeared again, too vivid for the room. The intake nurse had stared while pretending not to. Marian did not pretend. She saw it, recorded it somewhere behind her eyes, and returned to his face.
 
 “I’m going to explain what happens next,” she said. “Some of it may change. I don’t want to lie to you.”
 
@@ -34,7 +34,7 @@ That was unusual enough that he looked at her properly.
 
 He waited for the force behind the sentence. There was none. The building did not shift. The dead clock remained at 4:17. A man at the vehicle counter argued that his trailer weight had been entered wrong and that he should not owe the additional fee. Somewhere beyond the lobby, a copier jammed and began to beep in patient accusation.
 
-Renee said, “There are criminal matters. There are also dependency matters. They are separate processes, even when they involve the same facts. You are a minor. That matters. It does not make everything simple. But it matters.”
+Marian said, “There are criminal matters. There are also dependency matters. They are separate processes, even when they involve the same facts. You are a minor. That matters. It does not make everything simple. But it matters.”
 
 Everett said nothing.
 
@@ -44,7 +44,7 @@ He understood the words individually. Together they formed a structure that did 
 
 “I did what they trained me to do,” he said.
 
-Renee did not flinch, which was to her credit. The man at the vehicle counter lowered his voice by accident and then raised it again. Renee folded both hands over the file. Her nails were short, unpainted, one cuticle torn raw.
+Marian did not flinch, which was to her credit. The man at the vehicle counter lowered his voice by accident and then raised it again. Marian folded both hands over the file. Her nails were short, unpainted, one cuticle torn raw.
 
 “I know that’s part of what we need to talk about,” she said.
 
@@ -64,11 +64,11 @@ He looked back at the commissioners. The woman’s heel remained trapped in the 
 
 “They usually do. Badly, sometimes. Late. But they do.”
 
-He believed she believed this. That interested him more than the statement itself. Belief in New Mercy had been vertical. It descended from Mothers to Sisters to children, from scripture boards to chores, from doctrine into the body. Renee’s belief was lateral, held together by offices, phones, other tired women, court calendars, safe houses, budget lines, cars with mileage reimbursement forms in their glove compartments. It was not pure. It was not strong in the way Mother Serene was strong. But it had reach.
+He believed she believed this. That interested him more than the statement itself. Belief in New Mercy had been vertical. It descended from Mothers to Sisters to children, from scripture boards to chores, from doctrine into the body. Marian’s belief was lateral, held together by offices, phones, other tired women, court calendars, safe houses, budget lines, cars with mileage reimbursement forms in their glove compartments. It was not pure. It was not strong in the way Mother Serene was strong. But it had reach.
 
 A deputy came through the lobby with a paper bag of evidence sealed in red tape. Everett recognized his own shirt inside the bag. It had been blue once and then brown in places and then black where the fire had touched it. The deputy glanced toward him, away, then toward him again. Men kept doing that. Everett’s face did not match what they wanted from the reports. He had done too much to be treated only as a child and was too plainly a child to become the easy thing they wanted the story to name.
 
-Renee followed his eyes. “The news trucks are still outside,” she said. “We’ll move you through the basement when it’s time.”
+Marian followed his eyes. “The news trucks are still outside,” she said. “We’ll move you through the basement when it’s time.”
 
 “Why?”
 
@@ -88,9 +88,9 @@ He looked at her again. She had said it without contempt, which made it truer. �
 
 “No.”
 
-Renee exhaled through her nose. “She knows enough to say yes carefully. That’s better than someone saying yes because they think kindness is the same thing as competence.”
+Marian exhaled through her nose. “She knows enough to say yes carefully. That’s better than someone saying yes because they think kindness is the same thing as competence.”
 
-Everett let that sit. The county building hummed around them. Doors opened and closed. A child cried near the records counter and was hushed by a man who sounded more embarrassed than angry. A clerk stamped forms with a heavy mechanical rhythm: received, received, received. Everett found himself counting the stamps until Renee spoke again.
+Everett let that sit. The county building hummed around them. Doors opened and closed. A child cried near the records counter and was hushed by a man who sounded more embarrassed than angry. A clerk stamped forms with a heavy mechanical rhythm: received, received, received. Everett found himself counting the stamps until Marian spoke again.
 
 “There’s another thing,” she said. “Some of the people from New Mercy are missing.”
 
@@ -100,7 +100,7 @@ Instead, the women had run.
 
 Instead, the county had found him beside an irrigation ditch with smoke still in his clothes and a girl from the lower dormitory clinging to his coat. Instead, the sky had remained indifferent. Instead, dawn had come and revealed the settlement not as a holy body but as buildings with bad wiring, hidden rooms, ledgers, dehydrated children, stockpiled antibiotics, diesel cans, and records no one in the county had been prepared to read.
 
-“Everett,” Renee said softly.
+“Everett,” Marian said softly.
 
 He realized he had closed his eyes.
 
@@ -110,11 +110,11 @@ He realized he had closed his eyes.
 
 He opened them. “If Mother Serene is missing, you should check the county water hearings.”
 
-Renee went still.
+Marian went still.
 
 “She kept names,” he said. “Not important names. Useful names. Men who decide where inspections happen. Men who know which roads are graded and which aren’t. Churches that share vans. A woman in Pueblo. A woman who works seasonal hiring at the fruit plant. The Mothers liked people who controlled gates and did not think of themselves as powerful.”
 
-Renee’s hand moved to the file, then stopped. “Do you want to write those down?”
+Marian’s hand moved to the file, then stopped. “Do you want to write those down?”
 
 “No.”
 
@@ -126,7 +126,7 @@ Renee’s hand moved to the file, then stopped. “Do you want to write those do
 
 “And then everyone who touches the file becomes part of the route.”
 
-For the first time, Renee looked tired in a way that had nothing to do with hours. “That may be true,” she said. “It may also be the only way to get anyone to act.”
+For the first time, Marian looked tired in a way that had nothing to do with hours. “That may be true,” she said. “It may also be the only way to get anyone to act.”
 
 Everett thought of the cabinet. Oilcloth. Ledgers. Mother Ester’s hands turning pages with a reverence she never gave scripture because scripture did not need her protection. “Then give me a map.”
 
@@ -138,9 +138,9 @@ Everett thought of the cabinet. Oilcloth. Ledgers. Mother Ester’s hands turnin
 
 “Because she won’t hide where no one can reach her. She’ll hide where reaching her requires permission.”
 
-Renee stared at him. Around them, ordinary government continued at its ordinary speed. The man with the trailer left angry. A clerk called number forty-two. The brass clock remained wrong above Everett’s head, but everyone still moved as if time existed somewhere else and could be consulted by those with access to better instruments.
+Marian stared at him. Around them, ordinary government continued at its ordinary speed. The man with the trailer left angry. A clerk called number forty-two. The brass clock remained wrong above Everett’s head, but everyone still moved as if time existed somewhere else and could be consulted by those with access to better instruments.
 
-Finally Renee stood. “I’ll see what I can do.”
+Finally Marian stood. “I’ll see what I can do.”
 
 “Ask Chauncey about culverts.”
 
@@ -154,25 +154,25 @@ Everett had not known that. For a moment, the lobby lost definition. The marble,
 
 He nodded once. There was no room to put what that meant. Not here. Perhaps nowhere.
 
-Renee left and returned after eighteen minutes with a folded county road map, a yellow legal pad, and a deputy who clearly disliked the arrangement but had been outvoted by someone not present. Everett took the map and spread it on the chair beside him. The county appeared in lines and numbers, section roads, state routes, dry creek names, school district boundaries, reservoirs, maintenance sheds, seasonal closures, cattle guards, bridges with load ratings. New Mercy was not marked. The land where it stood was shown as vacant ranch parcel under a holding company name Mother Ester had made the older boys practice saying without amusement.
+Marian left and returned after eighteen minutes with a folded county road map, a yellow legal pad, and a deputy who clearly disliked the arrangement but had been outvoted by someone not present. Everett took the map and spread it on the chair beside him. The county appeared in lines and numbers, section roads, state routes, dry creek names, school district boundaries, reservoirs, maintenance sheds, seasonal closures, cattle guards, bridges with load ratings. New Mercy was not marked. The land where it stood was shown as vacant ranch parcel under a holding company name Mother Ester had made the older boys practice saying without amusement.
 
 Everett placed his finger east of the settlement, where the map showed an unmaintained track ending at nothing. “Here,” he said. “There’s a gate hidden behind a windbreak. The lock is county surplus. Not hard to open. Past it, the road splits. Left goes to the spring. Right goes to the women’s house. There’s a buried tank here. If the ground sounds hollow, don’t let anyone stand too close. It was poured badly.”
 
-Renee wrote. The deputy watched. Everett moved his finger again.
+Marian wrote. The deputy watched. Everett moved his finger again.
 
 “Here. If Mother Ester is alive, she won’t take the highway. She’ll go south along ranch tracks until the old quarry. There’s a trailer near the quarry with no plates and a propane tank painted green. It belongs to a man named Caleb, unless he changed it. He owes Mother Serene.”
 
-“What does he owe?” Renee asked.
+“What does he owe?” Marian asked.
 
 Everett looked at the map. “Enough.”
 
-The deputy muttered something under his breath. Renee did not look away from Everett. “Go on.”
+The deputy muttered something under his breath. Marian did not look away from Everett. “Go on.”
 
 So he did. He gave them roads first, because roads were safer than names. He gave them gates, tanks, sheds, abandoned wells, two churches, one private school, a warehouse that accepted deliveries under three business names, and a chain of helpers who had learned not to ask what their usefulness connected them to. He did not give them everything. Not because he remained loyal. Loyalty had burned out of him in a series of rooms. He held back because information moved differently once surrendered. It became evidence, and evidence belonged to whoever could sign for it. He had been used as an instrument long enough to respect the danger of tools.
 
-When he finished, the light in the lobby had changed. Afternoon had become the kind of late afternoon that made the courthouse windows look briefly golden and almost kind. Renee’s legal pad was filled with her square, rapid handwriting. The deputy had stopped pretending not to be shaken. Everett folded the map along its creases. His hands did not tremble until the last fold, and then only slightly.
+When he finished, the light in the lobby had changed. Afternoon had become the kind of late afternoon that made the courthouse windows look briefly golden and almost kind. Marian’s legal pad was filled with her square, rapid handwriting. The deputy had stopped pretending not to be shaken. Everett folded the map along its creases. His hands did not tremble until the last fold, and then only slightly.
 
-Renee noticed. She noticed too much. “You did well,” she said.
+Marian noticed. She noticed too much. “You did well,” she said.
 
 “No.”
 
@@ -182,7 +182,7 @@ That he could accept.
 
 A door opened near the basement stairs. Another woman entered, tall and narrow-shouldered, with black boots, a denim jacket, and hair dyed a dark red that the fluorescent lights treated badly. She carried a paper grocery bag against one hip. She looked less like a foster placement than someone who had arrived to argue with a landlord. There were silver rings in one ear and a faded tattoo disappearing under her sleeve. Her face, though, was open in a way Everett immediately distrusted. Sweetness, in his experience, was either ignorance or bait.
 
-Renee stood. “Madeline.”
+Marian stood. “Madeline.”
 
 The woman smiled, nervous and warm. “Hi.”
 
@@ -192,7 +192,7 @@ Madeline saw him looking and lifted the bag slightly. “I didn’t know what yo
 
 No Mother had ever said a thing like that. Everett searched it for the hidden command and did not find one quickly enough to answer.
 
-Renee touched the back of the chair, grounding the room with one hand. “Everett, this is Madeline Ross. She has been cleared for emergency placement while we work through the next steps.”
+Marian touched the back of the chair, grounding the room with one hand. “Everett, this is Madeline Ross. She has been cleared for emergency placement while we work through the next steps.”
 
 Madeline did not step closer. Good. Either instinct or training. She looked at his face, then at the map, then back at him. Her eyes were gray-green and more tired than her voice. “My house is boring,” she said. “I should warn you up front. There’s a porch light that makes a clicking sound, and the neighbor’s dog thinks mailboxes are communists.”
 
@@ -206,7 +206,7 @@ Something moved in Everett’s chest, not amusement exactly, but near it and the
 
 Everett stood.
 
-Madeline’s gaze dropped once to his hands, then rose again. She did not offer to carry the map. She did not touch him. She said, “Car’s out back. Renee said you might want the quiet way.”
+Madeline’s gaze dropped once to his hands, then rose again. She did not offer to carry the map. She did not touch him. She said, “Car’s out back. Marian said you might want the quiet way.”
 
 “Yes,” Everett said.
 
