@@ -1,0 +1,68 @@
+.story-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.story-tab {
+  appearance: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 10px 13px;
+  color: var(--muted);
+  background: rgba(25, 31, 41, 0.82);
+  font: 700 0.82rem var(--sans);
+  cursor: pointer;
+  transition: border-color 160ms ease, color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+.story-tab:hover,
+.story-tab.active {
+  color: var(--ink);
+  border-color: rgba(200, 161, 90, 0.52);
+  background: rgba(200, 161, 90, 0.12);
+  transform: translateY(-1px);
+}
+
+.story-summary {
+  margin: 0 0 18px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.chapter-row.active {
+  transform: translateY(-2px);
+  border-color: rgba(200, 161, 90, 0.48);
+  background: #202734;
+}
+
+.chapter-number {
+  text-transform: uppercase;
+}
+
+.empty-shelf {
+  display: grid;
+  gap: 6px;
+  padding: 24px;
+  border: 1px dashed rgba(243, 238, 228, 0.24);
+  border-radius: 22px;
+  color: var(--muted);
+  background: rgba(25, 31, 41, 0.52);
+}
+
+.empty-shelf strong {
+  color: var(--ink);
+}
+
+.chapter-content h2 {
+  margin: 2.4em 0 0.9em;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 0.95;
+}
+
+@media (max-width: 760px) {
+  .story-tabs {
+    margin-top: 18px;
+  }
+}
