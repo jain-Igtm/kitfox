@@ -6,7 +6,7 @@ Everett counted it before he knew he was counting. The sound came from the fixtu
 
 Madeline stood with her keys in her hand and did not ask him if he liked it. That was one of the first things Everett noticed. Adults asked children whether they liked places when the answer had no power. Do you like your room, do you like this school, do you like your new church, do you like these shoes, do you like the life that has already been arranged around you. Madeline only looked at the porch light as it clicked and said, “I swear I fixed that.”
 
-Renee, behind him, made a tired sound that might have been a laugh if she had not used the last twelve hours filing pieces of a catastrophe into temporary categories. “You said that last time.”
+Marian, behind him, made a tired sound that might have been a laugh if she had not used the last twelve hours filing pieces of a catastrophe into temporary categories. “You said that last time.”
 
 “Last time it was doing a different bad thing.” Madeline glanced at Everett, not for approval, more as if checking whether the volume of her voice had startled him. “This one is new. Technically progress.”
 
@@ -18,17 +18,17 @@ The neighborhood was not rural enough to be safe by New Mercy standards and not 
 
 The dog barked harder.
 
-Renee looked at Everett. “You’ll be here tonight. I’ll come by in the morning. There’s a number on the fridge. Mine, the after-hours line, and the placement office. If anything feels unsafe, you call.”
+Marian looked at Everett. “You’ll be here tonight. I’ll come by in the morning. There’s a number on the fridge. Mine, the after-hours line, and the placement office. If anything feels unsafe, you call.”
 
 Everett looked at the windows. Living room front. Kitchen side. Likely bedroom above porch. Basement windows half-height, one painted shut, one cracked. Back fence old cedar, six feet, gate latch visible from driveway. The house was not defensible, but most houses weren’t. They were built for weather and privacy and the sustained delusion that doors decided things.
 
 “Unsafe how?” he asked.
 
-Renee paused. He had meant the question plainly. She heard more inside it. Adults did that when they were trying. “Any way that matters,” she said.
+Marian paused. He had meant the question plainly. She heard more inside it. Adults did that when they were trying. “Any way that matters,” she said.
 
 That was a bad answer and a good one. He filed it under both.
 
-Madeline unlocked the door and stepped in first. Good again. People who gestured for him to enter before them wanted to watch his back. People who entered first exposed theirs. Either she knew that or she was careless in a useful direction. The house smelled of coffee, dust, lemon dish soap, and the old electric heat that collected in baseboard registers even after the season had warmed. Lamps were already on inside. Not overhead lights. Lamps. Their shades made yellow pools against the walls and left corners intact. Everett stood just inside the threshold while Renee came in behind him and shut the door softly.
+Madeline unlocked the door and stepped in first. Good again. People who gestured for him to enter before them wanted to watch his back. People who entered first exposed theirs. Either she knew that or she was careless in a useful direction. The house smelled of coffee, dust, lemon dish soap, and the old electric heat that collected in baseboard registers even after the season had warmed. Lamps were already on inside. Not overhead lights. Lamps. Their shades made yellow pools against the walls and left corners intact. Everett stood just inside the threshold while Marian came in behind him and shut the door softly.
 
 The living room had a couch with a sag in the middle, two mismatched chairs, milk crates full of records, a low bookcase, a television with a crack in the lower corner of the screen, and a blanket folded over the armrest with the precision of someone who had learned tidiness as apology rather than doctrine. On the wall above the couch hung three framed prints: a black horse in snow, a river under a bridge, and a photograph of a woman in a marching band uniform holding a trumpet and squinting into sun. No scripture boards. No chore charts. No posted rules except a faded magnet on the refrigerator visible through the kitchen doorway: DON’T BE A DICK, in cheerful block letters.
 
@@ -36,17 +36,17 @@ Everett looked at it too long.
 
 Madeline followed his gaze. “House constitution,” she said. “Imperfectly enforced.”
 
-Renee set her purse on the kitchen counter. “Madeline.”
+Marian set her purse on the kitchen counter. “Madeline.”
 
 “What? It’s aspirational.”
 
 The exchange had the softness of people who had disagreed before and survived it. Everett placed the grocery bag on the table because his hand had begun to ache. The table was round and scarred by heat rings. One chair had a green cushion tied badly to the back. On the counter, a pot sat with tomato sauce dried along its rim. In the sink were three dishes soaking, not hidden, not displayed as confession. The ordinary disorder of the place unsettled him more than filth would have. Filth meant neglect. Order meant control. This was neither. This was a person living without turning every object into evidence.
 
-Renee opened a folder and reviewed practicalities with Madeline in the kitchen: medication, no visitors, no media, no unsupervised transport beyond what had been agreed, emergency hearing Monday, sheriff contact, attorney contact once assigned. Everett listened from the edge of the living room and watched the front window. The curtain moved when the baseboard heat clicked on. Outside, evening had lowered itself into the street. A sedan slowed near the curb, continued. A boy on a bicycle coasted past standing on one pedal. The porch light clicked.
+Marian opened a folder and reviewed practicalities with Madeline in the kitchen: medication, no visitors, no media, no unsupervised transport beyond what had been agreed, emergency hearing Monday, sheriff contact, attorney contact once assigned. Everett listened from the edge of the living room and watched the front window. The curtain moved when the baseboard heat clicked on. Outside, evening had lowered itself into the street. A sedan slowed near the curb, continued. A boy on a bicycle coasted past standing on one pedal. The porch light clicked.
 
 Madeline said, “He can lock the bedroom door?”
 
-Renee lowered her voice. “Yes.”
+Marian lowered her voice. “Yes.”
 
 “I mean from the inside.”
 
@@ -54,7 +54,7 @@ Renee lowered her voice. “Yes.”
 
 “Okay.” A pause. “And I can take the knob off my side?”
 
-Everett turned his head before Renee answered.
+Everett turned his head before Marian answered.
 
 Madeline looked at him directly, then shrugged as if embarrassed by her own thought. “It has one of those little emergency holes outside. I can tape over it or replace it tomorrow. Or not. I don’t know what’s better. I just don’t want you thinking I can pop it open whenever.”
 
@@ -66,9 +66,9 @@ Everett could not locate the trick. “Why would you do that?”
 
 Madeline’s face changed by fractions. The easy humor remained available but stepped back, giving the room to something sturdier. “Because it’s your door.”
 
-No one spoke for a moment. Renee looked down at the papers. Everett looked at Madeline. The statement was false in every legal, financial, and practical sense. The door belonged to Madeline, or to a bank, or to a landlord, or to whatever adult name existed on county forms. It belonged to the house. It belonged to the state’s temporary permission. It did not belong to him. But she had said it in the small domestic sense, the way a cup might be his because she put it in front of him and did not take it back without asking. He distrusted that sense most of all because it could become real before anyone had earned it.
+No one spoke for a moment. Marian looked down at the papers. Everett looked at Madeline. The statement was false in every legal, financial, and practical sense. The door belonged to Madeline, or to a bank, or to a landlord, or to whatever adult name existed on county forms. It belonged to the house. It belonged to the state’s temporary permission. It did not belong to him. But she had said it in the small domestic sense, the way a cup might be his because she put it in front of him and did not take it back without asking. He distrusted that sense most of all because it could become real before anyone had earned it.
 
-Renee left at 7:43.
+Marian left at 7:43.
 
 Everett watched from the living room window as her car pulled away. She did not sit idling in front of the house. She did not look back dramatically. She checked the mirror, signaled, and entered traffic with bureaucratic dignity. Her taillights diminished past Walter’s fence. The dog barked at them until they were gone and then seemed confused by the loss of purpose.
 
@@ -110,7 +110,7 @@ He sat down because standing had become too much like an announcement. The chair
 
 They ate in silence for a while. Outside, a car door slammed. The porch light clicked. The refrigerator motor came on with a shudder and settled into an uneven hum. Everett let the sounds arrange themselves. Houses spoke constantly if no one trained them not to.
 
-Madeline said, “Renee told me some things.”
+Madeline said, “Marian told me some things.”
 
 He put the sandwich down.
 
