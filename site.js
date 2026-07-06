@@ -52,6 +52,20 @@ const collections = {
         summary: "The first morning in Madeline’s house begins with a nightmare the county cannot neatly categorize."
       }
     }
+  },
+  arthur: {
+    label: "Arthur",
+    note: "Coded animation",
+    stories: {
+      "1": {
+        path: "animations/arthur-psychic-break.html",
+        number: "A1",
+        kicker: "Arthur / Animated Scene",
+        title: "The Ceiling Gives Way",
+        summary: "A coded canvas animation built for phone viewing.",
+        type: "animation"
+      }
+    }
   }
 };
 
@@ -177,6 +191,15 @@ function renderStoryList(collectionKey, activeStoryId) {
   });
 }
 
+function renderAnimation(story) {
+  target.innerHTML = `
+    <div class="animation-embed">
+      <iframe class="animation-frame" src="${escapeHtml(story.path)}" title="${escapeHtml(story.title)} animated scene" loading="eager" allowfullscreen></iframe>
+      <p class="animation-direct-link"><a href="${escapeHtml(story.path)}">Open the animation page</a></p>
+    </div>
+  `;
+}
+
 async function loadStory(collectionKey, storyId) {
   const collection = collections[collectionKey] || collections.jane;
   const story = collection.stories[storyId] || collection.stories["1"];
@@ -187,6 +210,15 @@ async function loadStory(collectionKey, storyId) {
 
   kicker.textContent = story.kicker;
   heading.textContent = story.title;
+  target.classList.toggle("animation-content", story.type === "animation");
+
+  if (story.type === "animation") {
+    note.textContent = "A coded canvas animation embedded from the repository. Tap replay inside the frame to restart it.";
+    renderAnimation(story);
+    document.getElementById("chapter").scrollIntoView({ behavior: "smooth", block: "start" });
+    return;
+  }
+
   note.textContent = `Loaded from ${story.path}.`;
   target.innerHTML = `<p class="loading">Loading ${escapeHtml(story.title)}...</p>`;
 
