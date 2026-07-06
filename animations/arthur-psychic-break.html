@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="theme-color" content="#05060a" />
-  <title>Arthur — The Ceiling Gives Way</title>
+  <meta name="theme-color" content="#03040a" />
+  <title>Arthur — Voiced Psychic Scene</title>
   <style>
     :root {
       color-scheme: dark;
-      --ink: #f8f2e7;
-      --muted: #b9ad9c;
-      --panel: rgba(7, 9, 14, 0.72);
-      --line: rgba(248, 242, 231, 0.16);
-      --gold: #d0ad68;
+      --ink: #f5efe5;
+      --muted: #a99f90;
+      --line: rgba(245, 239, 229, 0.16);
+      --gold: #d2ad67;
+      --blue: #7db8ff;
     }
 
     * { box-sizing: border-box; }
@@ -22,12 +22,9 @@
       width: 100%;
       min-height: 100%;
       overflow: hidden;
-      background: #05060a;
+      background: #03040a;
       color: var(--ink);
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
-
-    body {
       touch-action: manipulation;
       user-select: none;
     }
@@ -36,618 +33,599 @@
       display: block;
       width: 100vw;
       height: 100vh;
-      background: #05060a;
+      background: #03040a;
     }
 
-    .hud {
+    .topbar {
       position: fixed;
-      left: max(14px, env(safe-area-inset-left));
-      right: max(14px, env(safe-area-inset-right));
-      top: max(14px, env(safe-area-inset-top));
+      left: max(12px, env(safe-area-inset-left));
+      right: max(12px, env(safe-area-inset-right));
+      top: max(12px, env(safe-area-inset-top));
+      z-index: 5;
       display: flex;
       justify-content: space-between;
-      gap: 12px;
+      align-items: flex-start;
+      gap: 10px;
       pointer-events: none;
-      z-index: 4;
     }
 
-    .title-card,
-    .controls {
+    .title {
+      max-width: min(520px, 68vw);
+      padding: 11px 13px;
       border: 1px solid var(--line);
-      border-radius: 18px;
-      background: linear-gradient(135deg, rgba(8, 10, 16, 0.72), rgba(18, 22, 31, 0.44));
-      box-shadow: 0 18px 60px rgba(0, 0, 0, 0.38);
+      border-radius: 17px;
+      background: linear-gradient(135deg, rgba(5, 7, 14, 0.76), rgba(20, 24, 34, 0.42));
       backdrop-filter: blur(12px);
+      box-shadow: 0 14px 46px rgba(0, 0, 0, 0.38);
     }
 
-    .title-card {
-      width: min(520px, 72vw);
-      padding: 12px 14px;
-    }
-
-    .eyebrow {
-      margin: 0 0 4px;
+    .kicker {
+      margin: 0 0 3px;
       color: var(--gold);
       text-transform: uppercase;
       letter-spacing: 0.18em;
-      font-size: 0.66rem;
-      font-weight: 800;
+      font-size: 0.62rem;
+      font-weight: 900;
     }
 
     h1 {
       margin: 0;
       font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(1.3rem, 4.8vw, 2.35rem);
-      line-height: 0.96;
+      font-size: clamp(1.25rem, 4.8vw, 2.2rem);
+      line-height: 0.98;
       letter-spacing: -0.04em;
-      text-shadow: 0 8px 24px rgba(0, 0, 0, 0.55);
     }
 
     .controls {
-      align-self: start;
-      padding: 8px;
       pointer-events: auto;
       display: flex;
-      gap: 8px;
+      gap: 7px;
+      padding: 7px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(5, 7, 14, 0.7);
+      backdrop-filter: blur(12px);
     }
 
     button {
       appearance: none;
-      border: 1px solid rgba(208, 173, 104, 0.34);
+      border: 1px solid rgba(210, 173, 103, 0.4);
       border-radius: 999px;
-      padding: 9px 12px;
+      padding: 8px 10px;
+      background: rgba(210, 173, 103, 0.13);
       color: var(--ink);
-      background: rgba(208, 173, 104, 0.13);
       font: inherit;
-      font-size: 0.78rem;
-      font-weight: 800;
+      font-size: 0.74rem;
+      font-weight: 850;
       letter-spacing: 0.04em;
     }
 
-    .caption {
+    .gate {
       position: fixed;
-      left: 50%;
-      bottom: max(24px, env(safe-area-inset-bottom));
-      width: min(860px, calc(100vw - 28px));
-      transform: translateX(-50%);
-      padding: 14px 16px;
+      inset: 0;
+      z-index: 8;
+      display: grid;
+      place-items: center;
+      padding: 22px;
+      background:
+        radial-gradient(circle at 45% 42%, rgba(125, 184, 255, 0.17), transparent 22rem),
+        radial-gradient(circle at 60% 58%, rgba(210, 173, 103, 0.15), transparent 20rem),
+        rgba(3, 4, 10, 0.74);
+      backdrop-filter: blur(7px);
+    }
+
+    .gate-card {
+      width: min(520px, 92vw);
+      padding: 24px;
       border: 1px solid var(--line);
-      border-radius: 20px;
-      background: linear-gradient(135deg, rgba(5, 6, 10, 0.74), rgba(18, 21, 29, 0.46));
-      color: #eee3d1;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(1.02rem, 3.4vw, 1.35rem);
-      line-height: 1.3;
+      border-radius: 26px;
+      background: linear-gradient(135deg, rgba(7, 9, 16, 0.9), rgba(18, 22, 32, 0.76));
+      box-shadow: 0 24px 90px rgba(0, 0, 0, 0.55);
       text-align: center;
-      letter-spacing: 0.01em;
-      box-shadow: 0 16px 50px rgba(0, 0, 0, 0.45);
-      backdrop-filter: blur(10px);
-      opacity: 0;
-      transition: opacity 420ms ease;
-      z-index: 3;
-      pointer-events: none;
     }
 
-    .caption.visible { opacity: 1; }
-
-    .tap-note {
-      position: fixed;
-      right: max(14px, env(safe-area-inset-right));
-      bottom: max(14px, env(safe-area-inset-bottom));
-      color: rgba(248, 242, 231, 0.56);
-      font-size: 0.72rem;
-      pointer-events: none;
-      z-index: 2;
+    .gate-card h2 {
+      margin: 0 0 10px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2rem, 9vw, 3.6rem);
+      line-height: 0.9;
+      letter-spacing: -0.06em;
     }
+
+    .gate-card p {
+      margin: 0 auto 18px;
+      max-width: 38ch;
+      color: var(--muted);
+      line-height: 1.55;
+      font-size: 0.96rem;
+    }
+
+    .start {
+      padding: 12px 18px;
+      font-size: 0.92rem;
+      background: rgba(210, 173, 103, 0.2);
+    }
+
+    .hidden { display: none; }
 
     @media (max-width: 640px) {
-      .hud {
-        align-items: flex-start;
-      }
-
-      .title-card {
-        width: min(72vw, 360px);
-        padding: 10px 12px;
-      }
-
-      .controls {
-        padding: 6px;
-      }
-
-      button {
-        padding: 8px 10px;
-        font-size: 0.72rem;
-      }
-
-      .tap-note { display: none; }
+      .title { max-width: 64vw; padding: 10px 11px; }
+      .controls { padding: 5px; gap: 5px; }
+      button { padding: 7px 9px; font-size: 0.68rem; }
     }
   </style>
 </head>
 <body>
-  <canvas id="scene" aria-label="Animated psychic battle scene: Arthur holds back, then the room of the world gives way."></canvas>
+  <canvas id="scene" aria-label="Voiced coded animation of Arthur in a psychic confrontation"></canvas>
 
-  <div class="hud">
-    <div class="title-card">
-      <p class="eyebrow">Arthur / animated scene</p>
-      <h1>The Ceiling Gives Way</h1>
+  <div class="topbar">
+    <div class="title">
+      <p class="kicker">Arthur / voiced scene set</p>
+      <h1>The Room Learns Better</h1>
     </div>
-    <div class="controls" aria-label="Animation controls">
+    <div class="controls">
       <button id="replay" type="button">Replay</button>
+      <button id="mute" type="button">Mute</button>
     </div>
   </div>
 
-  <div id="caption" class="caption"></div>
-  <div class="tap-note">tap to replay</div>
+  <div id="gate" class="gate">
+    <div class="gate-card">
+      <h2>The Room Learns Better</h2>
+      <p>Tap start for voices. No captions. The psychic is not stronger than Arthur; he is only reckless enough to mistake restraint for weakness.</p>
+      <button id="start" class="start" type="button">Start with voices</button>
+    </div>
+  </div>
 
   <script>
     const canvas = document.getElementById("scene");
     const ctx = canvas.getContext("2d", { alpha: false });
-    const captionEl = document.getElementById("caption");
+    const gate = document.getElementById("gate");
+    const startBtn = document.getElementById("start");
     const replayBtn = document.getElementById("replay");
+    const muteBtn = document.getElementById("mute");
 
-    let width = 0;
-    let height = 0;
-    let dpr = 1;
+    let W = 0;
+    let H = 0;
+    let DPR = 1;
     let startedAt = performance.now();
-    let lastCaption = "";
+    let running = false;
+    let muted = false;
+    let audioCtx = null;
+    let voiceReady = false;
+    let spoken = new Set();
 
-    const duration = 32;
+    const duration = 54;
+    const people = [];
     const debris = [];
-    const glass = [];
-    const dust = [];
-    const sparks = [];
+    const rain = [];
+    const lights = [];
+    const papers = [];
 
-    const rand = (min, max) => min + Math.random() * (max - min);
-    const clamp = (v, min, max) => Math.max(min, Math.min(max, v));
-    const easeInOut = (x) => x < 0.5 ? 2 * x * x : 1 - Math.pow(-2 * x + 2, 2) / 2;
-    const easeOut = (x) => 1 - Math.pow(1 - x, 3);
-    const easeIn = (x) => x * x * x;
-    const pulse = (t, speed = 1) => (Math.sin(t * speed) + 1) / 2;
-    const between = (t, a, b) => clamp((t - a) / (b - a), 0, 1);
+    const rand = (a, b) => a + Math.random() * (b - a);
+    const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+    const lerp = (a, b, p) => a + (b - a) * p;
+    const ease = (p) => p < 0.5 ? 2 * p * p : 1 - Math.pow(-2 * p + 2, 2) / 2;
+    const out = (p) => 1 - Math.pow(1 - p, 3);
+    const inn = (p) => p * p * p;
+    const seg = (t, a, b) => clamp((t - a) / (b - a), 0, 1);
+    const pulse = (t, s = 1) => (Math.sin(t * s) + 1) * 0.5;
+
+    const lines = [
+      { at: 1.3, who: "bystander", text: "Rain's coming sideways. You see that?", rate: 1.03, pitch: 1.12 },
+      { at: 4.0, who: "opponent", text: "Arthur.", rate: 0.82, pitch: 0.72 },
+      { at: 5.4, who: "arthur", text: "No.", rate: 0.86, pitch: 0.82 },
+      { at: 8.6, who: "opponent", text: "You felt the hook. Good.", rate: 0.9, pitch: 0.76 },
+      { at: 10.2, who: "arthur", text: "Move the people first.", rate: 0.94, pitch: 0.84 },
+      { at: 13.6, who: "driver", text: "Everybody back! Back!", rate: 1.16, pitch: 1.03 },
+      { at: 17.1, who: "opponent", text: "Still spending yourself on strangers.", rate: 0.9, pitch: 0.76 },
+      { at: 19.4, who: "arthur", text: "You are standing with them.", rate: 0.84, pitch: 0.82 },
+      { at: 24.1, who: "opponent", text: "Then stop holding the street together.", rate: 0.92, pitch: 0.74 },
+      { at: 28.7, who: "arthur", text: "Fine.", rate: 0.72, pitch: 0.76 },
+      { at: 34.9, who: "opponent", text: "Wait.", rate: 1.04, pitch: 0.88 },
+      { at: 38.5, who: "arthur", text: "Stay down.", rate: 0.78, pitch: 0.78 },
+      { at: 43.6, who: "bystander", text: "What did he do?", rate: 1.08, pitch: 1.16 },
+      { at: 46.2, who: "arthur", text: "Less than he could have.", rate: 0.86, pitch: 0.82 }
+    ];
 
     function resize() {
-      dpr = Math.min(window.devicePixelRatio || 1, 2);
-      width = Math.floor(window.innerWidth);
-      height = Math.floor(window.innerHeight);
-      canvas.width = Math.floor(width * dpr);
-      canvas.height = Math.floor(height * dpr);
-      canvas.style.width = width + "px";
-      canvas.style.height = height + "px";
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      seedScene();
+      DPR = Math.min(devicePixelRatio || 1, 2);
+      W = Math.floor(innerWidth);
+      H = Math.floor(innerHeight);
+      canvas.width = Math.floor(W * DPR);
+      canvas.height = Math.floor(H * DPR);
+      canvas.style.width = W + "px";
+      canvas.style.height = H + "px";
+      ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+      seed();
     }
 
-    function seedScene() {
+    function seed() {
+      people.length = 0;
       debris.length = 0;
-      glass.length = 0;
-      dust.length = 0;
-      sparks.length = 0;
+      rain.length = 0;
+      lights.length = 0;
+      papers.length = 0;
 
-      for (let i = 0; i < 130; i++) {
+      for (let i = 0; i < 9; i++) {
+        people.push({
+          x: rand(0.06, 0.94), y: rand(0.64, 0.78),
+          s: rand(0.56, 0.92), phase: rand(0, 9),
+          dir: Math.random() > 0.5 ? 1 : -1,
+          hurry: rand(0.4, 1.25), color: rand(0, 1)
+        });
+      }
+
+      for (let i = 0; i < 180; i++) {
         debris.push({
-          x: rand(-0.08, 1.08),
-          y: rand(0.42, 0.9),
-          base: rand(0.18, 1),
-          r: rand(1.2, 4.8),
-          a: rand(0, Math.PI * 2),
-          spin: rand(-1.6, 1.6),
-          lift: rand(0.04, 0.34),
-          side: rand(-0.08, 0.08),
-          delay: rand(0, 1)
+          x: rand(-0.08, 1.08), y: rand(0.36, 0.9), r: rand(1.2, 5.8),
+          a: rand(0, Math.PI * 2), spin: rand(-2.8, 2.8), w: rand(0.6, 1.9), d: rand(0, 1)
         });
       }
 
-      for (let i = 0; i < 70; i++) {
-        glass.push({
-          x: rand(0.06, 0.94),
-          y: rand(0.2, 0.62),
-          len: rand(8, 30),
-          a: rand(-0.7, 0.7),
-          speed: rand(0.4, 1.4),
-          delay: rand(0, 1)
-        });
+      for (let i = 0; i < 140; i++) {
+        rain.push({ x: rand(0, 1), y: rand(0, 1), len: rand(10, 34), speed: rand(0.5, 1.7), d: rand(0, 1) });
       }
 
-      for (let i = 0; i < 160; i++) {
-        dust.push({
-          x: rand(0, 1),
-          y: rand(0.18, 0.95),
-          r: rand(0.8, 3.2),
-          speed: rand(0.05, 0.22),
-          phase: rand(0, Math.PI * 2),
-          opacity: rand(0.08, 0.26)
-        });
-      }
-
-      for (let i = 0; i < 90; i++) {
-        sparks.push({
-          x: rand(0.18, 0.92),
-          y: rand(0.18, 0.76),
-          len: rand(4, 16),
-          phase: rand(0, Math.PI * 2),
-          speed: rand(1.5, 5),
-          hot: Math.random() > 0.35
-        });
-      }
+      for (let i = 0; i < 8; i++) lights.push({ x: 0.08 + i * 0.13, h: rand(0.2, 0.38), flick: rand(0, 12) });
+      for (let i = 0; i < 80; i++) papers.push({ x: rand(0.04, 0.96), y: rand(0.38, 0.82), a: rand(0, 6.28), d: rand(0, 1) });
     }
 
-    function reset() {
-      startedAt = performance.now();
-      lastCaption = "";
-      captionEl.classList.remove("visible");
-    }
-
-    window.addEventListener("resize", resize, { passive: true });
-    replayBtn.addEventListener("click", reset);
-    canvas.addEventListener("click", reset);
+    addEventListener("resize", resize, { passive: true });
     resize();
 
-    function captionFor(t) {
-      if (t < 2.2) return "";
-      if (t < 6.4) return "The first move belongs to the other psychic. Not power. Timing.";
-      if (t < 11.2) return "Arthur gives ground because there are people behind him, glass above him, traffic still moving in the dark.";
-      if (t < 16.8) return "The trap tightens. For three seconds it almost looks like winning.";
-      if (t < 22.8) return "Then the street understands what Arthur has been doing: holding it together.";
-      if (t < 27.8) return "He stops choosing a ceiling.";
-      if (t < 31.2) return "The other psychic is still alive because Arthur notices himself in time.";
-      return "";
+    function reset(withVoice = true) {
+      startedAt = performance.now();
+      spoken.clear();
+      if (speechSynthesis) speechSynthesis.cancel();
+      if (withVoice && running && !muted) primeAudio();
     }
 
-    function setCaption(text) {
-      if (text === lastCaption) return;
-      lastCaption = text;
-      if (!text) {
-        captionEl.classList.remove("visible");
-        return;
+    replayBtn.onclick = () => reset(true);
+    muteBtn.onclick = () => {
+      muted = !muted;
+      muteBtn.textContent = muted ? "Unmute" : "Mute";
+      if (muted && speechSynthesis) speechSynthesis.cancel();
+    };
+
+    startBtn.onclick = () => {
+      running = true;
+      gate.classList.add("hidden");
+      primeAudio();
+      reset(true);
+    };
+
+    function primeAudio() {
+      if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      if (audioCtx.state === "suspended") audioCtx.resume();
+      voiceReady = true;
+    }
+
+    function voiceFor(who) {
+      const voices = speechSynthesis.getVoices ? speechSynthesis.getVoices() : [];
+      const english = voices.filter(v => /en/i.test(v.lang || ""));
+      if (!english.length) return null;
+      const lower = english.find(v => /male|david|mark|guy|daniel|fred/i.test(v.name));
+      const bright = english.find(v => /female|zira|samantha|victoria|karen|susan/i.test(v.name));
+      if (who === "arthur") return lower || english[0];
+      if (who === "opponent") return english[1] || lower || english[0];
+      return bright || english[0];
+    }
+
+    function speak(line) {
+      if (muted || !voiceReady || !window.speechSynthesis) return;
+      const u = new SpeechSynthesisUtterance(line.text);
+      u.voice = voiceFor(line.who);
+      u.rate = line.rate;
+      u.pitch = line.pitch;
+      u.volume = line.who === "bystander" || line.who === "driver" ? 0.82 : 1;
+      speechSynthesis.speak(u);
+    }
+
+    function tone(freq, dur, gain = 0.05, type = "sine") {
+      if (muted || !audioCtx) return;
+      const osc = audioCtx.createOscillator();
+      const g = audioCtx.createGain();
+      osc.type = type;
+      osc.frequency.value = freq;
+      g.gain.setValueAtTime(0.0001, audioCtx.currentTime);
+      g.gain.exponentialRampToValueAtTime(gain, audioCtx.currentTime + 0.025);
+      g.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + dur);
+      osc.connect(g).connect(audioCtx.destination);
+      osc.start();
+      osc.stop(audioCtx.currentTime + dur + 0.03);
+    }
+
+    function handleAudio(t) {
+      if (!running || muted) return;
+      for (const line of lines) {
+        const id = "line" + line.at;
+        if (t >= line.at && !spoken.has(id)) {
+          spoken.add(id);
+          speak(line);
+        }
       }
-      captionEl.textContent = text;
-      captionEl.classList.add("visible");
+      const bangs = [8.1, 13.2, 23.7, 28.5, 31.4, 36.1];
+      for (const b of bangs) {
+        const id = "bang" + b;
+        if (t >= b && !spoken.has(id)) {
+          spoken.add(id);
+          tone(b > 28 ? 42 : 76, b > 28 ? 1.2 : 0.42, b > 28 ? 0.1 : 0.07, b > 28 ? "sawtooth" : "triangle");
+        }
+      }
     }
 
-    function background(t, shakeX, shakeY, rupture) {
-      const g = ctx.createLinearGradient(0, 0, 0, height);
-      g.addColorStop(0, `rgb(${Math.floor(5 + rupture * 22)}, ${Math.floor(7 + rupture * 18)}, ${Math.floor(13 + rupture * 28)})`);
-      g.addColorStop(0.52, `rgb(${Math.floor(11 + rupture * 34)}, ${Math.floor(13 + rupture * 22)}, ${Math.floor(20 + rupture * 36)})`);
-      g.addColorStop(1, "#05060a");
-      ctx.fillStyle = g;
-      ctx.fillRect(0, 0, width, height);
+    function bg(t, scene, strain, release, flash) {
+      const sky = ctx.createLinearGradient(0, 0, 0, H);
+      sky.addColorStop(0, `rgb(${Math.floor(4 + release * 45 + flash * 200)}, ${Math.floor(6 + release * 35 + flash * 190)}, ${Math.floor(13 + release * 52 + flash * 170)})`);
+      sky.addColorStop(0.58, `rgb(${Math.floor(9 + release * 36 + flash * 160)}, ${Math.floor(12 + release * 30 + flash * 150)}, ${Math.floor(22 + release * 46 + flash * 140)})`);
+      sky.addColorStop(1, "#03040a");
+      ctx.fillStyle = sky;
+      ctx.fillRect(0, 0, W, H);
+
+      const horizon = H * 0.61;
+      ctx.fillStyle = `rgba(${12 + scene * 2}, ${15 + scene * 2}, ${24 + scene * 2}, 0.96)`;
+      ctx.fillRect(0, horizon, W, H - horizon);
 
       ctx.save();
-      ctx.translate(shakeX * 0.4, shakeY * 0.35);
+      ctx.translate(-scene * W * 0.045, 0);
+      for (let i = 0; i < 9; i++) {
+        const x = W * (0.03 + i * 0.13);
+        const bw = W * (0.08 + (i % 3) * 0.018);
+        const bh = H * (0.22 + ((i * 17) % 8) * 0.025);
+        ctx.fillStyle = `rgba(${13 + i}, ${17 + i}, ${29 + i}, ${0.68 + strain * 0.12})`;
+        ctx.fillRect(x, horizon - bh, bw, bh);
+        for (let y = horizon - bh + 18; y < horizon - 18; y += 28) {
+          const on = pulse(t * (3 + i * 0.1) + y, 1) > 0.35;
+          ctx.fillStyle = on ? `rgba(218, 181, 101, ${0.08 + strain * 0.18})` : "rgba(218,181,101,0.025)";
+          ctx.fillRect(x + 10, y, bw * 0.18, 5);
+          ctx.fillRect(x + bw * 0.58, y + 6, bw * 0.16, 5);
+        }
+      }
+      ctx.restore();
 
-      const horizon = height * 0.62;
-      ctx.fillStyle = "rgba(12, 15, 22, 0.92)";
-      ctx.fillRect(0, horizon, width, height - horizon);
+      for (const l of lights) {
+        const broken = seg(t, 12 + l.x * 8, 13.7 + l.x * 8);
+        const glow = (1 - broken) * (0.22 + pulse(t * 9 + l.flick, 1) * 0.24) + release * 0.32;
+        const x = l.x * W;
+        ctx.strokeStyle = "rgba(98, 103, 112, 0.7)";
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(x, H * 0.77);
+        ctx.lineTo(x + W * 0.012, H * (0.38 - l.h * 0.1));
+        ctx.stroke();
+        ctx.fillStyle = `rgba(228, 190, 110, ${glow})`;
+        ctx.beginPath();
+        ctx.ellipse(x + W * 0.018, H * (0.38 - l.h * 0.1), 11 + release * 22, 7 + release * 12, -0.15, 0, Math.PI * 2);
+        ctx.fill();
+      }
 
-      ctx.fillStyle = "rgba(24, 29, 38, 0.84)";
+      ctx.fillStyle = "rgba(20, 22, 28, 0.72)";
       ctx.beginPath();
-      ctx.moveTo(0, horizon);
-      ctx.lineTo(width, horizon - height * 0.04);
-      ctx.lineTo(width, horizon + height * 0.035);
-      ctx.lineTo(0, horizon + height * 0.08);
+      ctx.moveTo(0, H * 0.77);
+      ctx.lineTo(W, H * 0.71);
+      ctx.lineTo(W, H);
+      ctx.lineTo(0, H);
       ctx.closePath();
       ctx.fill();
 
-      for (let i = 0; i < 6; i++) {
-        const x = width * (0.08 + i * 0.17);
-        const bh = height * randStable(i, 0.2, 0.48);
-        ctx.fillStyle = `rgba(${14 + i}, ${18 + i}, ${28 + i * 2}, 0.72)`;
-        ctx.fillRect(x, horizon - bh, width * 0.12, bh);
-
-        const flicker = pulse(t * (2.4 + i * 0.31) + i, 1);
-        ctx.fillStyle = `rgba(208, 173, 104, ${0.05 + flicker * 0.15})`;
-        for (let y = horizon - bh + 16; y < horizon - 20; y += 28) {
-          ctx.fillRect(x + 12, y, width * 0.02, 6);
-          ctx.fillRect(x + width * 0.07, y + 6, width * 0.018, 5);
-        }
-      }
-
-      for (let i = 0; i < 5; i++) {
-        const x = width * (0.13 + i * 0.2);
-        const broken = between(t, 7 + i * 0.75, 8.7 + i * 0.75);
-        const glow = (1 - broken) * (0.38 + pulse(t * 10 + i) * 0.28) + rupture * 0.36;
-        ctx.strokeStyle = "rgba(81, 86, 95, 0.72)";
-        ctx.lineWidth = 3;
-        ctx.beginPath();
-        ctx.moveTo(x, horizon + 10);
-        ctx.lineTo(x + width * 0.015, height * 0.31);
-        ctx.stroke();
-        ctx.fillStyle = `rgba(224, 190, 120, ${glow})`;
-        ctx.beginPath();
-        ctx.ellipse(x + width * 0.018, height * 0.31, 9 + rupture * 16, 6 + rupture * 8, -0.2, 0, Math.PI * 2);
-        ctx.fill();
-      }
-
-      ctx.restore();
+      ctx.fillStyle = "rgba(210, 173, 103, 0.1)";
+      for (let i = 0; i < 7; i++) ctx.fillRect(W * (0.06 + i * 0.16), H * 0.81 + Math.sin(i) * 8, W * 0.075, 3);
     }
 
-    function randStable(seed, min, max) {
-      const n = Math.sin(seed * 999.123) * 43758.5453;
-      return min + (n - Math.floor(n)) * (max - min);
-    }
-
-    function drawDust(t, pressure, rupture) {
-      ctx.save();
-      for (const p of dust) {
-        const swirl = pressure * 22 + rupture * 70;
-        const x = p.x * width + Math.sin(t * p.speed + p.phase) * (18 + swirl);
-        const y = p.y * height + Math.cos(t * p.speed * 0.8 + p.phase) * (12 + swirl * 0.4) - rupture * height * 0.1;
-        ctx.fillStyle = `rgba(207, 196, 177, ${p.opacity + pressure * 0.08 + rupture * 0.14})`;
-        ctx.beginPath();
-        ctx.arc(x, y, p.r + rupture * 2, 0, Math.PI * 2);
-        ctx.fill();
-      }
-      ctx.restore();
-    }
-
-    function drawDebris(t, pressure, arthurWake, rupture) {
-      const cx = width * 0.46;
-      const cy = height * 0.6;
-      for (const d of debris) {
-        const liftStart = clamp((pressure - d.delay * 0.2) / 0.9, 0, 1);
-        const lift = easeOut(liftStart);
-        const orbit = arthurWake * (0.4 + d.base * 0.8) + rupture * 2.2;
-        let x = d.x * width + d.side * width * pressure + Math.sin(t * (0.7 + d.base) + d.a) * orbit * 42;
-        let y = d.y * height - lift * d.lift * height + Math.cos(t * (0.8 + d.base) + d.a) * orbit * 28;
-
-        if (arthurWake > 0) {
-          const dx = x - cx;
-          const dy = y - cy;
-          const dist = Math.max(36, Math.hypot(dx, dy));
-          const pull = arthurWake * 100;
-          const tangent = Math.atan2(dy, dx) + Math.PI / 2;
-          x += Math.cos(tangent) * pull * d.base;
-          y += Math.sin(tangent) * pull * d.base;
-          x += dx / dist * rupture * 130;
-          y += dy / dist * rupture * 92;
-        }
-
-        ctx.save();
-        ctx.translate(x, y);
-        ctx.rotate(d.a + t * d.spin + rupture * d.spin * 4);
-        ctx.fillStyle = `rgba(${84 + d.base * 55}, ${82 + d.base * 45}, ${78 + d.base * 36}, ${0.55 + pressure * 0.3})`;
-        ctx.fillRect(-d.r * 1.7, -d.r, d.r * 3.4, d.r * 2);
-        ctx.restore();
-      }
-    }
-
-    function drawGlass(t, pressure, rupture) {
+    function rainLayer(t, force, release) {
       ctx.save();
       ctx.lineCap = "round";
-      for (const shard of glass) {
-        const active = easeOut(clamp((pressure - shard.delay * 0.25) / 0.9, 0, 1));
-        if (active <= 0) continue;
-        const x = shard.x * width + Math.sin(t * shard.speed + shard.delay * 4) * active * 86;
-        const y = shard.y * height + Math.cos(t * shard.speed) * active * 44 - active * 58 - rupture * 160;
-        const alpha = 0.12 + active * 0.34 + rupture * 0.2;
-        ctx.strokeStyle = `rgba(205, 230, 255, ${alpha})`;
-        ctx.lineWidth = 1 + rupture * 1.4;
+      for (const r of rain) {
+        const x = ((r.x + t * 0.015 * r.speed + force * 0.08) % 1) * W;
+        const y = ((r.y + t * 0.1 * r.speed) % 1) * H;
+        ctx.strokeStyle = `rgba(188, 212, 236, ${0.12 + force * 0.12 + release * 0.18})`;
+        ctx.lineWidth = 1;
         ctx.beginPath();
         ctx.moveTo(x, y);
-        ctx.lineTo(x + Math.cos(shard.a + t) * shard.len, y + Math.sin(shard.a + t) * shard.len);
+        ctx.lineTo(x - r.len * (0.7 + force * 1.8), y + r.len);
         ctx.stroke();
       }
       ctx.restore();
     }
 
-    function drawPsychicLattice(t, trap, rupture) {
-      if (trap <= 0) return;
-      const ax = width * 0.39;
-      const ay = height * 0.58;
-      const ox = width * 0.68;
-      const oy = height * 0.54;
-
-      ctx.save();
-      ctx.globalCompositeOperation = "screen";
-      for (let i = 0; i < 11; i++) {
-        const p = i / 10;
-        const sag = Math.sin(p * Math.PI) * height * (0.09 + rupture * 0.04);
-        const jitter = (Math.sin(t * 10 + i) * 3 + rupture * randStable(i + 40, -18, 18)) * trap;
-        ctx.strokeStyle = `rgba(129, 184, 255, ${0.08 + trap * 0.16})`;
-        ctx.lineWidth = 1 + trap * 2 + rupture * 5;
-        ctx.beginPath();
-        ctx.moveTo(ox + jitter, oy - i * 7);
-        ctx.quadraticCurveTo(width * (0.53 + Math.sin(t + i) * 0.02), height * 0.42 - sag + jitter, ax - jitter * 0.6, ay + i * 6);
-        ctx.stroke();
-      }
-      ctx.restore();
-    }
-
-    function drawRings(t, arthurWake, rupture) {
-      const cx = width * 0.43;
-      const cy = height * 0.58;
-      ctx.save();
-      ctx.globalCompositeOperation = "screen";
-      for (let i = 0; i < 7; i++) {
-        const wave = (t * 0.62 + i * 0.14) % 1;
-        const radius = (46 + wave * Math.max(width, height) * 0.7) * (0.8 + rupture * 0.6);
-        const alpha = (1 - wave) * (arthurWake * 0.12 + rupture * 0.18);
-        ctx.strokeStyle = `rgba(236, 225, 204, ${alpha})`;
-        ctx.lineWidth = 1 + rupture * 5;
-        ctx.beginPath();
-        ctx.arc(cx, cy, radius, 0, Math.PI * 2);
-        ctx.stroke();
-      }
-      ctx.restore();
-    }
-
-    function drawFigure(x, y, scale, pose, aura, isArthur) {
+    function drawPerson(x, y, s, p, kind, aura, fallen = 0) {
       ctx.save();
       ctx.translate(x, y);
-      ctx.scale(scale, scale);
+      ctx.rotate(fallen * 1.02);
+      ctx.scale(s, s);
 
       if (aura > 0) {
         ctx.globalCompositeOperation = "screen";
-        const rg = ctx.createRadialGradient(0, -42, 6, 0, -42, 120 + aura * 100);
-        if (isArthur) {
-          rg.addColorStop(0, `rgba(255, 248, 224, ${0.18 + aura * 0.38})`);
-          rg.addColorStop(0.45, `rgba(210, 173, 104, ${0.08 + aura * 0.24})`);
-          rg.addColorStop(1, "rgba(210, 173, 104, 0)");
-        } else {
-          rg.addColorStop(0, `rgba(119, 181, 255, ${0.1 + aura * 0.24})`);
-          rg.addColorStop(1, "rgba(119, 181, 255, 0)");
-        }
+        const rg = ctx.createRadialGradient(0, -54, 4, 0, -54, 130 + aura * 90);
+        const warm = kind === "arthur";
+        rg.addColorStop(0, warm ? `rgba(255,242,204,${0.16 + aura * 0.42})` : `rgba(116,181,255,${0.12 + aura * 0.28})`);
+        rg.addColorStop(1, warm ? "rgba(255,220,130,0)" : "rgba(116,181,255,0)");
         ctx.fillStyle = rg;
         ctx.beginPath();
-        ctx.arc(0, -42, 120 + aura * 100, 0, Math.PI * 2);
+        ctx.arc(0, -54, 130 + aura * 90, 0, Math.PI * 2);
         ctx.fill();
         ctx.globalCompositeOperation = "source-over";
       }
 
-      const lean = pose.lean || 0;
-      ctx.rotate(lean);
-      ctx.strokeStyle = isArthur ? "rgba(3, 3, 5, 0.96)" : "rgba(6, 8, 12, 0.94)";
-      ctx.fillStyle = isArthur ? "rgba(5, 5, 7, 0.98)" : "rgba(8, 10, 14, 0.96)";
+      const body = kind === "arthur" ? "rgba(3,3,5,0.98)" : kind === "opponent" ? "rgba(8,10,17,0.96)" : "rgba(14,17,24,0.9)";
+      ctx.fillStyle = body;
+      ctx.strokeStyle = body;
       ctx.lineCap = "round";
       ctx.lineJoin = "round";
 
+      const walk = Math.sin(p) * 8;
       ctx.beginPath();
-      ctx.ellipse(0, -88, 14, 16, 0, 0, Math.PI * 2);
+      ctx.ellipse(0, -86, 13, 15, 0, 0, Math.PI * 2);
       ctx.fill();
+      ctx.fillRect(-14, -71, 28, 53);
 
-      ctx.fillRect(-14, -72, 28, 52);
+      ctx.lineWidth = 8;
       ctx.beginPath();
-      ctx.moveTo(-14, -66);
-      ctx.lineTo(-32 - (pose.armBack || 0), -34 + (pose.armY || 0));
-      ctx.lineTo(-24 - (pose.armBack || 0), -28 + (pose.armY || 0));
-      ctx.lineTo(-7, -52);
-      ctx.closePath();
-      ctx.fill();
-      ctx.beginPath();
-      ctx.moveTo(14, -66);
-      ctx.lineTo(34 + (pose.armForward || 0), -36 + (pose.armY || 0));
-      ctx.lineTo(26 + (pose.armForward || 0), -29 + (pose.armY || 0));
-      ctx.lineTo(6, -52);
-      ctx.closePath();
-      ctx.fill();
+      ctx.moveTo(-9, -62);
+      ctx.lineTo(-28 - walk * 0.4, -34 + walk * 0.15);
+      ctx.moveTo(9, -62);
+      ctx.lineTo(29 + walk * 0.35, -35 - walk * 0.12);
+      ctx.moveTo(-8, -20);
+      ctx.lineTo(-18 - walk * 0.35, 26);
+      ctx.moveTo(8, -20);
+      ctx.lineTo(18 + walk * 0.35, 26);
+      ctx.stroke();
 
-      ctx.beginPath();
-      ctx.moveTo(-9, -20);
-      ctx.lineTo(-20 - (pose.legSlide || 0), 26);
-      ctx.lineTo(-8 - (pose.legSlide || 0), 26);
-      ctx.lineTo(2, -18);
-      ctx.closePath();
-      ctx.fill();
-      ctx.beginPath();
-      ctx.moveTo(9, -20);
-      ctx.lineTo(16 + (pose.legBrace || 0), 26);
-      ctx.lineTo(28 + (pose.legBrace || 0), 26);
-      ctx.lineTo(2, -18);
-      ctx.closePath();
-      ctx.fill();
-
-      if (isArthur) {
+      if (kind === "arthur") {
         ctx.globalCompositeOperation = "screen";
-        ctx.fillStyle = `rgba(255, 237, 193, ${0.12 + aura * 0.55})`;
+        ctx.fillStyle = `rgba(255, 235, 184, ${0.14 + aura * 0.5})`;
         ctx.beginPath();
-        ctx.ellipse(-5, -91, 2.4 + aura * 1.2, 1.2, 0, 0, Math.PI * 2);
-        ctx.ellipse(5, -91, 2.4 + aura * 1.2, 1.2, 0, 0, Math.PI * 2);
+        ctx.ellipse(-4, -90, 2.2 + aura, 1.1, 0, 0, Math.PI * 2);
+        ctx.ellipse(5, -90, 2.2 + aura, 1.1, 0, 0, Math.PI * 2);
         ctx.fill();
+        ctx.globalCompositeOperation = "source-over";
       }
 
       ctx.restore();
     }
 
-    function drawSparks(t, rupture) {
-      if (rupture <= 0.01) return;
+    function bystanders(t, panic, release) {
+      for (let i = 0; i < people.length; i++) {
+        const p = people[i];
+        const flee = out(seg(t, 11 + i * 0.2, 23 + i * 0.18));
+        const side = p.dir * flee * (0.28 + p.hurry * 0.16);
+        const x = (p.x + side + Math.sin(t * 0.55 + p.phase) * 0.012) * W;
+        const y = p.y * H + Math.sin(t * 4 + p.phase) * panic * 8 + release * Math.sin(i) * 28;
+        const fall = i % 4 === 0 ? seg(t, 23, 28) * (1 - seg(t, 36, 43)) * 0.18 : 0;
+        drawPerson(x, y, p.s * (1 - release * 0.05), t * (4 + p.hurry) + p.phase, "civilian", 0, fall);
+      }
+    }
+
+    function debrisLayer(t, strain, release) {
+      const cx = W * 0.43;
+      const cy = H * 0.69;
+      for (const d of debris) {
+        const active = out(seg(t, 8 + d.d * 10, 25 + d.d * 5));
+        const dx0 = (d.x - 0.5) * W;
+        const dy0 = (d.y - 0.6) * H;
+        const orbit = strain * 44 + release * 190;
+        let x = d.x * W + Math.sin(t * (0.9 + d.w) + d.a) * orbit;
+        let y = d.y * H - active * H * (0.09 + d.d * 0.22) + Math.cos(t * (0.7 + d.w) + d.a) * orbit * 0.55;
+        if (release > 0) {
+          const ang = Math.atan2(dy0, dx0) + t * (0.8 + d.w);
+          x = cx + Math.cos(ang) * (80 + d.d * W * 0.58 + release * 80);
+          y = cy + Math.sin(ang) * (55 + d.d * H * 0.38 + release * 60) - release * H * 0.08;
+        }
+        ctx.save();
+        ctx.translate(x, y);
+        ctx.rotate(d.a + t * d.spin + release * d.spin * 4);
+        ctx.fillStyle = `rgba(${86 + d.d * 70}, ${82 + d.d * 58}, ${76 + d.d * 45}, ${0.34 + strain * 0.28 + release * 0.28})`;
+        ctx.fillRect(-d.r * 2, -d.r * 0.8, d.r * 4, d.r * 1.6);
+        ctx.restore();
+      }
+    }
+
+    function papersLayer(t, strain, release) {
+      ctx.save();
+      for (const p of papers) {
+        const active = out(seg(t, 6 + p.d * 5, 17 + p.d * 5));
+        const x = p.x * W + Math.sin(t * 1.6 + p.a) * (30 + strain * 130 + release * 200);
+        const y = p.y * H - active * (40 + p.d * 130) - release * H * 0.12 + Math.cos(t * 1.2 + p.a) * 30;
+        ctx.translate(x, y);
+        ctx.rotate(p.a + t * (0.8 + p.d) + release * 5);
+        ctx.fillStyle = `rgba(225, 219, 204, ${0.14 + strain * 0.25 + release * 0.25})`;
+        ctx.fillRect(-7, -4, 14, 8);
+        ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+      }
+      ctx.restore();
+    }
+
+    function psychicLines(t, trap, release) {
+      if (trap <= 0.01 && release <= 0.01) return;
+      const ax = W * 0.39;
+      const ay = H * 0.68;
+      const ox = W * 0.67;
+      const oy = H * 0.66;
       ctx.save();
       ctx.globalCompositeOperation = "screen";
-      ctx.lineCap = "round";
-      for (const s of sparks) {
-        const live = Math.sin(t * s.speed + s.phase) * 0.5 + 0.5;
-        const alpha = rupture * live;
-        const x = s.x * width + Math.sin(s.phase + t) * rupture * 180;
-        const y = s.y * height + Math.cos(s.phase - t * 1.4) * rupture * 120;
-        ctx.strokeStyle = s.hot ? `rgba(255, 232, 173, ${alpha})` : `rgba(167, 207, 255, ${alpha * 0.75})`;
-        ctx.lineWidth = 1.2 + rupture * 2;
+      for (let i = 0; i < 16; i++) {
+        const q = i / 15;
+        const wob = Math.sin(t * 8 + i) * (5 + release * 26);
+        ctx.strokeStyle = `rgba(${130 + release * 100}, ${184 + release * 55}, ${255}, ${trap * 0.13 + release * 0.18})`;
+        ctx.lineWidth = 1 + trap * 2 + release * 5;
         ctx.beginPath();
-        ctx.moveTo(x, y);
-        ctx.lineTo(x + Math.cos(s.phase) * s.len * (1 + rupture), y + Math.sin(s.phase) * s.len * (1 + rupture));
+        ctx.moveTo(ox + wob, oy - i * 5);
+        ctx.quadraticCurveTo(W * (0.52 + Math.sin(i + t) * 0.05), H * (0.44 + q * 0.08) + wob, ax - wob, ay + i * 4);
         ctx.stroke();
       }
       ctx.restore();
     }
 
-    function drawVignette(t, rupture, whiteout) {
-      const grd = ctx.createRadialGradient(width * 0.5, height * 0.5, Math.min(width, height) * 0.1, width * 0.5, height * 0.5, Math.max(width, height) * 0.72);
-      grd.addColorStop(0, "rgba(0,0,0,0)");
-      grd.addColorStop(0.66, `rgba(0,0,0,${0.2 - rupture * 0.12})`);
-      grd.addColorStop(1, `rgba(0,0,0,${0.76 - rupture * 0.36})`);
-      ctx.fillStyle = grd;
-      ctx.fillRect(0, 0, width, height);
-
-      if (whiteout > 0) {
-        ctx.fillStyle = `rgba(255, 248, 232, ${whiteout})`;
-        ctx.fillRect(0, 0, width, height);
+    function shockwaves(t, release) {
+      if (release <= 0.01) return;
+      const cx = W * 0.41;
+      const cy = H * 0.68;
+      ctx.save();
+      ctx.globalCompositeOperation = "screen";
+      for (let i = 0; i < 8; i++) {
+        const q = (t * 0.35 + i * 0.13) % 1;
+        ctx.strokeStyle = `rgba(255, 239, 206, ${(1 - q) * release * 0.22})`;
+        ctx.lineWidth = 1 + release * 6;
+        ctx.beginPath();
+        ctx.arc(cx, cy, q * Math.max(W, H) * 0.82, 0, Math.PI * 2);
+        ctx.stroke();
       }
+      ctx.restore();
+    }
+
+    function figures(t, strain, trap, release, aftermath) {
+      const baseY = H * 0.78;
+      const arthurStep = out(seg(t, 0, 7)) * 0.09 - strain * 0.025 + release * 0.015;
+      const arthurX = W * (0.31 + arthurStep);
+      const opponentAdvance = out(seg(t, 3, 13)) * -0.07 + release * 0.055;
+      const opponentFall = out(seg(t, 31, 37)) * (1 - seg(t, 45, 52));
+      const opponentX = W * (0.76 + opponentAdvance);
+      const scale = clamp(W / 840, 0.68, 1.1);
+      drawPerson(arthurX, baseY - release * 18, scale * (1 + release * 0.03), t * (release > 0 ? 0.8 : 1.8), "arthur", 0.1 + release * 1.65 + seg(t, 27, 34) * 0.9, 0);
+      drawPerson(opponentX, baseY + opponentFall * 22, scale * 0.96, t * 1.1, "opponent", trap * 0.8 * (1 - opponentFall), opponentFall);
+    }
+
+    function scanlines(release, flash) {
+      ctx.fillStyle = `rgba(255,255,255,${flash})`;
+      if (flash > 0) ctx.fillRect(0, 0, W, H);
+      const vign = ctx.createRadialGradient(W * 0.5, H * 0.5, Math.min(W, H) * 0.12, W * 0.5, H * 0.5, Math.max(W, H) * 0.76);
+      vign.addColorStop(0, "rgba(0,0,0,0)");
+      vign.addColorStop(1, `rgba(0,0,0,${0.72 - release * 0.38})`);
+      ctx.fillStyle = vign;
+      ctx.fillRect(0, 0, W, H);
+      ctx.fillStyle = "rgba(255,255,255,0.025)";
+      for (let y = 0; y < H; y += 4) ctx.fillRect(0, y, W, 1);
     }
 
     function loop(now) {
-      let t = ((now - startedAt) / 1000) % duration;
-      setCaption(captionFor(t));
+      const t = ((now - startedAt) / 1000) % duration;
+      handleAudio(t);
 
-      const firstPressure = easeInOut(between(t, 4.2, 11.5));
-      const trap = easeInOut(between(t, 9.5, 17.5)) * (1 - between(t, 20, 23));
-      const arthurWake = easeInOut(between(t, 15.2, 23.4));
-      const rupture = easeInOut(between(t, 21.4, 26.2)) * (1 - easeIn(between(t, 26.2, 29.2)) * 0.7);
-      const whiteout = easeInOut(between(t, 24.6, 26.8)) * (1 - easeOut(between(t, 27.1, 30.2)));
-      const aftermath = easeOut(between(t, 27.2, 31.2));
+      const scene = Math.floor(t / 13.5);
+      const strain = ease(seg(t, 7, 27)) * (1 - seg(t, 36, 44) * 0.45);
+      const trap = ease(seg(t, 9, 26)) * (1 - seg(t, 29, 35));
+      const release = ease(seg(t, 27.5, 35.5)) * (1 - out(seg(t, 39, 50)) * 0.58);
+      const aftermath = out(seg(t, 38, 53));
+      const flash = ease(seg(t, 32.2, 33.4)) * (1 - out(seg(t, 33.4, 35.2))) * 0.75;
+      const panic = ease(seg(t, 11, 25));
 
-      const shakeAmount = firstPressure * 2 + trap * 4 + arthurWake * 6 + rupture * 22;
-      const shakeX = Math.sin(t * 37) * shakeAmount + Math.sin(t * 83) * shakeAmount * 0.35;
-      const shakeY = Math.cos(t * 31) * shakeAmount * 0.72;
+      const shake = strain * 2.5 + trap * 4.5 + release * 24 + flash * 20;
+      const sx = Math.sin(t * 37) * shake + Math.sin(t * 83) * shake * 0.3;
+      const sy = Math.cos(t * 31) * shake * 0.65;
 
+      bg(t, scene, strain, release, flash);
       ctx.save();
-      background(t, shakeX, shakeY, rupture);
-      ctx.translate(shakeX, shakeY);
-
-      drawDust(t, firstPressure + trap, rupture);
-      drawPsychicLattice(t, trap, rupture);
-      drawDebris(t, firstPressure + trap * 0.4, arthurWake, rupture);
-      drawGlass(t, firstPressure + trap * 0.5, rupture);
-      drawRings(t, arthurWake, rupture);
-
-      const ground = height * 0.72;
-      const arthurX = width * (0.38 - firstPressure * 0.035 + arthurWake * 0.02);
-      const opponentX = width * (0.68 + rupture * 0.04 - aftermath * 0.03);
-      const scale = clamp(width / 850, 0.72, 1.15);
-
-      drawFigure(
-        arthurX,
-        ground,
-        scale * (1 + rupture * 0.04),
-        {
-          lean: -0.12 * firstPressure + 0.08 * arthurWake,
-          armBack: 18 * firstPressure - 20 * arthurWake,
-          armForward: 8 * firstPressure + 12 * arthurWake,
-          armY: 12 * firstPressure - 10 * arthurWake,
-          legSlide: 16 * firstPressure,
-          legBrace: 12 * firstPressure
-        },
-        0.12 + arthurWake * 1.6 + rupture * 1.8,
-        true
-      );
-
-      drawFigure(
-        opponentX,
-        ground + aftermath * 24,
-        scale * (0.96 - aftermath * 0.16),
-        {
-          lean: 0.02 - rupture * 0.1 + aftermath * 0.4,
-          armBack: -4,
-          armForward: 8 - aftermath * 20,
-          armY: -6 + aftermath * 28,
-          legSlide: aftermath * 10,
-          legBrace: -aftermath * 12
-        },
-        firstPressure * 0.6 + trap * 0.8 - aftermath * 0.6,
-        false
-      );
-
-      drawSparks(t, rupture);
-
+      ctx.translate(sx, sy);
+      rainLayer(t, strain + panic * 0.4, release);
+      bystanders(t, panic, release);
+      psychicLines(t, trap, release);
+      papersLayer(t, strain, release);
+      debrisLayer(t, strain, release);
+      shockwaves(t, release);
+      figures(t, strain, trap, release, aftermath);
       ctx.restore();
-      drawVignette(t, rupture, whiteout);
+      scanlines(release, flash);
 
       requestAnimationFrame(loop);
     }
