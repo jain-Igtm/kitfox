@@ -6,271 +6,465 @@ Not tightly. That was the first fact his mind chose because it was the only one 
 
 Everett released her before he understood how she had come within reach.
 
-Madeline did not move away quickly. That was either courage or shock, and shock was more likely. People called many things courage after the danger passed. For a second she remained there with the print of his fingers reddening faintly at the side of her throat, breathing through her nose, looking not at his hand but at his face. Downstairs, the porch light clicked through the window glass with its small defective sound. Nine seconds. Click. The refrigerator hummed below. Somewhere in the street a car rolled over wet pavement, though he had not heard rain.
+Madeline did not jerk away. Shock could look like bravery if no one waited long enough to see what came after it. She stayed there with the print of his fingers beginning faintly on the side of her throat, breathing through her nose, watching him not as if he were a boy or a weapon but as if he were a thing she had found in the dark and could not yet name without making it move. Downstairs, the porch light clicked through the window glass with its small defective sound. Nine seconds. Click. The refrigerator hummed below. Somewhere in the street a car rolled over wet pavement, though he had not heard rain.
 
-“I’m awake,” Everett said.
+“How far?” he asked.
 
-His voice sounded wrong. Thin. Younger than he allowed it to be in daylight.
+His voice sounded wrong. Thin. Younger than he permitted it to be in daylight.
 
-Madeline nodded once. Her mouth opened, closed. Then she said, very carefully, “Okay.”
+Madeline swallowed. The motion passed beneath the reddening marks. “Far enough.”
 
-That was not what she should have said. She should have shouted. She should have stumbled backward into the hall and put the wall between them. She should have gone for the phone on the kitchen counter or the knife block beside the stove or the front door, where the porch boards would report her leaving. She should have done any of the things a reasonable adult body did when a dangerous child woke with a hand at her throat. Instead she stayed close enough for him to hurt her again and seemed, in some backward way, more concerned with not startling him than with preserving herself.
+He put both hands on his knees, palms down, fingers spread where he could inspect them. “You should have hit me.”
 
-Everett put both hands on his own knees, palms down, fingers spread where he could see them. “Why are you in the room?”
+“With what?”
 
-“You were screaming.”
+“The lamp.”
 
-“I don’t scream.”
+“I liked the lamp.”
 
-“I know,” she said, and the answer was soft enough to be useless as disagreement, which made it worse. “You were making a sound.”
+The answer was wrong enough to stall him. It did not fit the event. It came from some other, stupider room, a room with thrift stores and rent and bad wiring, and for that reason it worked on him more than comfort would have. He looked toward the dresser. The lamp still burned there with a tilted shade, humming faintly. The spiral notebook lay on the floor near the baseboard, its first page bent under it, pen gone somewhere in the shadows.
+
+Madeline followed his eyes. “That was what hit the wall.”
+
+“I threw it.”
+
+“I didn’t see you throw it.”
+
+“That is not different.”
+
+“No,” she said. “It isn’t.”
 
 He looked at the door. It stood open behind her. The lock had been turned. The chair, which he remembered placing beneath the knob after Madeline went downstairs, had been moved aside but not overturned. She had entered by touching the room he had arranged against entry. She had undone his proof.
 
-Madeline followed his eyes. “I knocked. You didn’t answer. Then something hit the wall.”
+“You opened the lock.”
 
-“The lamp?”
+“I opened the door.”
 
-“No.”
+“The lock was part of the door.”
 
-He looked. The lamp remained on the dresser. The spiral notebook lay on the floor near the baseboard, its first page bent under it, pen gone somewhere in the shadows. He did not remember throwing it. He did not remember standing, if he had stood. He did not remember screaming. He remembered the wash road. No, not the wash road. The basement corridor beneath the women’s house, where the air had tasted of lime and mildew and the little battery lanterns made every face appear made from the same wax. He remembered Mother Ester’s shoes. He remembered a metal door whose hinges had been painted too many times. He remembered being told to wait with both hands visible while a girl inside the room tried not to cry loudly enough to become a lesson for anyone else.
+“Not a very persuasive part.”
 
-That had happened when he was eleven. Or twelve. The order of ages had become difficult after the fire.
+“With what?”
 
-Madeline said, “I’m going to stand up now.”
+She glanced toward the hall, then back. “A flathead screwdriver.”
 
-He looked back at her.
+He absorbed this. The screwdriver would have been in the kitchen drawer or the utility cabinet beneath the stairs. She had brought a tool to a locked door. He had not heard her approach. He had not heard the lock turn. There were too many failures in that sequence to count quickly.
 
-“Not leaving,” she added quickly. “Just my knee is doing something ancient and tragic.”
+“You planned that before,” he said.
 
-The sentence did not belong in the room. It arrived badly dressed and carrying the wrong papers. Everett stared at her, and because the absurdity had no defensive shape, some part of him almost followed it out of the nightmare. Madeline saw the minute change and did not smile. Good. A smile would have been theft.
+“I fixed the bathroom window with it last week.”
 
-She stood slowly, one hand touching the bed frame only long enough to steady herself. She did not turn her back. At the threshold she stopped and leaned one shoulder against the frame, leaving the doorway open between them. The hall behind her was unlit except for a night-light low near the stairs, shaped like a moon with a cartoon face. Its blue glow lay across the worn carpet like something spilled.
+“That isn’t what I said.”
 
-Everett noticed the bruise beginning at her throat and wanted, for one clean second, to tear his own hand off at the wrist. The wish arrived with such practical clarity that he flexed his fingers to test its distance from action. His hand obeyed him. It remained attached. It had done what sleeping bodies did with training when the mind removed oversight. That did not absolve it. Tools did not become innocent because no one held them deliberately.
+“No.” Her hand lowered from her shoulder by an inch and stopped. “I thought about the door after Marian left. I didn’t like where the thought went.”
 
-“You should call Marian,” he said.
+“You did it anyway.”
 
-Madeline’s eyes flicked toward the hall, where the phone was not. “Maybe.”
+“You were making a sound I couldn’t leave alone.”
 
-“Not maybe.”
+He tried to remember the sound and found the corridor instead. The basement beneath the women’s house. Lime dust at the edges of the floor. Battery lanterns. A metal door whose hinges had been painted too many times. Mother Ester’s shoes visible first, the rest of her body arranged above them with the dry patience of office work. A girl on the other side of the door trying to breathe quietly enough to remain a person and not become instruction.
 
-“Okay. Probably.”
+That had happened when he was eleven. Or twelve. The ages had loosened after the fire. They came back out of order, like papers from a file dropped in wind.
 
-“Now.”
+Madeline shifted her weight, and the mattress dipped under her hand.
 
-She looked tired then, not sleepy tired but disappointed in a way he could not immediately classify. Not disappointed in him. That would have been easier. The emotion seemed directed at the size of the night, the thinness of the available rules, the fact that every correct action would become a new machine around them by morning.
+“Don’t,” Everett said.
 
-“If I call right now,” she said, “there are people who have to make decisions while knowing almost nothing except the part where your hand was on my neck.”
+She froze.
 
-“That is enough.”
+He could not immediately explain what he had meant. Don’t come closer. Don’t leave. Don’t make the bed move. Don’t make another choice before he had finished accounting for the last one. His mind sorted possibilities with a speed that should have served him and did not.
 
-“It is enough to matter.”
+Madeline said, “My foot’s asleep.”
 
-“It is enough to remove me.”
+“That is irrelevant.”
+
+“It’s my foot.”
+
+He stared at her.
+
+“I’m going to stand,” she said. “Slowly. Dramatically, even. Full county-approved standing procedure.”
+
+There it was: the stray, crooked sentence that did not belong in the room and therefore made a hole in it. Everett watched her stand, one hand briefly on the bed frame, the other open at her side. She did not turn her back. At the threshold she stopped and leaned against the frame, leaving herself in view and leaving the exit open. The hall behind her was unlit except for a night-light low near the stairs, shaped like a moon with a cartoon face. Its blue glow lay across the worn carpet like something spilled.
+
+The marks on her throat were becoming clearer.
+
+Everett looked at them until he could not look away. He wanted, with a simple and exact violence, to take his own hand apart at the wrist. The wish had no drama in it. It presented itself as maintenance. A damaged tool should be disabled before it failed in public. He flexed his fingers to measure the distance between wishing and acting. His hand obeyed him. It remained attached. It had done what sleeping bodies did with training when the mind removed supervision. That did not absolve it. Tools did not become innocent because no one had been conscious enough to name their use.
+
+“Phone,” he said.
+
+Madeline’s eyes flicked toward the stairs. “In the kitchen.”
+
+“Use it.”
+
+“Who am I calling?”
+
+He almost said the name and stopped. Names changed the air. Names made routes. “The county woman.”
+
+“Marian.”
+
+“You know who I mean.”
 
 “Yes.”
 
-He appreciated the answer. He hated it. He looked down at his knees. The jeans were still county-issue, washed thin at the thighs, too long at the cuffs. His shoes had left dry grit on the bedspread. He had slept in them because bare feet made escape slower and because the habit of keeping shoes on in uncertain rooms had become older than preference. Madeline had seen and not told him to take them off. She had allowed him his dirt.
+“Then go.”
 
-“Then do it,” he said.
+Madeline rubbed two fingers together at her side, thumb against forefinger, a motion so small it might have been nothing if Everett had not spent his life learning how adults hid nerves from children. She was afraid. Not after, not theoretically. Now.
+
+“You can say it,” he told her.
+
+Her face tightened. “Say what?”
+
+“You’re deciding whether I can hear you do it.”
+
+She looked down the hall, then back at him. “I’m deciding how many people come when I pick up the receiver.”
+
+“One is not enough.”
+
+“One might be too many, depending on the one.”
+
+“That’s not an answer.”
+
+“It is in this county.”
 
 The porch light clicked. Nine seconds passed in the old house, counted by no one who had not been damaged into usefulness.
 
-Madeline said, “Do you want to leave?”
+Everett said, “If you leave this room without calling, you become part of it.”
 
-He looked at her sharply.
+“Part of what?”
 
-“I’m asking the actual question,” she said. Her voice had steadied. The mark on her throat made the steadiness obscene. “Not what should happen. Not what people will decide. Do you want to leave this house tonight?”
+He looked at her throat. “What happened.”
 
-Want was a bad word. It presumed an interior life arranged for consultation, little shelves of preference with labels and lamps, as if a person could walk through himself choosing objects. Everett had wanted food and sleep and clean water and locked doors and God to correct him before he became proof against God. He had wanted Mother Serene to be holy. He had wanted the county man in the wash to turn around before the bend and say that he had forgotten something. He had wanted Chauncey to live. Want had never been a command structure. It was weather. It passed over and left things wet.
+Madeline did not speak at once. Her silence was better than reassurance. It had shape. It had the decency not to arrive polished.
 
-“No,” he said.
+Finally she said, “I’m not hiding it.”
 
-Madeline exhaled. It was too small to be relief, but near it.
+“You haven’t told anyone.”
 
-“That doesn’t matter,” Everett said.
+“It happened three minutes ago.”
 
-“I know.”
+“That is enough time.”
 
-“You keep saying that.”
+“For you.”
 
-“Because unfortunately I keep knowing things.”
+“For anyone honest.”
 
-Again the wrong sentence. Again it entered the room without permission and made a narrow place inside the terror where air could pass. Everett closed his eyes, not from trust, but because the lamplight had begun to throb at the edge of his vision. Behind his eyelids the basement corridor reassembled itself at once. Painted hinges. Lime dust. The locked room. Mother Ester saying, not loud, that obedience was clearest when mercy made an argument.
+That struck something. He saw it in her face, a brief hardening around the mouth, not anger exactly but the refusal of a person who had been wounded in a place she still considered hers. “Careful,” she said.
 
-He opened his eyes.
+The word was mild. It changed the room anyway.
 
-Madeline had not moved.
+Everett looked at her, properly then. “You think I’m accusing you.”
 
-“I was somewhere else,” he said.
+“I think you know how to cut things very straight.”
+
+“I’m stating the rule.”
+
+“Whose?”
+
+He had no answer that did not open too many doors. The Mothers’ rule. The county’s. His. God’s, if God still owned any of them after refusing to arrive on time. He looked back at his hands.
+
+Madeline said, “Do you want out of the room?”
+
+“Don’t ask wants.”
+
+“All right. Can you stay in here without the chair under the door?”
+
+“No.”
+
+“Can you stay in here with it?”
+
+“No.”
+
+“Can you come sit in the hall?”
+
+He did not answer.
+
+She waited, which was dangerous because waiting gave the other person too much room to become legible. Everett looked at the hallway floor, at the blue wash from the night-light, at the linen closet with its broken handle, at the stairhead beyond. A hall was not a room. It had directions. A person sitting in a hall could see approach and retreat at once. That did not make it safe. It made it more honest.
+
+“Not downstairs,” he said.
+
+Madeline nodded once. “Hall, then.”
+
+“You don’t decide.”
+
+“I suggested.”
+
+“You suggested where to put me.”
+
+“That’s fair.” She stopped herself, face pinching with irritation at her own word. “No. Bad word. That was a stupid word. I mean, I hear the difference.”
+
+He studied her. Her hair had come loose from its tie and hung near one cheek. She had put on boots without socks before coming upstairs. The boots were unlaced, tongues open. She must have been in a hurry. Hurrying made people imprecise. She could have fallen. He could have mistaken the sound. The house was full of unacceptable margins.
+
+“You were rushing,” he said.
 
 “Yeah.”
 
-“You don’t know that.”
+“Don’t.”
 
-“No,” she said. “I guessed.”
+A strange expression crossed her face, too soft to be fear and too startled to be amusement. “I’ll put it on the list.”
 
-He looked at the notebook on the floor. Its bent page caught a triangle of light. The pen had rolled beneath the chair. Nothing in the room had been damaged except the idea that a lock could explain what belonged outside it. He understood then with a coldness that made him almost calm: the house had been safe from everyone but him. Madeline had given him a door and he had made it irrelevant by bringing the danger through sleep.
+He moved to the edge of the bed. Madeline did not step back, but her body prepared to. He saw the preparation and hated the sense of satisfaction it gave him. Fear made adults legible. Legibility was not trust, but it was something he could work with. He stood. The room tilted briefly, not enough to make him reach for anything. His shoes left dry grit on the bedspread.
 
-“I can’t stay in a room with a closed door,” he said.
+Madeline looked at the dirt and said nothing about it.
 
-Madeline’s eyebrows drew together. She did not correct him. She waited.
+He walked to the doorway and sat on the hallway floor with his back against the wall opposite her, knees bent, hands visible on his thighs. From there he could see the room, the stairs, the top of the linen closet, and Madeline’s throat without having to turn his head. The night-light threw blue over one side of his shoes.
 
-“If I lock it, I think someone will open it. If it stays locked, I think I am where they left me. If I sleep, I don’t know which room I’m in.”
+Madeline lowered herself to the opposite wall, not blocking the stairs. She moved with exaggerated care now, but not mockingly. She had taken instruction. That unsettled him.
 
-His voice remained flat. That was something. The words themselves were not confession if handled carefully. Information was not surrender until someone used it to move you.
+For a while they listened to the house.
 
-Madeline slid down the doorframe until she was sitting on the hallway floor, knees drawn up, back against the jamb but not blocking the exit. “Okay,” she said.
+The refrigerator below stopped humming. The porch light clicked and clicked. Water moved somewhere in the pipes with the faint shudder of old pressure finding a joint. Public water, he thought. Treated, pumped, billed, governed. The house possessed systems that announced themselves only when failing.
 
-“Stop saying okay.”
+Madeline touched the side of her neck and then lowered her hand quickly, as if ashamed of being caught by pain.
 
-“Fair.”
+“You should look at it,” Everett said.
 
-He almost told her to stop saying fair as well, then recognized the uselessness of policing every word available to her. She looked pale in the hallway blue. One side of her hair had come loose from its tie and hung near her cheek. She had put on boots without socks before coming upstairs. The boots were unlaced, tongues open. He had not noticed before. She must have been in a hurry. The thought bothered him more than it should have. Hurrying made people careless. She could have fallen on the stairs. He could have mistaken the fall for pursuit. The entire house was built of unacceptable margins.
+“I know what a neck is supposed to look like.”
 
-“What happens at New Mercy,” she asked, “when someone has a nightmare?”
+“Not yours. This one.”
 
-“They don’t call it that.”
+She turned her head slightly, offering the marks to the hall mirror at the far end, too distant to help. “Does it need ice?”
 
-“What do they call it?”
+“You’re asking me?”
 
-“Correction, usually.”
+“You’re the only person upstairs with field experience.”
 
-Her face changed, then corrected itself. He saw the effort and disliked how grateful he was for it.
+The sentence was nearly funny. It should not have been. He did not laugh. Madeline noticed and let it die without poking at it.
 
-“If a child cried in sleep,” he said, “a Sister woke them and made them stand. If they woke another child, both stood. Sometimes the dormitory stood. It depended on what the Sister thought the dream wanted.”
+“Not ice yet,” he said. “Check swallowing. Breathing. Voice change.”
 
-“What the dream wanted?”
+She swallowed. Then, with grim ceremony, she said, “Voice present. Tragically.”
 
-“Dreams were not private.”
+“Pain?”
 
-Madeline was quiet for a long time. The refrigerator below shut off. In the new silence the porch light sounded louder, a small metal insect above the front door. Click. Nine seconds. Click.
+“Some.”
 
-Finally she said, “That’s a hell of a thing to teach a kid.”
+“Where?”
 
-“It was useful.”
+She indicated the side of her neck, above the collarbone. Her finger shook once.
 
-“I bet.”
-
-“No. It was.” He looked at her directly because this, at least, was simple enough to correct. “If a child spoke names while sleeping, the Mothers knew what the child had heard. If a child cried for someone missing, the Mothers knew who still had influence. If a child dreamed of leaving, they knew which routes the child imagined. Sleep was where people forgot to perform belief.”
-
-Madeline’s hands tightened around her own sleeves. She did not seem aware of it. “And you learned not to sleep.”
-
-“Everyone sleeps eventually.”
-
-“Right.”
-
-“The useful thing is learning what happens before eventually.”
-
-The moon night-light flickered once. The house was not wired well. Everett looked at the baseboard, at the outlet, at the shadow under the linen closet door. It was easier to look at defects than at Madeline’s throat.
-
-She followed his gaze again. “Do you want lights on downstairs?”
+“Not the center.”
 
 “No.”
 
-“Off?”
+“Any dizziness?”
 
-“No.”
-
-“Deeply specific. Great.”
+“Not from that.”
 
 He looked at her.
 
-“Sorry,” she said. “That one was for me.”
+“Too much?” she asked.
 
-He understood that more than he wanted to. Some words were thrown not to reach another person but to mark the distance between one thought and the next. Madeline’s jokes were like cairns set along a bad road. They did not improve the road. They proved someone had crossed it before and remained inconveniently alive.
+“You make bad jokes when you’re frightened.”
 
-He pushed himself back against the headboard. The movement hurt his ribs. Madeline noticed and did not ask. The lamp hummed. He could smell dust warming on the shade, old cotton in the bedspread, his own sweat gone cold under the borrowed sweatshirt. Beneath it, at the collar, the tattooed color rose slightly into view. The first visible curve was green, then blue. Mother Ester had chosen the pattern. Not personally, perhaps, but through the older women who held wrists still and told children that beauty was a form of legibility. To be marked was to belong to the order. To belong to the order was to be used without having to be explained each time.
+“I make worse ones when I’m comfortable.”
 
-Madeline saw the color and looked away too fast. Not disgust. Not even curiosity. Courtesy, clumsy from disuse. Adults had stared all day: nurses, deputies, intake workers, the woman at the county desk who pretended to read a file while reading his neck instead. Madeline’s refusal to stare made the mark feel more exposed, not less. He pulled the collar up.
+This time a change almost reached his mouth. It did not become anything visible. Madeline, to her credit, did not claim it.
 
-“You can sit downstairs,” she said. “Or here. Or in the hall. Door open, door closed, lamp on, whatever. I’m going to call Marian, but I’m going to tell her the whole thing, not just the worst-looking sentence. She may still say we have to go in. I can’t control that.”
+He looked down the stairs. The dark below seemed less like a place than a depth. “At New Mercy, they listened at night.”
 
-“Good.”
+Madeline’s face altered by fractions. She had learned enough, in one evening, not to seize a sentence by the throat. “Who did?”
 
-“Yeah,” Madeline said, without enthusiasm. “Good.”
+“Everyone assigned.”
 
-She started to stand, then stopped. “Can I say one thing before I make the call?”
+“Assigned to what?”
 
-“You can say anything.”
+“To hear what sleep forgot to hide.”
 
-“No, I mean can I say it and have you try not to turn it into a legal category before I finish?”
+The hall held itself around the words. Madeline pulled her sleeves over her hands. “They wrote it down?”
 
-He said nothing.
+“Sometimes.”
 
-She accepted that as the only permission she was getting. “I’m scared,” she said. “I don’t want to pretend I’m not, because that seems insulting to both of us. But I’m not only scared of you. I’m scared of the machine that starts when I make the call. I’m scared of saying the wrong words and having those words turn into a place you can’t leave. I’m scared of not calling and making this house into another place where adults decide silence is protection. Both scare me. That’s where I’m at.”
+“And the other times?”
 
-Everett looked at her for a long time.
+“They remembered.”
 
-At New Mercy, fear had been sorted immediately into obedience or failure. One offered it upward. One corrected it downward. No Mother had ever placed fear in the room like an object that both people were allowed to see. Madeline’s fear was undignified and therefore difficult to use against her. It did not ask him to comfort it. It did not ask him to become less dangerous so she could feel noble for staying. It only existed, tired and practical, beside the phone call she had not yet made.
+“That sounds worse.”
 
-“You should call,” he said.
+“It was more efficient.”
 
-“I know.”
+She closed her eyes briefly. When she opened them, she looked not at him but at the moon-shaped night-light. “What did they want to hear?”
 
-“And you should tell her I touched your throat.”
+“Names. Places. Complaints. Affections.”
 
-“I will.”
+“Affections?”
 
-“Say hand around throat.”
+He almost did not answer. The word was ugly in this hallway. “Who someone missed. Who someone still chose inside.”
 
-Madeline swallowed. The movement passed beneath the mark he had made. “Okay.”
+Madeline’s mouth pressed flat. She did not say she was sorry. Good. Sorry would have required him to dispose of it.
 
-“Say I told you to call.”
+“Bad dreams weren’t bad dreams,” he said. “They were leaks.”
 
-“I will.”
+“Leaks get repaired.”
 
-“Say I don’t know what I do when I wake up.”
+He looked at her.
 
-Her face hurt then. Not visibly enough to be theatrical, but he saw it. “Everett.”
+She did not flinch from her own conclusion. “I’m learning the language,” she said. “I don’t like it.”
 
-“Say it.”
+“No one had to like it.”
 
-“I will.”
+“No. I bet liking it was somebody else’s department.”
 
-He nodded once. Agreement, then. A procedure. Procedures were not mercy, which made them easier to trust.
+The bitterness in her voice was new. It was directed away from him, toward people not present, which made it less useful and more dangerous. Everett had seen adults use anger on his behalf as a way of making themselves central to the injury. Madeline did not look central. She looked cold and underslept and slightly sick.
 
-Madeline stood this time. Her boots made soft, untied sounds against the hallway floor. At the stairwell she stopped and looked back, not into the room exactly, but toward the open door. “Do you want me to leave this light on?”
+“If I made noise,” he said, “you know something now.”
 
 “Yes.”
 
+“So the rule still works.”
+
+Madeline stared at him.
+
+He kept his hands on his knees.
+
+“No,” she said at last.
+
+“You heard me.”
+
+“I heard a kid in a locked room.”
+
+“That is not what I am.”
+
+“It’s what I heard.”
+
+He rejected the sentence and could not entirely discard it. It sat in the hall between them, plain and difficult. A kid in a locked room. Not a confession. Not a verdict. A description from a person outside the door.
+
+“You should make the call,” he said.
+
+“I will.”
+
+“You’re delaying.”
+
+“I’m sitting down because my legs went stupid.”
+
+“Then crawl.”
+
+Madeline looked at him sharply.
+
+He looked back.
+
+After a second, she huffed one breath that was not laughter. “Mean little thing, aren’t you?”
+
+“Yes.”
+
+“No hesitation. Great.”
+
+“Don’t make me smaller than I am.”
+
+Her face sobered. “I’m not trying to.”
+
+“You are.”
+
+“I’m trying not to make you only one size.”
+
+The sentence irritated him because he understood it at once and did not want to. At New Mercy, size had been assigned by function. A hand, a witness, a carrier, a lesson, a mouth for doctrine, a body for work, a weapon for errands that did not fit adult records. The county had begun assigning its own sizes: minor, suspect, dependent, witness, risk. Madeline’s sentence did not release him from category. It only made too many categories at the same time.
+
+He said, “You’re bad at simple.”
+
+“Known issue.”
+
+“You need to tell her the throat.”
+
+“I will tell her.”
+
+“And the door.”
+
+“Yes.”
+
+“And the screwdriver.”
+
+She looked toward the stairs again. “That part might make me sound unhinged.”
+
+“You used a tool to enter a locked room with a sleeping violent person inside.”
+
+“Yeah, see, when you say it like that—”
+
+“That is how it happened.”
+
+Madeline covered her face with one hand, then dropped it because hiding seemed to embarrass her. “I hate that you’re right.”
+
+“You shouldn’t.”
+
+“I hate a lot of accurate things. It keeps me well-rounded.”
+
+He stared at her for a moment, then looked away first. The hallway had grown colder. Or he had. He tucked his hands under his arms, then immediately removed them and set them back on his knees. Visible. Keep them visible. Visibility was not innocence, but it slowed decisions.
+
+Madeline saw the motion. “You don’t have to do that for me.”
+
+“Yes, I do.”
+
+“No, you don’t.”
+
+He looked at her with enough sharpness that she stopped.
+
+“All right,” she said. “You do for you.”
+
+That was close enough to true.
+
+She pushed herself to her feet. This time she did not joke. The absence of the joke made the movement seem more serious than the first. At the stairhead she paused.
+
+“Light?” she asked.
+
+“Leave it.”
+
 “Door?”
 
-“Open.”
+He looked into the bedroom. The chair sat crookedly in the rug, stupid and defeated. “As is.”
 
-“Chair?”
+“Anything else?”
 
-He looked at the chair, still slightly angled from where she had moved it. Its wooden back threw a crooked shadow over the rug. “No.”
+He wanted to say no and discovered that the answer was not no. There was something else, small and humiliating. He forced it into a sentence before it could become impossible.
 
-She nodded and went downstairs.
+“Don’t whisper.”
 
-Everett listened to each step. The house announced her descent in groans and settling boards. In the kitchen, a drawer opened. The phone was lifted from the counter. A number was dialed by touch or by memory; he could hear the small plastic clicks. Then her voice, low enough that he could not catch every word, speaking into the wired receiver because her cell phone, she had said earlier, was unreliable near the back of the house. Landline. Copper. A physical route under streets, through junction boxes, into a building where calls could be logged if anyone cared to log them. The county had its own nervous system. New Mercy had used it when useful and fled it when not.
+Madeline looked back.
 
-He did not try to hear the whole call. That would have made him part of it before it returned. Instead he picked up the notebook from the floor and smoothed the bent page with his palm. The paper held a faint dent where the pen had struck through from some pressure during the night. Not writing. Almost writing. He found the pen beneath the chair and set it on top of the notebook.
+“If you whisper,” he said, “I’ll listen.”
+
+She nodded. “Normal voice.”
+
+“Not loud.”
+
+“Human volume.”
+
+He considered this. “Acceptable.”
+
+She went downstairs.
+
+Everett listened to each step. The house announced her descent in groans and settling boards. In the kitchen, a drawer opened. The phone was lifted from the counter. Numbers were pressed, not dialed; the old landline had plastic buttons that made small wet clicks. Copper, he thought. A physical route under streets, through junction boxes, into a county office where night calls could be written down by people whose handwriting mattered. New Mercy had used such routes when they were useful and fled them when they were not. A system did not have to be trusted in order to be entered.
+
+Madeline kept her promise. Her voice rose through the floorboards at ordinary volume, not loud, not hidden.
+
+“Marian. It’s Madeline Ross. Wake up first.”
+
+A pause.
+
+“No. Do that before you answer me.”
+
+Another pause, longer. Everett could imagine Marian sitting up in whatever room she slept in, reaching for glasses, for paper, for the version of herself that belonged to emergency.
+
+“There was an incident,” Madeline said. “He was asleep when it started.”
+
+Everett picked up the notebook from the floor and smoothed the bent page with his palm. The paper held a faint dent where the pen had struck through from some pressure during the night. Not writing. Almost writing. He found the pen beneath the chair and set it on top of the notebook.
 
 His hand shook once.
 
 He watched it until it stopped.
 
-Downstairs, Madeline said, “Yes. I understand that. No, I’m not minimizing it. I said hand around my throat because that is what happened.”
+Downstairs, Madeline said, “No. Listen. I opened the door. I used a screwdriver. I’m telling you that first so you don’t build the wrong picture.”
+
+The floorboards carried Marian’s reply only as a low pulse.
+
+“Yes,” Madeline said. “I know how that sounds.”
+
+Silence.
+
+“When I got in, his hand was on my neck.”
 
 The sentence entered the room through the floorboards and settled there with the lamp and the bed and the shoes he had not removed. It sounded worse spoken aloud. It sounded accurate. Accuracy had no kindness in it, but it had edges a person could hold without being deceived.
 
-Madeline was silent for a while. Then: “He told me to call.”
+Madeline said, “No. Not squeezed. Held. I’m not softening it. I’m separating what happened from what didn’t.”
 
-Another silence.
-
-“No,” she said, and for the first time there was heat in her voice. “I’m not asking you to make him harmless by morning. I’m asking what the plan is that doesn’t punish him for sleeping and also doesn’t pretend this was fine.”
-
-Everett looked toward the door. The hallway remained empty. The moon night-light glowed stupidly at the baseboard, blue and cheerful. He had the sudden thought that the world contained too many objects made by people who expected children to be comforted by the wrong things.
-
-The call continued. He could tell when Marian came fully awake on the other end because Madeline stopped arguing and began answering questions in a steadier rhythm. Time of incident. Whether she was injured. Whether there were weapons. Whether he was agitated. Whether he had threatened her. Whether she felt safe remaining in the home until someone came. The words traveled upward through plaster and joists and the old domestic dust between floors. Everett arranged each answer into the file it would become. The file would become a call note, the note would become an incident report, the incident report would become a fact in the morning hearing, and the fact would sit among other facts wearing no sign to show which ones had been born from sleep.
-
-He picked up the pen.
-
-For a while he did nothing with it.
-
-The first page of the notebook waited. Madeline had said there was no wrong answer, which was untrue in the broad sense and perhaps true only in the small private territory she had meant to offer him. He placed the tip of the pen against the top line. Names were dangerous. Routes were dangerous. Confession was dangerous. Apology was useless unless the other person could decide what to do with it. Doctrine had trained his hand toward sentences that began with I have failed or I submit or I understand my correction. He wrote none of those.
+Everett sat with the notebook in his lap. Names were dangerous. Routes were dangerous. Confession was dangerous. Apology was useless unless the other person could decide what to do with it. Doctrine had trained his hand toward sentences that began with I have failed or I submit or I understand my correction. He wrote none of those.
 
 He wrote: The room changes after sleep.
 
@@ -278,9 +472,33 @@ The sentence looked strange in his handwriting. Less like evidence than observat
 
 A locked door keeps out only what is outside.
 
-Downstairs, Madeline said, “Yes. I can do that.”
+Downstairs, Madeline said, “He told me to call before I came down.”
+
+A pause.
+
+“Because he isn’t stupid.”
+
+Everett looked up.
+
+Her voice changed then, becoming flatter, less warmed by the small domestic habits she had used with him. “Don’t do that. Don’t decide from bed and then come here to make the house fit the decision.”
+
+Marian said something longer.
+
+Madeline answered, “I’m not arguing against removal. I’m arguing against panic wearing a plan’s clothes.”
 
 Everett set the pen down. He did not feel better. Better was a childish measurement, like asking whether a wound enjoyed its bandage. But the page was no longer blank. Its emptiness had been broken without surrendering anything immediately useful. That seemed, if not safe, then survivable.
+
+The call continued. He could tell when Marian was fully awake because Madeline began answering in shorter, steadier pieces. Time. Injuries. Whether breathing changed. Whether there were weapons in the room. Whether Everett had spoken clearly. Whether Madeline felt safe remaining in the house until someone arrived. The words traveled upward through plaster and joists and the old domestic dust between floors. Everett arranged each answer into the file it would become. The file would become a call note, the note would become an incident report, the incident report would become a fact in the morning hearing, and the fact would sit among other facts wearing no sign to show which ones had been born from sleep.
+
+At the end Madeline said, “Bring coffee if you’re pretending this is morning.”
+
+A pause.
+
+“No, that wasn’t a joke. It was a supply request.”
+
+She hung up.
+
+The house changed after the call, not visibly, but in the way a room changed when someone had been sent for. Everett remained on the hallway floor with the notebook in his lap. Madeline stayed downstairs longer than necessary. He heard water run. A cabinet open. The scrape of a chair at the kitchen table, then no movement for a while. He did not imagine her crying. He did not allow himself to imagine it. Adults were entitled to their own rooms when they had them.
 
 A car door shut outside at 6:31. Not a slam. Marian, probably. Or a deputy told not to frighten the neighbors and therefore making every movement resemble secrecy. Walter began barking before the knock came. He barked with renewed ideological conviction, hurling himself against whatever morning government had approached the street. Madeline crossed to the front door. The porch light clicked above her, faithful to its defect.
 
@@ -288,41 +506,65 @@ Everett stood and went to the top of the stairs.
 
 From there he could see the front hall, the kitchen doorway, Madeline’s untied boots, her hand on the knob. She looked up at him before opening the door. The mark on her throat had darkened slightly, no longer red but beginning to blue at the edges. He forced himself to look at it and not away.
 
-“I wrote something in the notebook,” he said.
+“I used the page,” he said.
 
-Madeline’s face changed as if he had handed her an object too fragile to name. “Okay.”
+Madeline’s face changed as if he had handed her an object too fragile to name. “Keep it, then.”
 
-He let that one pass.
+“It’s not private if it becomes evidence.”
+
+“Then don’t hand it over.”
+
+“You’ll tell them?”
+
+“That you wrote? Not unless you do.”
+
+He believed she meant it. Meaning it did not guarantee she could keep it. He held the notebook against his side anyway.
 
 She opened the door. Morning entered first, gray and wet and smelling faintly of asphalt. Marian stood on the porch in yesterday’s cardigan under a raincoat, hair pinned badly, a paper cup of coffee in one hand and a county phone in the other. Behind her, at the curb, a deputy leaned against an unmarked sedan with both arms folded, trying to look like a man present by coincidence. He failed.
 
 Marian looked at Madeline’s throat. Then at Everett on the stairs. She did not soften her face for him. She did not harden it either. That restraint seemed to cost her something.
 
-“Everett,” she said. “Come down slowly, please.”
+“Stay there a second,” Marian said.
 
-He did.
+Everett stopped with one hand on the banister.
+
+Madeline remained beside the door. “He can hear you.”
+
+“I know.”
+
+“Then don’t talk like he’s evidence already.”
+
+Marian’s eyes went briefly to the deputy. “He’s staying outside.”
+
+“Outside is where the car is.”
+
+“Yes.”
+
+“And the radio.”
+
+Marian looked back at Everett. “The radio stays outside too.”
+
+Everett descended.
 
 Each stair gave under his weight with its own small complaint. Madeline stepped aside to give him the hall. Marian remained at the threshold, not entering until he reached the bottom, which told him she had thought about doors before knocking. The porch light clicked above all of them. Nine seconds. Click. The sound marked the space between instruction and obedience, between danger and care, between a house and the agencies that could enter it.
 
-Marian said, “We’re going to talk in the kitchen first. Then decide what happens next.”
+Marian said, “Kitchen. Door open. No one touches anyone.”
 
-“The deputy decides?” Everett asked.
+“Those are three decisions,” Everett said.
 
-“No.”
+“For now.”
 
-“The judge?”
+“Who made them?”
 
-“Eventually. Not in the next five minutes.”
+“I did.”
 
-“Who, then?”
+“With authority?”
 
-Marian glanced at Madeline, then back at him. “For the next five minutes? We do.”
+“With exhaustion.”
 
-That was almost certainly false in any durable sense. The county had forms already hungry for the morning. The deputy had policy. Madeline had liability. Marian had supervisors and laws and the tired authority of people who carried too many emergencies in one purse. Everett had a body that could not yet be trusted in sleep. All of them stood inside forces larger than the kitchen, larger than the house, larger than the kindness anyone could perform before breakfast.
+He looked at her. That was not the answer an institution should give. It was better for being worse.
 
-Still, Marian stepped inside and wiped her shoes on the mat.
-
-Madeline shut the door softly behind her.
+Madeline shut the door softly behind Marian.
 
 The three of them went to the kitchen, where the cinnamon rolls remained untouched in foil and the coffee had gone bitter in the pot. Everett sat where he had sat the night before. Marian took the chair nearest the door. Madeline stayed standing for a moment, then seemed to remember she lived there and sat too. No one prayed. No one called the nightmare by another name. The porch light continued to click over the threshold, cheap and broken and oddly faithful, counting not time exactly, but the intervals in which nothing worse happened.
 
