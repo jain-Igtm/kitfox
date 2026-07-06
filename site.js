@@ -43,6 +43,13 @@ const collections = {
         kicker: "Everett / Story Three",
         title: "Madeline’s Porch",
         summary: "Madeline’s first night with Everett, where kindness has to move carefully."
+      },
+      "4": {
+        path: "stories/everett/04-the-night-room.md",
+        number: "04",
+        kicker: "Everett / Story Four",
+        title: "The Night Room",
+        summary: "The first morning in Madeline’s house begins with a nightmare the county cannot neatly categorize."
       }
     }
   }
